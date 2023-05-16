@@ -1,0 +1,635 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http:\/\/jsonapi.org\/format\/1.0\/"
+        }
+      }
+    }
+  },
+  "data": [
+    {
+      "type": "taxonomy_term--amministrazione",
+      "id": "205c47c7-2bee-4a0b-a5ad-1e04eacb75db",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/205c47c7-2bee-4a0b-a5ad-1e04eacb75db?resourceVersion=id%3A202"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 202,
+        "drupal_internal__revision_id": 202,
+        "langcode": "it",
+        "revision_created": "2022-05-19T12:37:10+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Organi di governo",
+        "description": {
+          "value": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E\r\n",
+          "format": "basic_html",
+          "processed": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E"
+        },
+        "weight": 0,
+        "changed": "2023-01-20T00:52:40+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/amministrazione\/organi-di-governo",
+          "pid": 202,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "afdc14e2-0fb8-489f-8ede-5c7a6c2c96ab",
+            "meta": {
+              "drupal_internal__target_id": "amministrazione"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/205c47c7-2bee-4a0b-a5ad-1e04eacb75db\/vid?resourceVersion=id%3A202"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/205c47c7-2bee-4a0b-a5ad-1e04eacb75db\/relationships\/vid?resourceVersion=id%3A202"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/205c47c7-2bee-4a0b-a5ad-1e04eacb75db\/revision_user?resourceVersion=id%3A202"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/205c47c7-2bee-4a0b-a5ad-1e04eacb75db\/relationships\/revision_user?resourceVersion=id%3A202"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--amministrazione",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/205c47c7-2bee-4a0b-a5ad-1e04eacb75db\/parent?resourceVersion=id%3A202"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/205c47c7-2bee-4a0b-a5ad-1e04eacb75db\/relationships\/parent?resourceVersion=id%3A202"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--amministrazione",
+      "id": "44afd905-cdc0-4c10-997d-4e0eba7ab522",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/44afd905-cdc0-4c10-997d-4e0eba7ab522?resourceVersion=id%3A205"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 205,
+        "drupal_internal__revision_id": 205,
+        "langcode": "it",
+        "revision_created": "2022-05-19T12:37:19+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Aree amministrative",
+        "description": {
+          "value": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E\r\n",
+          "format": "basic_html",
+          "processed": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E"
+        },
+        "weight": 0,
+        "changed": "2023-01-20T00:52:31+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/amministrazione\/aree-amministrative",
+          "pid": 205,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "afdc14e2-0fb8-489f-8ede-5c7a6c2c96ab",
+            "meta": {
+              "drupal_internal__target_id": "amministrazione"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/44afd905-cdc0-4c10-997d-4e0eba7ab522\/vid?resourceVersion=id%3A205"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/44afd905-cdc0-4c10-997d-4e0eba7ab522\/relationships\/vid?resourceVersion=id%3A205"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/44afd905-cdc0-4c10-997d-4e0eba7ab522\/revision_user?resourceVersion=id%3A205"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/44afd905-cdc0-4c10-997d-4e0eba7ab522\/relationships\/revision_user?resourceVersion=id%3A205"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--amministrazione",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/44afd905-cdc0-4c10-997d-4e0eba7ab522\/parent?resourceVersion=id%3A205"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/44afd905-cdc0-4c10-997d-4e0eba7ab522\/relationships\/parent?resourceVersion=id%3A205"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--amministrazione",
+      "id": "863da66a-1cd0-4152-babe-852779c81a87",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/863da66a-1cd0-4152-babe-852779c81a87?resourceVersion=id%3A206"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 206,
+        "drupal_internal__revision_id": 206,
+        "langcode": "it",
+        "revision_created": "2022-05-19T12:37:24+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Uffici",
+        "description": {
+          "value": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E\r\n",
+          "format": "basic_html",
+          "processed": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E"
+        },
+        "weight": 0,
+        "changed": "2023-01-20T00:52:50+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/amministrazione\/uffici",
+          "pid": 206,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "afdc14e2-0fb8-489f-8ede-5c7a6c2c96ab",
+            "meta": {
+              "drupal_internal__target_id": "amministrazione"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/863da66a-1cd0-4152-babe-852779c81a87\/vid?resourceVersion=id%3A206"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/863da66a-1cd0-4152-babe-852779c81a87\/relationships\/vid?resourceVersion=id%3A206"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/863da66a-1cd0-4152-babe-852779c81a87\/revision_user?resourceVersion=id%3A206"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/863da66a-1cd0-4152-babe-852779c81a87\/relationships\/revision_user?resourceVersion=id%3A206"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--amministrazione",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/863da66a-1cd0-4152-babe-852779c81a87\/parent?resourceVersion=id%3A206"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/863da66a-1cd0-4152-babe-852779c81a87\/relationships\/parent?resourceVersion=id%3A206"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--amministrazione",
+      "id": "124f2b8c-9ac8-4891-9bdf-f3f4387fca0b",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/124f2b8c-9ac8-4891-9bdf-f3f4387fca0b?resourceVersion=id%3A207"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 207,
+        "drupal_internal__revision_id": 207,
+        "langcode": "it",
+        "revision_created": "2022-05-19T12:37:35+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Enti e fondazioni",
+        "description": {
+          "value": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E\r\n",
+          "format": "basic_html",
+          "processed": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E"
+        },
+        "weight": 0,
+        "changed": "2023-01-20T00:52:34+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/amministrazione\/enti-e-fondazioni",
+          "pid": 207,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "afdc14e2-0fb8-489f-8ede-5c7a6c2c96ab",
+            "meta": {
+              "drupal_internal__target_id": "amministrazione"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/124f2b8c-9ac8-4891-9bdf-f3f4387fca0b\/vid?resourceVersion=id%3A207"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/124f2b8c-9ac8-4891-9bdf-f3f4387fca0b\/relationships\/vid?resourceVersion=id%3A207"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/124f2b8c-9ac8-4891-9bdf-f3f4387fca0b\/revision_user?resourceVersion=id%3A207"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/124f2b8c-9ac8-4891-9bdf-f3f4387fca0b\/relationships\/revision_user?resourceVersion=id%3A207"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--amministrazione",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/124f2b8c-9ac8-4891-9bdf-f3f4387fca0b\/parent?resourceVersion=id%3A207"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/124f2b8c-9ac8-4891-9bdf-f3f4387fca0b\/relationships\/parent?resourceVersion=id%3A207"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--amministrazione",
+      "id": "7aa53946-1f4a-40b6-87fd-19e30a301304",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/7aa53946-1f4a-40b6-87fd-19e30a301304?resourceVersion=id%3A208"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 208,
+        "drupal_internal__revision_id": 208,
+        "langcode": "it",
+        "revision_created": "2022-05-19T12:37:40+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Politici",
+        "description": {
+          "value": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E\r\n",
+          "format": "basic_html",
+          "processed": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E"
+        },
+        "weight": 0,
+        "changed": "2023-01-20T00:52:46+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/amministrazione\/politici",
+          "pid": 208,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "afdc14e2-0fb8-489f-8ede-5c7a6c2c96ab",
+            "meta": {
+              "drupal_internal__target_id": "amministrazione"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/7aa53946-1f4a-40b6-87fd-19e30a301304\/vid?resourceVersion=id%3A208"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/7aa53946-1f4a-40b6-87fd-19e30a301304\/relationships\/vid?resourceVersion=id%3A208"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/7aa53946-1f4a-40b6-87fd-19e30a301304\/revision_user?resourceVersion=id%3A208"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/7aa53946-1f4a-40b6-87fd-19e30a301304\/relationships\/revision_user?resourceVersion=id%3A208"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--amministrazione",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/7aa53946-1f4a-40b6-87fd-19e30a301304\/parent?resourceVersion=id%3A208"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/7aa53946-1f4a-40b6-87fd-19e30a301304\/relationships\/parent?resourceVersion=id%3A208"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--amministrazione",
+      "id": "0ed4f3a2-8aba-410f-807b-3c677c53854e",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/0ed4f3a2-8aba-410f-807b-3c677c53854e?resourceVersion=id%3A209"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 209,
+        "drupal_internal__revision_id": 209,
+        "langcode": "it",
+        "revision_created": "2022-05-19T12:37:47+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Personale amministrativo\/Funzioni amministrativi",
+        "description": {
+          "value": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E\r\n",
+          "format": "basic_html",
+          "processed": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E"
+        },
+        "weight": 0,
+        "changed": "2023-01-20T00:52:43+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/amministrazione\/personale-amministrativofunzioni-amministrativi",
+          "pid": 209,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "afdc14e2-0fb8-489f-8ede-5c7a6c2c96ab",
+            "meta": {
+              "drupal_internal__target_id": "amministrazione"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/0ed4f3a2-8aba-410f-807b-3c677c53854e\/vid?resourceVersion=id%3A209"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/0ed4f3a2-8aba-410f-807b-3c677c53854e\/relationships\/vid?resourceVersion=id%3A209"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/0ed4f3a2-8aba-410f-807b-3c677c53854e\/revision_user?resourceVersion=id%3A209"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/0ed4f3a2-8aba-410f-807b-3c677c53854e\/relationships\/revision_user?resourceVersion=id%3A209"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--amministrazione",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/0ed4f3a2-8aba-410f-807b-3c677c53854e\/parent?resourceVersion=id%3A209"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/0ed4f3a2-8aba-410f-807b-3c677c53854e\/relationships\/parent?resourceVersion=id%3A209"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--amministrazione",
+      "id": "62748f0c-3bcc-434c-8269-212a21a3e96d",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/62748f0c-3bcc-434c-8269-212a21a3e96d?resourceVersion=id%3A210"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 210,
+        "drupal_internal__revision_id": 210,
+        "langcode": "it",
+        "revision_created": "2022-05-19T12:37:55+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Luoghi",
+        "description": {
+          "value": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E\r\n",
+          "format": "basic_html",
+          "processed": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E"
+        },
+        "weight": 0,
+        "changed": "2023-01-20T00:52:37+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/amministrazione\/luoghi",
+          "pid": 210,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "afdc14e2-0fb8-489f-8ede-5c7a6c2c96ab",
+            "meta": {
+              "drupal_internal__target_id": "amministrazione"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/62748f0c-3bcc-434c-8269-212a21a3e96d\/vid?resourceVersion=id%3A210"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/62748f0c-3bcc-434c-8269-212a21a3e96d\/relationships\/vid?resourceVersion=id%3A210"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/62748f0c-3bcc-434c-8269-212a21a3e96d\/revision_user?resourceVersion=id%3A210"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/62748f0c-3bcc-434c-8269-212a21a3e96d\/relationships\/revision_user?resourceVersion=id%3A210"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--amministrazione",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/62748f0c-3bcc-434c-8269-212a21a3e96d\/parent?resourceVersion=id%3A210"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/62748f0c-3bcc-434c-8269-212a21a3e96d\/relationships\/parent?resourceVersion=id%3A210"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "links": {
+    "self": {
+      "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione"
+    }
+  }
+}
