@@ -27,12 +27,12 @@
         "status": true,
         "name": "Organi di governo",
         "description": {
-          "value": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E\r\n",
+          "value": "Le informazioni sulla Giunta e il Consiglio comunale, incluse le convocazioni, le registrazioni delle sedute e i verbali.",
           "format": "basic_html",
-          "processed": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E"
+          "processed": "Le informazioni sulla Giunta e il Consiglio comunale, incluse le convocazioni, le registrazioni delle sedute e i verbali."
         },
         "weight": 0,
-        "changed": "2023-01-20T00:52:40+00:00",
+        "changed": "2023-06-14T13:37:25+00:00",
         "default_langcode": true,
         "revision_translation_affected": true,
         "path": {
@@ -203,12 +203,12 @@
         "status": true,
         "name": "Uffici",
         "description": {
-          "value": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E\r\n",
+          "value": "Le informazioni e i contatti degli Uffici di Citt\u00e0, gli uffici aperti al pubblico e gli uffici assistenziali.",
           "format": "basic_html",
-          "processed": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E"
+          "processed": "Le informazioni e i contatti degli Uffici di Citt\u00e0, gli uffici aperti al pubblico e gli uffici assistenziali."
         },
         "weight": 0,
-        "changed": "2023-01-20T00:52:50+00:00",
+        "changed": "2023-06-14T13:38:34+00:00",
         "default_langcode": true,
         "revision_translation_affected": true,
         "path": {
@@ -291,12 +291,12 @@
         "status": true,
         "name": "Enti e fondazioni",
         "description": {
-          "value": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E\r\n",
+          "value": "I consorzi, gli enti e le societ\u00e0 partecipate di cui il Comune fa parte per rappresentare al meglio gli interessi della comunit\u00e0.",
           "format": "basic_html",
-          "processed": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E"
+          "processed": "I consorzi, gli enti e le societ\u00e0 partecipate di cui il Comune fa parte per rappresentare al meglio gli interessi della comunit\u00e0."
         },
         "weight": 0,
-        "changed": "2023-01-20T00:52:34+00:00",
+        "changed": "2023-06-14T13:35:59+00:00",
         "default_langcode": true,
         "revision_translation_affected": true,
         "path": {
@@ -379,12 +379,12 @@
         "status": true,
         "name": "Politici",
         "description": {
-          "value": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E\r\n",
+          "value": "Tutti i rappresentanti dei cittadini che compongono gli organi di indirizzo politico del Comune.",
           "format": "basic_html",
-          "processed": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E"
+          "processed": "Tutti i rappresentanti dei cittadini che compongono gli organi di indirizzo politico del Comune."
         },
         "weight": 0,
-        "changed": "2023-01-20T00:52:46+00:00",
+        "changed": "2023-06-14T13:38:14+00:00",
         "default_langcode": true,
         "revision_translation_affected": true,
         "path": {
@@ -465,18 +465,18 @@
         "revision_created": "2022-05-19T12:37:47+00:00",
         "revision_log_message": null,
         "status": true,
-        "name": "Personale amministrativo\/Funzioni amministrativi",
+        "name": "Personale amministrativo",
         "description": {
-          "value": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E\r\n",
+          "value": "Personale da contattare per informazioni e supporto ai servizi erogati dagli uffici.",
           "format": "basic_html",
-          "processed": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E"
+          "processed": "Personale da contattare per informazioni e supporto ai servizi erogati dagli uffici."
         },
         "weight": 0,
-        "changed": "2023-01-20T00:52:43+00:00",
+        "changed": "2023-06-14T13:37:54+00:00",
         "default_langcode": true,
         "revision_translation_affected": true,
         "path": {
-          "alias": "\/amministrazione\/personale-amministrativofunzioni-amministrativi",
+          "alias": "\/amministrazione\/personale-amministrativo",
           "pid": 209,
           "langcode": "it"
         }
@@ -540,32 +540,32 @@
     },
     {
       "type": "taxonomy_term--amministrazione",
-      "id": "62748f0c-3bcc-434c-8269-212a21a3e96d",
+      "id": "487e9525-2ef0-4edc-8e10-4f1f7a5af762",
       "links": {
         "self": {
-          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/62748f0c-3bcc-434c-8269-212a21a3e96d?resourceVersion=id%3A210"
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/487e9525-2ef0-4edc-8e10-4f1f7a5af762?resourceVersion=id%3A429"
         }
       },
       "attributes": {
-        "drupal_internal__tid": 210,
-        "drupal_internal__revision_id": 210,
+        "drupal_internal__tid": 429,
+        "drupal_internal__revision_id": 429,
         "langcode": "it",
-        "revision_created": "2022-05-19T12:37:55+00:00",
+        "revision_created": "2023-06-14T13:36:26+00:00",
         "revision_log_message": null,
         "status": true,
-        "name": "Luoghi",
+        "name": "Documenti e dati",
         "description": {
-          "value": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E\r\n",
+          "value": "Bandi di concorso, avvisi, graduatorie, statistiche e documenti pubblici.",
           "format": "basic_html",
-          "processed": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E"
+          "processed": "Bandi di concorso, avvisi, graduatorie, statistiche e documenti pubblici."
         },
         "weight": 0,
-        "changed": "2023-01-20T00:52:37+00:00",
+        "changed": "2023-06-14T13:36:26+00:00",
         "default_langcode": true,
         "revision_translation_affected": true,
         "path": {
-          "alias": "\/amministrazione\/luoghi",
-          "pid": 210,
+          "alias": "\/amministrazione\/documenti-e-dati",
+          "pid": 450,
           "langcode": "it"
         }
       },
@@ -580,10 +580,10 @@
           },
           "links": {
             "related": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/62748f0c-3bcc-434c-8269-212a21a3e96d\/vid?resourceVersion=id%3A210"
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/487e9525-2ef0-4edc-8e10-4f1f7a5af762\/vid?resourceVersion=id%3A429"
             },
             "self": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/62748f0c-3bcc-434c-8269-212a21a3e96d\/relationships\/vid?resourceVersion=id%3A210"
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/487e9525-2ef0-4edc-8e10-4f1f7a5af762\/relationships\/vid?resourceVersion=id%3A429"
             }
           }
         },
@@ -591,10 +591,10 @@
           "data": null,
           "links": {
             "related": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/62748f0c-3bcc-434c-8269-212a21a3e96d\/revision_user?resourceVersion=id%3A210"
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/487e9525-2ef0-4edc-8e10-4f1f7a5af762\/revision_user?resourceVersion=id%3A429"
             },
             "self": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/62748f0c-3bcc-434c-8269-212a21a3e96d\/relationships\/revision_user?resourceVersion=id%3A210"
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/487e9525-2ef0-4edc-8e10-4f1f7a5af762\/relationships\/revision_user?resourceVersion=id%3A429"
             }
           }
         },
@@ -617,10 +617,10 @@
           ],
           "links": {
             "related": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/62748f0c-3bcc-434c-8269-212a21a3e96d\/parent?resourceVersion=id%3A210"
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/487e9525-2ef0-4edc-8e10-4f1f7a5af762\/parent?resourceVersion=id%3A429"
             },
             "self": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/62748f0c-3bcc-434c-8269-212a21a3e96d\/relationships\/parent?resourceVersion=id%3A210"
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/amministrazione\/487e9525-2ef0-4edc-8e10-4f1f7a5af762\/relationships\/parent?resourceVersion=id%3A429"
             }
           }
         }
