@@ -1,1 +1,1615 @@
-{"jsonapi":{"version":"1.0","meta":{"links":{"self":{"href":"http:\/\/jsonapi.org\/format\/1.0\/"}}}},"data":[{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"a0752405-4ca6-4a1f-8c75-c7160734a167","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/a0752405-4ca6-4a1f-8c75-c7160734a167?resourceVersion=id%3A255"}},"attributes":{"drupal_internal__tid":255,"drupal_internal__revision_id":255,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Iscrizione Scuola\/Universit\u00e0 e\/o richiesta borsa di studio","description":null,"weight":0,"changed":"2023-01-20T01:21:03+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-delle-persone\/iscrizione-scuolauniversita-eo-richiesta-borsa-di-studio","pid":255,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"8c561d64-c233-44a7-b4c1-1b8e7484c679","meta":{"drupal_internal__target_id":"eventi_della_vita_delle_persone"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/a0752405-4ca6-4a1f-8c75-c7160734a167\/vid?resourceVersion=id%3A255"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/a0752405-4ca6-4a1f-8c75-c7160734a167\/relationships\/vid?resourceVersion=id%3A255"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/a0752405-4ca6-4a1f-8c75-c7160734a167\/revision_user?resourceVersion=id%3A255"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/a0752405-4ca6-4a1f-8c75-c7160734a167\/relationships\/revision_user?resourceVersion=id%3A255"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/a0752405-4ca6-4a1f-8c75-c7160734a167\/parent?resourceVersion=id%3A255"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/a0752405-4ca6-4a1f-8c75-c7160734a167\/relationships\/parent?resourceVersion=id%3A255"}}}}},{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"54e9326c-9cb5-487d-9054-015daa65d79b","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/54e9326c-9cb5-487d-9054-015daa65d79b?resourceVersion=id%3A256"}},"attributes":{"drupal_internal__tid":256,"drupal_internal__revision_id":256,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Invalidit\u00e0","description":null,"weight":0,"changed":"2023-01-20T01:21:01+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-delle-persone\/invalidita","pid":256,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"8c561d64-c233-44a7-b4c1-1b8e7484c679","meta":{"drupal_internal__target_id":"eventi_della_vita_delle_persone"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/54e9326c-9cb5-487d-9054-015daa65d79b\/vid?resourceVersion=id%3A256"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/54e9326c-9cb5-487d-9054-015daa65d79b\/relationships\/vid?resourceVersion=id%3A256"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/54e9326c-9cb5-487d-9054-015daa65d79b\/revision_user?resourceVersion=id%3A256"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/54e9326c-9cb5-487d-9054-015daa65d79b\/relationships\/revision_user?resourceVersion=id%3A256"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/54e9326c-9cb5-487d-9054-015daa65d79b\/parent?resourceVersion=id%3A256"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/54e9326c-9cb5-487d-9054-015daa65d79b\/relationships\/parent?resourceVersion=id%3A256"}}}}},{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"e3e3638c-c9e0-45d7-880c-3556ad16882b","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/e3e3638c-c9e0-45d7-880c-3556ad16882b?resourceVersion=id%3A257"}},"attributes":{"drupal_internal__tid":257,"drupal_internal__revision_id":257,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Ricerca di lavoro, avvio nuovo lavoro, disoccupazione","description":null,"weight":0,"changed":"2023-01-20T01:21:26+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-delle-persone\/ricerca-di-lavoro-avvio-nuovo-lavoro-disoccupazione","pid":257,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"8c561d64-c233-44a7-b4c1-1b8e7484c679","meta":{"drupal_internal__target_id":"eventi_della_vita_delle_persone"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/e3e3638c-c9e0-45d7-880c-3556ad16882b\/vid?resourceVersion=id%3A257"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/e3e3638c-c9e0-45d7-880c-3556ad16882b\/relationships\/vid?resourceVersion=id%3A257"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/e3e3638c-c9e0-45d7-880c-3556ad16882b\/revision_user?resourceVersion=id%3A257"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/e3e3638c-c9e0-45d7-880c-3556ad16882b\/relationships\/revision_user?resourceVersion=id%3A257"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/e3e3638c-c9e0-45d7-880c-3556ad16882b\/parent?resourceVersion=id%3A257"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/e3e3638c-c9e0-45d7-880c-3556ad16882b\/relationships\/parent?resourceVersion=id%3A257"}}}}},{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"6bab676c-7f04-4cc7-8997-ad5f98ef21ee","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6bab676c-7f04-4cc7-8997-ad5f98ef21ee?resourceVersion=id%3A259"}},"attributes":{"drupal_internal__tid":259,"drupal_internal__revision_id":259,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Pensionamento","description":null,"weight":0,"changed":"2023-01-20T01:21:15+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-delle-persone\/pensionamento","pid":259,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"8c561d64-c233-44a7-b4c1-1b8e7484c679","meta":{"drupal_internal__target_id":"eventi_della_vita_delle_persone"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6bab676c-7f04-4cc7-8997-ad5f98ef21ee\/vid?resourceVersion=id%3A259"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6bab676c-7f04-4cc7-8997-ad5f98ef21ee\/relationships\/vid?resourceVersion=id%3A259"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6bab676c-7f04-4cc7-8997-ad5f98ef21ee\/revision_user?resourceVersion=id%3A259"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6bab676c-7f04-4cc7-8997-ad5f98ef21ee\/relationships\/revision_user?resourceVersion=id%3A259"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6bab676c-7f04-4cc7-8997-ad5f98ef21ee\/parent?resourceVersion=id%3A259"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6bab676c-7f04-4cc7-8997-ad5f98ef21ee\/relationships\/parent?resourceVersion=id%3A259"}}}}},{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"9dad7c87-8f31-4353-932c-f0aed66261f3","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9dad7c87-8f31-4353-932c-f0aed66261f3?resourceVersion=id%3A260"}},"attributes":{"drupal_internal__tid":260,"drupal_internal__revision_id":260,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Richiesta o rinnovo patente","description":null,"weight":0,"changed":"2023-01-20T01:21:29+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-delle-persone\/richiesta-o-rinnovo-patente","pid":260,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"8c561d64-c233-44a7-b4c1-1b8e7484c679","meta":{"drupal_internal__target_id":"eventi_della_vita_delle_persone"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9dad7c87-8f31-4353-932c-f0aed66261f3\/vid?resourceVersion=id%3A260"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9dad7c87-8f31-4353-932c-f0aed66261f3\/relationships\/vid?resourceVersion=id%3A260"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9dad7c87-8f31-4353-932c-f0aed66261f3\/revision_user?resourceVersion=id%3A260"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9dad7c87-8f31-4353-932c-f0aed66261f3\/relationships\/revision_user?resourceVersion=id%3A260"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9dad7c87-8f31-4353-932c-f0aed66261f3\/parent?resourceVersion=id%3A260"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9dad7c87-8f31-4353-932c-f0aed66261f3\/relationships\/parent?resourceVersion=id%3A260"}}}}},{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"15d854d9-56b9-4e9a-b7a9-407b332e0b6d","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/15d854d9-56b9-4e9a-b7a9-407b332e0b6d?resourceVersion=id%3A261"}},"attributes":{"drupal_internal__tid":261,"drupal_internal__revision_id":261,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Registrazione o possesso veicolo","description":null,"weight":0,"changed":"2023-01-20T01:21:24+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-delle-persone\/registrazione-o-possesso-veicolo","pid":261,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"8c561d64-c233-44a7-b4c1-1b8e7484c679","meta":{"drupal_internal__target_id":"eventi_della_vita_delle_persone"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/15d854d9-56b9-4e9a-b7a9-407b332e0b6d\/vid?resourceVersion=id%3A261"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/15d854d9-56b9-4e9a-b7a9-407b332e0b6d\/relationships\/vid?resourceVersion=id%3A261"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/15d854d9-56b9-4e9a-b7a9-407b332e0b6d\/revision_user?resourceVersion=id%3A261"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/15d854d9-56b9-4e9a-b7a9-407b332e0b6d\/relationships\/revision_user?resourceVersion=id%3A261"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/15d854d9-56b9-4e9a-b7a9-407b332e0b6d\/parent?resourceVersion=id%3A261"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/15d854d9-56b9-4e9a-b7a9-407b332e0b6d\/relationships\/parent?resourceVersion=id%3A261"}}}}},{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"7387c9cb-5b4a-4c3f-bdc0-06c6d7387dea","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/7387c9cb-5b4a-4c3f-bdc0-06c6d7387dea?resourceVersion=id%3A262"}},"attributes":{"drupal_internal__tid":262,"drupal_internal__revision_id":262,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Accesso al trasporto pubblico","description":null,"weight":0,"changed":"2023-01-20T01:20:44+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-delle-persone\/accesso-al-trasporto-pubblico","pid":262,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"8c561d64-c233-44a7-b4c1-1b8e7484c679","meta":{"drupal_internal__target_id":"eventi_della_vita_delle_persone"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/7387c9cb-5b4a-4c3f-bdc0-06c6d7387dea\/vid?resourceVersion=id%3A262"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/7387c9cb-5b4a-4c3f-bdc0-06c6d7387dea\/relationships\/vid?resourceVersion=id%3A262"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/7387c9cb-5b4a-4c3f-bdc0-06c6d7387dea\/revision_user?resourceVersion=id%3A262"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/7387c9cb-5b4a-4c3f-bdc0-06c6d7387dea\/relationships\/revision_user?resourceVersion=id%3A262"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/7387c9cb-5b4a-4c3f-bdc0-06c6d7387dea\/parent?resourceVersion=id%3A262"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/7387c9cb-5b4a-4c3f-bdc0-06c6d7387dea\/relationships\/parent?resourceVersion=id%3A262"}}}}},{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"cff42849-6716-4b31-9ffe-303364219c1e","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/cff42849-6716-4b31-9ffe-303364219c1e?resourceVersion=id%3A266"}},"attributes":{"drupal_internal__tid":266,"drupal_internal__revision_id":266,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Compravendita\/affitto casa\/edifici\/terreni, costruzione o ristrutturazione casa\/edificio","description":null,"weight":0,"changed":"2023-01-20T01:20:50+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-delle-persone\/compravenditaaffitto-casaedificiterreni-costruzione-o","pid":266,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"8c561d64-c233-44a7-b4c1-1b8e7484c679","meta":{"drupal_internal__target_id":"eventi_della_vita_delle_persone"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/cff42849-6716-4b31-9ffe-303364219c1e\/vid?resourceVersion=id%3A266"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/cff42849-6716-4b31-9ffe-303364219c1e\/relationships\/vid?resourceVersion=id%3A266"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/cff42849-6716-4b31-9ffe-303364219c1e\/revision_user?resourceVersion=id%3A266"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/cff42849-6716-4b31-9ffe-303364219c1e\/relationships\/revision_user?resourceVersion=id%3A266"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/cff42849-6716-4b31-9ffe-303364219c1e\/parent?resourceVersion=id%3A266"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/cff42849-6716-4b31-9ffe-303364219c1e\/relationships\/parent?resourceVersion=id%3A266"}}}}},{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"b8236a64-3362-4730-9ec1-104363bd20d7","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/b8236a64-3362-4730-9ec1-104363bd20d7?resourceVersion=id%3A267"}},"attributes":{"drupal_internal__tid":267,"drupal_internal__revision_id":267,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Cambio di residenza o domicilio","description":null,"weight":0,"changed":"2023-01-20T01:20:47+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-delle-persone\/cambio-di-residenza-o-domicilio","pid":267,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"8c561d64-c233-44a7-b4c1-1b8e7484c679","meta":{"drupal_internal__target_id":"eventi_della_vita_delle_persone"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/b8236a64-3362-4730-9ec1-104363bd20d7\/vid?resourceVersion=id%3A267"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/b8236a64-3362-4730-9ec1-104363bd20d7\/relationships\/vid?resourceVersion=id%3A267"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/b8236a64-3362-4730-9ec1-104363bd20d7\/revision_user?resourceVersion=id%3A267"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/b8236a64-3362-4730-9ec1-104363bd20d7\/relationships\/revision_user?resourceVersion=id%3A267"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/b8236a64-3362-4730-9ec1-104363bd20d7\/parent?resourceVersion=id%3A267"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/b8236a64-3362-4730-9ec1-104363bd20d7\/relationships\/parent?resourceVersion=id%3A267"}}}}},{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"d8292455-b753-4032-8c3b-1d237f8b1961","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/d8292455-b753-4032-8c3b-1d237f8b1961?resourceVersion=id%3A268"}},"attributes":{"drupal_internal__tid":268,"drupal_internal__revision_id":268,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Espatri oper lavoro, studio o pensionamento","description":null,"weight":0,"changed":"2023-01-20T01:20:58+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-delle-persone\/espatri-oper-lavoro-studio-o-pensionamento","pid":268,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"8c561d64-c233-44a7-b4c1-1b8e7484c679","meta":{"drupal_internal__target_id":"eventi_della_vita_delle_persone"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/d8292455-b753-4032-8c3b-1d237f8b1961\/vid?resourceVersion=id%3A268"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/d8292455-b753-4032-8c3b-1d237f8b1961\/relationships\/vid?resourceVersion=id%3A268"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/d8292455-b753-4032-8c3b-1d237f8b1961\/revision_user?resourceVersion=id%3A268"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/d8292455-b753-4032-8c3b-1d237f8b1961\/relationships\/revision_user?resourceVersion=id%3A268"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/d8292455-b753-4032-8c3b-1d237f8b1961\/parent?resourceVersion=id%3A268"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/d8292455-b753-4032-8c3b-1d237f8b1961\/relationships\/parent?resourceVersion=id%3A268"}}}}},{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"6718d859-70b0-48fd-8b62-49e0fa14f764","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6718d859-70b0-48fd-8b62-49e0fa14f764?resourceVersion=id%3A270"}},"attributes":{"drupal_internal__tid":270,"drupal_internal__revision_id":270,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Richiesta passaporto, visto e assistenza viaggi internazionali","description":null,"weight":0,"changed":"2023-01-20T01:21:32+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-delle-persone\/richiesta-passaporto-visto-e-assistenza-viaggi-internazionali","pid":270,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"8c561d64-c233-44a7-b4c1-1b8e7484c679","meta":{"drupal_internal__target_id":"eventi_della_vita_delle_persone"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6718d859-70b0-48fd-8b62-49e0fa14f764\/vid?resourceVersion=id%3A270"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6718d859-70b0-48fd-8b62-49e0fa14f764\/relationships\/vid?resourceVersion=id%3A270"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6718d859-70b0-48fd-8b62-49e0fa14f764\/revision_user?resourceVersion=id%3A270"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6718d859-70b0-48fd-8b62-49e0fa14f764\/relationships\/revision_user?resourceVersion=id%3A270"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6718d859-70b0-48fd-8b62-49e0fa14f764\/parent?resourceVersion=id%3A270"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6718d859-70b0-48fd-8b62-49e0fa14f764\/relationships\/parent?resourceVersion=id%3A270"}}}}},{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"6e1b58f0-c64a-41d4-ba4e-da2a3932d4af","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6e1b58f0-c64a-41d4-ba4e-da2a3932d4af?resourceVersion=id%3A271"}},"attributes":{"drupal_internal__tid":271,"drupal_internal__revision_id":271,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Nascita di un bambino, richiesta adozioni","description":null,"weight":0,"changed":"2023-01-20T01:21:12+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-delle-persone\/nascita-di-un-bambino-richiesta-adozioni","pid":271,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"8c561d64-c233-44a7-b4c1-1b8e7484c679","meta":{"drupal_internal__target_id":"eventi_della_vita_delle_persone"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6e1b58f0-c64a-41d4-ba4e-da2a3932d4af\/vid?resourceVersion=id%3A271"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6e1b58f0-c64a-41d4-ba4e-da2a3932d4af\/relationships\/vid?resourceVersion=id%3A271"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6e1b58f0-c64a-41d4-ba4e-da2a3932d4af\/revision_user?resourceVersion=id%3A271"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6e1b58f0-c64a-41d4-ba4e-da2a3932d4af\/relationships\/revision_user?resourceVersion=id%3A271"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6e1b58f0-c64a-41d4-ba4e-da2a3932d4af\/parent?resourceVersion=id%3A271"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6e1b58f0-c64a-41d4-ba4e-da2a3932d4af\/relationships\/parent?resourceVersion=id%3A271"}}}}},{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"28db60db-cd2c-4cc9-9112-7eeacbb0df31","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/28db60db-cd2c-4cc9-9112-7eeacbb0df31?resourceVersion=id%3A272"}},"attributes":{"drupal_internal__tid":272,"drupal_internal__revision_id":272,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Matrimonio e\/o cambio stato civile","description":null,"weight":0,"changed":"2023-01-20T01:21:06+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-delle-persone\/matrimonio-eo-cambio-stato-civile","pid":272,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"8c561d64-c233-44a7-b4c1-1b8e7484c679","meta":{"drupal_internal__target_id":"eventi_della_vita_delle_persone"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/28db60db-cd2c-4cc9-9112-7eeacbb0df31\/vid?resourceVersion=id%3A272"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/28db60db-cd2c-4cc9-9112-7eeacbb0df31\/relationships\/vid?resourceVersion=id%3A272"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/28db60db-cd2c-4cc9-9112-7eeacbb0df31\/revision_user?resourceVersion=id%3A272"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/28db60db-cd2c-4cc9-9112-7eeacbb0df31\/relationships\/revision_user?resourceVersion=id%3A272"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/28db60db-cd2c-4cc9-9112-7eeacbb0df31\/parent?resourceVersion=id%3A272"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/28db60db-cd2c-4cc9-9112-7eeacbb0df31\/relationships\/parent?resourceVersion=id%3A272"}}}}},{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"4bd031e8-7576-4369-b6a4-1413c0a23b87","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/4bd031e8-7576-4369-b6a4-1413c0a23b87?resourceVersion=id%3A273"}},"attributes":{"drupal_internal__tid":273,"drupal_internal__revision_id":273,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Morte ed eredit\u00e0","description":null,"weight":0,"changed":"2023-01-20T01:21:09+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-delle-persone\/morte-ed-eredita","pid":273,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"8c561d64-c233-44a7-b4c1-1b8e7484c679","meta":{"drupal_internal__target_id":"eventi_della_vita_delle_persone"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/4bd031e8-7576-4369-b6a4-1413c0a23b87\/vid?resourceVersion=id%3A273"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/4bd031e8-7576-4369-b6a4-1413c0a23b87\/relationships\/vid?resourceVersion=id%3A273"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/4bd031e8-7576-4369-b6a4-1413c0a23b87\/revision_user?resourceVersion=id%3A273"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/4bd031e8-7576-4369-b6a4-1413c0a23b87\/relationships\/revision_user?resourceVersion=id%3A273"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/4bd031e8-7576-4369-b6a4-1413c0a23b87\/parent?resourceVersion=id%3A273"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/4bd031e8-7576-4369-b6a4-1413c0a23b87\/relationships\/parent?resourceVersion=id%3A273"}}}}},{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"68e55c8b-88e4-4634-8293-70404a3f1734","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/68e55c8b-88e4-4634-8293-70404a3f1734?resourceVersion=id%3A274"}},"attributes":{"drupal_internal__tid":274,"drupal_internal__revision_id":274,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Prenotazione e disdetta visite\/esami","description":null,"weight":0,"changed":"2023-01-20T01:21:21+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-delle-persone\/prenotazione-e-disdetta-visiteesami","pid":274,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"8c561d64-c233-44a7-b4c1-1b8e7484c679","meta":{"drupal_internal__target_id":"eventi_della_vita_delle_persone"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/68e55c8b-88e4-4634-8293-70404a3f1734\/vid?resourceVersion=id%3A274"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/68e55c8b-88e4-4634-8293-70404a3f1734\/relationships\/vid?resourceVersion=id%3A274"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/68e55c8b-88e4-4634-8293-70404a3f1734\/revision_user?resourceVersion=id%3A274"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/68e55c8b-88e4-4634-8293-70404a3f1734\/relationships\/revision_user?resourceVersion=id%3A274"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/68e55c8b-88e4-4634-8293-70404a3f1734\/parent?resourceVersion=id%3A274"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/68e55c8b-88e4-4634-8293-70404a3f1734\/relationships\/parent?resourceVersion=id%3A274"}}}}},{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"023c86f7-aa13-421f-aef8-6a3fb98f48bc","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/023c86f7-aa13-421f-aef8-6a3fb98f48bc?resourceVersion=id%3A275"}},"attributes":{"drupal_internal__tid":275,"drupal_internal__revision_id":275,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Denuncia crimini","description":null,"weight":0,"changed":"2023-01-20T01:20:53+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-delle-persone\/denuncia-crimini","pid":275,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"8c561d64-c233-44a7-b4c1-1b8e7484c679","meta":{"drupal_internal__target_id":"eventi_della_vita_delle_persone"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/023c86f7-aa13-421f-aef8-6a3fb98f48bc\/vid?resourceVersion=id%3A275"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/023c86f7-aa13-421f-aef8-6a3fb98f48bc\/relationships\/vid?resourceVersion=id%3A275"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/023c86f7-aa13-421f-aef8-6a3fb98f48bc\/revision_user?resourceVersion=id%3A275"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/023c86f7-aa13-421f-aef8-6a3fb98f48bc\/relationships\/revision_user?resourceVersion=id%3A275"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/023c86f7-aa13-421f-aef8-6a3fb98f48bc\/parent?resourceVersion=id%3A275"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/023c86f7-aa13-421f-aef8-6a3fb98f48bc\/relationships\/parent?resourceVersion=id%3A275"}}}}},{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"9ff09623-398c-4517-b030-ee5de208cfe2","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9ff09623-398c-4517-b030-ee5de208cfe2?resourceVersion=id%3A276"}},"attributes":{"drupal_internal__tid":276,"drupal_internal__revision_id":276,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Dichiarazione dei redditi, versamento e riscossione tributi\/imposte e contributi","description":null,"weight":0,"changed":"2023-01-20T01:20:55+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-delle-persone\/dichiarazione-dei-redditi-versamento-e-riscossione-tributiimposte-e","pid":276,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"8c561d64-c233-44a7-b4c1-1b8e7484c679","meta":{"drupal_internal__target_id":"eventi_della_vita_delle_persone"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9ff09623-398c-4517-b030-ee5de208cfe2\/vid?resourceVersion=id%3A276"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9ff09623-398c-4517-b030-ee5de208cfe2\/relationships\/vid?resourceVersion=id%3A276"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9ff09623-398c-4517-b030-ee5de208cfe2\/revision_user?resourceVersion=id%3A276"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9ff09623-398c-4517-b030-ee5de208cfe2\/relationships\/revision_user?resourceVersion=id%3A276"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9ff09623-398c-4517-b030-ee5de208cfe2\/parent?resourceVersion=id%3A276"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9ff09623-398c-4517-b030-ee5de208cfe2\/relationships\/parent?resourceVersion=id%3A276"}}}}},{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"3e5e6ac5-226d-48d3-92da-de5fdaaf2521","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/3e5e6ac5-226d-48d3-92da-de5fdaaf2521?resourceVersion=id%3A279"}},"attributes":{"drupal_internal__tid":279,"drupal_internal__revision_id":279,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Accesso ai luoghi della cultura","description":null,"weight":0,"changed":"2023-01-20T01:20:41+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-delle-persone\/accesso-ai-luoghi-della-cultura","pid":279,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"8c561d64-c233-44a7-b4c1-1b8e7484c679","meta":{"drupal_internal__target_id":"eventi_della_vita_delle_persone"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/3e5e6ac5-226d-48d3-92da-de5fdaaf2521\/vid?resourceVersion=id%3A279"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/3e5e6ac5-226d-48d3-92da-de5fdaaf2521\/relationships\/vid?resourceVersion=id%3A279"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/3e5e6ac5-226d-48d3-92da-de5fdaaf2521\/revision_user?resourceVersion=id%3A279"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/3e5e6ac5-226d-48d3-92da-de5fdaaf2521\/relationships\/revision_user?resourceVersion=id%3A279"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/3e5e6ac5-226d-48d3-92da-de5fdaaf2521\/parent?resourceVersion=id%3A279"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/3e5e6ac5-226d-48d3-92da-de5fdaaf2521\/relationships\/parent?resourceVersion=id%3A279"}}}}},{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"308d2dcb-9f1a-4b04-a1af-8e91f696135e","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/308d2dcb-9f1a-4b04-a1af-8e91f696135e?resourceVersion=id%3A281"}},"attributes":{"drupal_internal__tid":281,"drupal_internal__revision_id":281,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Possesso, cura, smarrimento animale da compagnia","description":null,"weight":0,"changed":"2023-01-20T01:21:18+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-delle-persone\/possesso-cura-smarrimento-animale-da-compagnia","pid":281,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"8c561d64-c233-44a7-b4c1-1b8e7484c679","meta":{"drupal_internal__target_id":"eventi_della_vita_delle_persone"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/308d2dcb-9f1a-4b04-a1af-8e91f696135e\/vid?resourceVersion=id%3A281"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/308d2dcb-9f1a-4b04-a1af-8e91f696135e\/relationships\/vid?resourceVersion=id%3A281"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/308d2dcb-9f1a-4b04-a1af-8e91f696135e\/revision_user?resourceVersion=id%3A281"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/308d2dcb-9f1a-4b04-a1af-8e91f696135e\/relationships\/revision_user?resourceVersion=id%3A281"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_delle_persone","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/308d2dcb-9f1a-4b04-a1af-8e91f696135e\/parent?resourceVersion=id%3A281"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/308d2dcb-9f1a-4b04-a1af-8e91f696135e\/relationships\/parent?resourceVersion=id%3A281"}}}}}],"links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone"}}}
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http:\/\/jsonapi.org\/format\/1.0\/"
+        }
+      }
+    }
+  },
+  "data": [
+    {
+      "type": "taxonomy_term--eventi_della_vita_delle_persone",
+      "id": "a0752405-4ca6-4a1f-8c75-c7160734a167",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/a0752405-4ca6-4a1f-8c75-c7160734a167?resourceVersion=id%3A255"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 255,
+        "drupal_internal__revision_id": 255,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Iscrizione Scuola\/Universit\u00e0 e\/o richiesta borsa di studio",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:21:03+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-delle-persone\/iscrizione-scuolauniversita-eo-richiesta-borsa-di-studio",
+          "pid": 255,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "8c561d64-c233-44a7-b4c1-1b8e7484c679",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_delle_persone"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/a0752405-4ca6-4a1f-8c75-c7160734a167\/vid?resourceVersion=id%3A255"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/a0752405-4ca6-4a1f-8c75-c7160734a167\/relationships\/vid?resourceVersion=id%3A255"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/a0752405-4ca6-4a1f-8c75-c7160734a167\/revision_user?resourceVersion=id%3A255"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/a0752405-4ca6-4a1f-8c75-c7160734a167\/relationships\/revision_user?resourceVersion=id%3A255"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_delle_persone",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/a0752405-4ca6-4a1f-8c75-c7160734a167\/parent?resourceVersion=id%3A255"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/a0752405-4ca6-4a1f-8c75-c7160734a167\/relationships\/parent?resourceVersion=id%3A255"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_delle_persone",
+      "id": "54e9326c-9cb5-487d-9054-015daa65d79b",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/54e9326c-9cb5-487d-9054-015daa65d79b?resourceVersion=id%3A256"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 256,
+        "drupal_internal__revision_id": 256,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Invalidit\u00e0",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:21:01+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-delle-persone\/invalidita",
+          "pid": 256,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "8c561d64-c233-44a7-b4c1-1b8e7484c679",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_delle_persone"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/54e9326c-9cb5-487d-9054-015daa65d79b\/vid?resourceVersion=id%3A256"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/54e9326c-9cb5-487d-9054-015daa65d79b\/relationships\/vid?resourceVersion=id%3A256"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/54e9326c-9cb5-487d-9054-015daa65d79b\/revision_user?resourceVersion=id%3A256"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/54e9326c-9cb5-487d-9054-015daa65d79b\/relationships\/revision_user?resourceVersion=id%3A256"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_delle_persone",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/54e9326c-9cb5-487d-9054-015daa65d79b\/parent?resourceVersion=id%3A256"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/54e9326c-9cb5-487d-9054-015daa65d79b\/relationships\/parent?resourceVersion=id%3A256"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_delle_persone",
+      "id": "e3e3638c-c9e0-45d7-880c-3556ad16882b",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/e3e3638c-c9e0-45d7-880c-3556ad16882b?resourceVersion=id%3A257"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 257,
+        "drupal_internal__revision_id": 257,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Ricerca di lavoro, avvio nuovo lavoro, disoccupazione",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:21:26+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-delle-persone\/ricerca-di-lavoro-avvio-nuovo-lavoro-disoccupazione",
+          "pid": 257,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "8c561d64-c233-44a7-b4c1-1b8e7484c679",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_delle_persone"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/e3e3638c-c9e0-45d7-880c-3556ad16882b\/vid?resourceVersion=id%3A257"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/e3e3638c-c9e0-45d7-880c-3556ad16882b\/relationships\/vid?resourceVersion=id%3A257"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/e3e3638c-c9e0-45d7-880c-3556ad16882b\/revision_user?resourceVersion=id%3A257"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/e3e3638c-c9e0-45d7-880c-3556ad16882b\/relationships\/revision_user?resourceVersion=id%3A257"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_delle_persone",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/e3e3638c-c9e0-45d7-880c-3556ad16882b\/parent?resourceVersion=id%3A257"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/e3e3638c-c9e0-45d7-880c-3556ad16882b\/relationships\/parent?resourceVersion=id%3A257"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_delle_persone",
+      "id": "6bab676c-7f04-4cc7-8997-ad5f98ef21ee",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6bab676c-7f04-4cc7-8997-ad5f98ef21ee?resourceVersion=id%3A259"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 259,
+        "drupal_internal__revision_id": 259,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Pensionamento",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:21:15+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-delle-persone\/pensionamento",
+          "pid": 259,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "8c561d64-c233-44a7-b4c1-1b8e7484c679",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_delle_persone"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6bab676c-7f04-4cc7-8997-ad5f98ef21ee\/vid?resourceVersion=id%3A259"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6bab676c-7f04-4cc7-8997-ad5f98ef21ee\/relationships\/vid?resourceVersion=id%3A259"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6bab676c-7f04-4cc7-8997-ad5f98ef21ee\/revision_user?resourceVersion=id%3A259"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6bab676c-7f04-4cc7-8997-ad5f98ef21ee\/relationships\/revision_user?resourceVersion=id%3A259"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_delle_persone",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6bab676c-7f04-4cc7-8997-ad5f98ef21ee\/parent?resourceVersion=id%3A259"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6bab676c-7f04-4cc7-8997-ad5f98ef21ee\/relationships\/parent?resourceVersion=id%3A259"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_delle_persone",
+      "id": "9dad7c87-8f31-4353-932c-f0aed66261f3",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9dad7c87-8f31-4353-932c-f0aed66261f3?resourceVersion=id%3A260"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 260,
+        "drupal_internal__revision_id": 260,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Richiesta o rinnovo patente",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:21:29+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-delle-persone\/richiesta-o-rinnovo-patente",
+          "pid": 260,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "8c561d64-c233-44a7-b4c1-1b8e7484c679",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_delle_persone"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9dad7c87-8f31-4353-932c-f0aed66261f3\/vid?resourceVersion=id%3A260"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9dad7c87-8f31-4353-932c-f0aed66261f3\/relationships\/vid?resourceVersion=id%3A260"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9dad7c87-8f31-4353-932c-f0aed66261f3\/revision_user?resourceVersion=id%3A260"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9dad7c87-8f31-4353-932c-f0aed66261f3\/relationships\/revision_user?resourceVersion=id%3A260"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_delle_persone",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9dad7c87-8f31-4353-932c-f0aed66261f3\/parent?resourceVersion=id%3A260"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9dad7c87-8f31-4353-932c-f0aed66261f3\/relationships\/parent?resourceVersion=id%3A260"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_delle_persone",
+      "id": "15d854d9-56b9-4e9a-b7a9-407b332e0b6d",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/15d854d9-56b9-4e9a-b7a9-407b332e0b6d?resourceVersion=id%3A261"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 261,
+        "drupal_internal__revision_id": 261,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Registrazione o possesso veicolo",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:21:24+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-delle-persone\/registrazione-o-possesso-veicolo",
+          "pid": 261,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "8c561d64-c233-44a7-b4c1-1b8e7484c679",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_delle_persone"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/15d854d9-56b9-4e9a-b7a9-407b332e0b6d\/vid?resourceVersion=id%3A261"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/15d854d9-56b9-4e9a-b7a9-407b332e0b6d\/relationships\/vid?resourceVersion=id%3A261"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/15d854d9-56b9-4e9a-b7a9-407b332e0b6d\/revision_user?resourceVersion=id%3A261"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/15d854d9-56b9-4e9a-b7a9-407b332e0b6d\/relationships\/revision_user?resourceVersion=id%3A261"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_delle_persone",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/15d854d9-56b9-4e9a-b7a9-407b332e0b6d\/parent?resourceVersion=id%3A261"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/15d854d9-56b9-4e9a-b7a9-407b332e0b6d\/relationships\/parent?resourceVersion=id%3A261"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_delle_persone",
+      "id": "7387c9cb-5b4a-4c3f-bdc0-06c6d7387dea",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/7387c9cb-5b4a-4c3f-bdc0-06c6d7387dea?resourceVersion=id%3A262"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 262,
+        "drupal_internal__revision_id": 262,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Accesso al trasporto pubblico",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:20:44+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-delle-persone\/accesso-al-trasporto-pubblico",
+          "pid": 262,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "8c561d64-c233-44a7-b4c1-1b8e7484c679",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_delle_persone"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/7387c9cb-5b4a-4c3f-bdc0-06c6d7387dea\/vid?resourceVersion=id%3A262"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/7387c9cb-5b4a-4c3f-bdc0-06c6d7387dea\/relationships\/vid?resourceVersion=id%3A262"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/7387c9cb-5b4a-4c3f-bdc0-06c6d7387dea\/revision_user?resourceVersion=id%3A262"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/7387c9cb-5b4a-4c3f-bdc0-06c6d7387dea\/relationships\/revision_user?resourceVersion=id%3A262"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_delle_persone",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/7387c9cb-5b4a-4c3f-bdc0-06c6d7387dea\/parent?resourceVersion=id%3A262"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/7387c9cb-5b4a-4c3f-bdc0-06c6d7387dea\/relationships\/parent?resourceVersion=id%3A262"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_delle_persone",
+      "id": "cff42849-6716-4b31-9ffe-303364219c1e",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/cff42849-6716-4b31-9ffe-303364219c1e?resourceVersion=id%3A266"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 266,
+        "drupal_internal__revision_id": 266,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Compravendita\/affitto casa\/edifici\/terreni, costruzione o ristrutturazione casa\/edificio",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:20:50+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-delle-persone\/compravenditaaffitto-casaedificiterreni-costruzione-o",
+          "pid": 266,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "8c561d64-c233-44a7-b4c1-1b8e7484c679",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_delle_persone"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/cff42849-6716-4b31-9ffe-303364219c1e\/vid?resourceVersion=id%3A266"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/cff42849-6716-4b31-9ffe-303364219c1e\/relationships\/vid?resourceVersion=id%3A266"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/cff42849-6716-4b31-9ffe-303364219c1e\/revision_user?resourceVersion=id%3A266"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/cff42849-6716-4b31-9ffe-303364219c1e\/relationships\/revision_user?resourceVersion=id%3A266"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_delle_persone",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/cff42849-6716-4b31-9ffe-303364219c1e\/parent?resourceVersion=id%3A266"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/cff42849-6716-4b31-9ffe-303364219c1e\/relationships\/parent?resourceVersion=id%3A266"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_delle_persone",
+      "id": "b8236a64-3362-4730-9ec1-104363bd20d7",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/b8236a64-3362-4730-9ec1-104363bd20d7?resourceVersion=id%3A267"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 267,
+        "drupal_internal__revision_id": 267,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Cambio di residenza o domicilio",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:20:47+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-delle-persone\/cambio-di-residenza-o-domicilio",
+          "pid": 267,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "8c561d64-c233-44a7-b4c1-1b8e7484c679",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_delle_persone"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/b8236a64-3362-4730-9ec1-104363bd20d7\/vid?resourceVersion=id%3A267"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/b8236a64-3362-4730-9ec1-104363bd20d7\/relationships\/vid?resourceVersion=id%3A267"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/b8236a64-3362-4730-9ec1-104363bd20d7\/revision_user?resourceVersion=id%3A267"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/b8236a64-3362-4730-9ec1-104363bd20d7\/relationships\/revision_user?resourceVersion=id%3A267"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_delle_persone",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/b8236a64-3362-4730-9ec1-104363bd20d7\/parent?resourceVersion=id%3A267"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/b8236a64-3362-4730-9ec1-104363bd20d7\/relationships\/parent?resourceVersion=id%3A267"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_delle_persone",
+      "id": "d8292455-b753-4032-8c3b-1d237f8b1961",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/d8292455-b753-4032-8c3b-1d237f8b1961?resourceVersion=id%3A268"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 268,
+        "drupal_internal__revision_id": 268,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Espatri oper lavoro, studio o pensionamento",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:20:58+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-delle-persone\/espatri-oper-lavoro-studio-o-pensionamento",
+          "pid": 268,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "8c561d64-c233-44a7-b4c1-1b8e7484c679",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_delle_persone"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/d8292455-b753-4032-8c3b-1d237f8b1961\/vid?resourceVersion=id%3A268"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/d8292455-b753-4032-8c3b-1d237f8b1961\/relationships\/vid?resourceVersion=id%3A268"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/d8292455-b753-4032-8c3b-1d237f8b1961\/revision_user?resourceVersion=id%3A268"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/d8292455-b753-4032-8c3b-1d237f8b1961\/relationships\/revision_user?resourceVersion=id%3A268"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_delle_persone",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/d8292455-b753-4032-8c3b-1d237f8b1961\/parent?resourceVersion=id%3A268"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/d8292455-b753-4032-8c3b-1d237f8b1961\/relationships\/parent?resourceVersion=id%3A268"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_delle_persone",
+      "id": "6718d859-70b0-48fd-8b62-49e0fa14f764",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6718d859-70b0-48fd-8b62-49e0fa14f764?resourceVersion=id%3A270"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 270,
+        "drupal_internal__revision_id": 270,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Richiesta passaporto, visto e assistenza viaggi internazionali",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:21:32+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-delle-persone\/richiesta-passaporto-visto-e-assistenza-viaggi-internazionali",
+          "pid": 270,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "8c561d64-c233-44a7-b4c1-1b8e7484c679",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_delle_persone"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6718d859-70b0-48fd-8b62-49e0fa14f764\/vid?resourceVersion=id%3A270"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6718d859-70b0-48fd-8b62-49e0fa14f764\/relationships\/vid?resourceVersion=id%3A270"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6718d859-70b0-48fd-8b62-49e0fa14f764\/revision_user?resourceVersion=id%3A270"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6718d859-70b0-48fd-8b62-49e0fa14f764\/relationships\/revision_user?resourceVersion=id%3A270"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_delle_persone",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6718d859-70b0-48fd-8b62-49e0fa14f764\/parent?resourceVersion=id%3A270"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6718d859-70b0-48fd-8b62-49e0fa14f764\/relationships\/parent?resourceVersion=id%3A270"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_delle_persone",
+      "id": "6e1b58f0-c64a-41d4-ba4e-da2a3932d4af",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6e1b58f0-c64a-41d4-ba4e-da2a3932d4af?resourceVersion=id%3A271"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 271,
+        "drupal_internal__revision_id": 271,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Nascita di un bambino, richiesta adozioni",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:21:12+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-delle-persone\/nascita-di-un-bambino-richiesta-adozioni",
+          "pid": 271,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "8c561d64-c233-44a7-b4c1-1b8e7484c679",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_delle_persone"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6e1b58f0-c64a-41d4-ba4e-da2a3932d4af\/vid?resourceVersion=id%3A271"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6e1b58f0-c64a-41d4-ba4e-da2a3932d4af\/relationships\/vid?resourceVersion=id%3A271"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6e1b58f0-c64a-41d4-ba4e-da2a3932d4af\/revision_user?resourceVersion=id%3A271"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6e1b58f0-c64a-41d4-ba4e-da2a3932d4af\/relationships\/revision_user?resourceVersion=id%3A271"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_delle_persone",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6e1b58f0-c64a-41d4-ba4e-da2a3932d4af\/parent?resourceVersion=id%3A271"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/6e1b58f0-c64a-41d4-ba4e-da2a3932d4af\/relationships\/parent?resourceVersion=id%3A271"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_delle_persone",
+      "id": "28db60db-cd2c-4cc9-9112-7eeacbb0df31",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/28db60db-cd2c-4cc9-9112-7eeacbb0df31?resourceVersion=id%3A272"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 272,
+        "drupal_internal__revision_id": 272,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Matrimonio e\/o cambio stato civile",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:21:06+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-delle-persone\/matrimonio-eo-cambio-stato-civile",
+          "pid": 272,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "8c561d64-c233-44a7-b4c1-1b8e7484c679",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_delle_persone"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/28db60db-cd2c-4cc9-9112-7eeacbb0df31\/vid?resourceVersion=id%3A272"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/28db60db-cd2c-4cc9-9112-7eeacbb0df31\/relationships\/vid?resourceVersion=id%3A272"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/28db60db-cd2c-4cc9-9112-7eeacbb0df31\/revision_user?resourceVersion=id%3A272"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/28db60db-cd2c-4cc9-9112-7eeacbb0df31\/relationships\/revision_user?resourceVersion=id%3A272"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_delle_persone",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/28db60db-cd2c-4cc9-9112-7eeacbb0df31\/parent?resourceVersion=id%3A272"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/28db60db-cd2c-4cc9-9112-7eeacbb0df31\/relationships\/parent?resourceVersion=id%3A272"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_delle_persone",
+      "id": "4bd031e8-7576-4369-b6a4-1413c0a23b87",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/4bd031e8-7576-4369-b6a4-1413c0a23b87?resourceVersion=id%3A273"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 273,
+        "drupal_internal__revision_id": 273,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Morte ed eredit\u00e0",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:21:09+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-delle-persone\/morte-ed-eredita",
+          "pid": 273,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "8c561d64-c233-44a7-b4c1-1b8e7484c679",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_delle_persone"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/4bd031e8-7576-4369-b6a4-1413c0a23b87\/vid?resourceVersion=id%3A273"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/4bd031e8-7576-4369-b6a4-1413c0a23b87\/relationships\/vid?resourceVersion=id%3A273"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/4bd031e8-7576-4369-b6a4-1413c0a23b87\/revision_user?resourceVersion=id%3A273"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/4bd031e8-7576-4369-b6a4-1413c0a23b87\/relationships\/revision_user?resourceVersion=id%3A273"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_delle_persone",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/4bd031e8-7576-4369-b6a4-1413c0a23b87\/parent?resourceVersion=id%3A273"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/4bd031e8-7576-4369-b6a4-1413c0a23b87\/relationships\/parent?resourceVersion=id%3A273"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_delle_persone",
+      "id": "68e55c8b-88e4-4634-8293-70404a3f1734",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/68e55c8b-88e4-4634-8293-70404a3f1734?resourceVersion=id%3A274"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 274,
+        "drupal_internal__revision_id": 274,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Prenotazione e disdetta visite\/esami",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:21:21+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-delle-persone\/prenotazione-e-disdetta-visiteesami",
+          "pid": 274,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "8c561d64-c233-44a7-b4c1-1b8e7484c679",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_delle_persone"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/68e55c8b-88e4-4634-8293-70404a3f1734\/vid?resourceVersion=id%3A274"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/68e55c8b-88e4-4634-8293-70404a3f1734\/relationships\/vid?resourceVersion=id%3A274"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/68e55c8b-88e4-4634-8293-70404a3f1734\/revision_user?resourceVersion=id%3A274"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/68e55c8b-88e4-4634-8293-70404a3f1734\/relationships\/revision_user?resourceVersion=id%3A274"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_delle_persone",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/68e55c8b-88e4-4634-8293-70404a3f1734\/parent?resourceVersion=id%3A274"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/68e55c8b-88e4-4634-8293-70404a3f1734\/relationships\/parent?resourceVersion=id%3A274"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_delle_persone",
+      "id": "023c86f7-aa13-421f-aef8-6a3fb98f48bc",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/023c86f7-aa13-421f-aef8-6a3fb98f48bc?resourceVersion=id%3A275"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 275,
+        "drupal_internal__revision_id": 275,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Denuncia crimini",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:20:53+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-delle-persone\/denuncia-crimini",
+          "pid": 275,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "8c561d64-c233-44a7-b4c1-1b8e7484c679",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_delle_persone"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/023c86f7-aa13-421f-aef8-6a3fb98f48bc\/vid?resourceVersion=id%3A275"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/023c86f7-aa13-421f-aef8-6a3fb98f48bc\/relationships\/vid?resourceVersion=id%3A275"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/023c86f7-aa13-421f-aef8-6a3fb98f48bc\/revision_user?resourceVersion=id%3A275"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/023c86f7-aa13-421f-aef8-6a3fb98f48bc\/relationships\/revision_user?resourceVersion=id%3A275"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_delle_persone",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/023c86f7-aa13-421f-aef8-6a3fb98f48bc\/parent?resourceVersion=id%3A275"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/023c86f7-aa13-421f-aef8-6a3fb98f48bc\/relationships\/parent?resourceVersion=id%3A275"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_delle_persone",
+      "id": "9ff09623-398c-4517-b030-ee5de208cfe2",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9ff09623-398c-4517-b030-ee5de208cfe2?resourceVersion=id%3A276"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 276,
+        "drupal_internal__revision_id": 276,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Dichiarazione dei redditi, versamento e riscossione tributi\/imposte e contributi",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:20:55+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-delle-persone\/dichiarazione-dei-redditi-versamento-e-riscossione-tributiimposte-e",
+          "pid": 276,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "8c561d64-c233-44a7-b4c1-1b8e7484c679",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_delle_persone"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9ff09623-398c-4517-b030-ee5de208cfe2\/vid?resourceVersion=id%3A276"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9ff09623-398c-4517-b030-ee5de208cfe2\/relationships\/vid?resourceVersion=id%3A276"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9ff09623-398c-4517-b030-ee5de208cfe2\/revision_user?resourceVersion=id%3A276"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9ff09623-398c-4517-b030-ee5de208cfe2\/relationships\/revision_user?resourceVersion=id%3A276"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_delle_persone",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9ff09623-398c-4517-b030-ee5de208cfe2\/parent?resourceVersion=id%3A276"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/9ff09623-398c-4517-b030-ee5de208cfe2\/relationships\/parent?resourceVersion=id%3A276"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_delle_persone",
+      "id": "3e5e6ac5-226d-48d3-92da-de5fdaaf2521",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/3e5e6ac5-226d-48d3-92da-de5fdaaf2521?resourceVersion=id%3A279"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 279,
+        "drupal_internal__revision_id": 279,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Accesso ai luoghi della cultura",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:20:41+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-delle-persone\/accesso-ai-luoghi-della-cultura",
+          "pid": 279,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "8c561d64-c233-44a7-b4c1-1b8e7484c679",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_delle_persone"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/3e5e6ac5-226d-48d3-92da-de5fdaaf2521\/vid?resourceVersion=id%3A279"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/3e5e6ac5-226d-48d3-92da-de5fdaaf2521\/relationships\/vid?resourceVersion=id%3A279"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/3e5e6ac5-226d-48d3-92da-de5fdaaf2521\/revision_user?resourceVersion=id%3A279"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/3e5e6ac5-226d-48d3-92da-de5fdaaf2521\/relationships\/revision_user?resourceVersion=id%3A279"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_delle_persone",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/3e5e6ac5-226d-48d3-92da-de5fdaaf2521\/parent?resourceVersion=id%3A279"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/3e5e6ac5-226d-48d3-92da-de5fdaaf2521\/relationships\/parent?resourceVersion=id%3A279"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_delle_persone",
+      "id": "308d2dcb-9f1a-4b04-a1af-8e91f696135e",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/308d2dcb-9f1a-4b04-a1af-8e91f696135e?resourceVersion=id%3A281"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 281,
+        "drupal_internal__revision_id": 281,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Possesso, cura, smarrimento animale da compagnia",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:21:18+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-delle-persone\/possesso-cura-smarrimento-animale-da-compagnia",
+          "pid": 281,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "8c561d64-c233-44a7-b4c1-1b8e7484c679",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_delle_persone"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/308d2dcb-9f1a-4b04-a1af-8e91f696135e\/vid?resourceVersion=id%3A281"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/308d2dcb-9f1a-4b04-a1af-8e91f696135e\/relationships\/vid?resourceVersion=id%3A281"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/308d2dcb-9f1a-4b04-a1af-8e91f696135e\/revision_user?resourceVersion=id%3A281"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/308d2dcb-9f1a-4b04-a1af-8e91f696135e\/relationships\/revision_user?resourceVersion=id%3A281"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_delle_persone",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/308d2dcb-9f1a-4b04-a1af-8e91f696135e\/parent?resourceVersion=id%3A281"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone\/308d2dcb-9f1a-4b04-a1af-8e91f696135e\/relationships\/parent?resourceVersion=id%3A281"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "links": {
+    "self": {
+      "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_delle_persone"
+    }
+  }
+}

@@ -1,1 +1,1279 @@
-{"jsonapi":{"version":"1.0","meta":{"links":{"self":{"href":"http:\/\/jsonapi.org\/format\/1.0\/"}}}},"data":[{"type":"taxonomy_term--tipi_unita_organizzativa","id":"1bf7293b-058c-4164-906a-0dd66e58e5b6","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1bf7293b-058c-4164-906a-0dd66e58e5b6?resourceVersion=id%3A59"}},"attributes":{"drupal_internal__tid":59,"drupal_internal__revision_id":59,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"altra struttura","description":null,"weight":0,"changed":"2023-01-20T01:50:17+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-unita-organizzativa\/altra-struttura","pid":59,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6","meta":{"drupal_internal__target_id":"tipi_unita_organizzativa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1bf7293b-058c-4164-906a-0dd66e58e5b6\/vid?resourceVersion=id%3A59"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1bf7293b-058c-4164-906a-0dd66e58e5b6\/relationships\/vid?resourceVersion=id%3A59"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1bf7293b-058c-4164-906a-0dd66e58e5b6\/revision_user?resourceVersion=id%3A59"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1bf7293b-058c-4164-906a-0dd66e58e5b6\/relationships\/revision_user?resourceVersion=id%3A59"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_unita_organizzativa","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1bf7293b-058c-4164-906a-0dd66e58e5b6\/parent?resourceVersion=id%3A59"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1bf7293b-058c-4164-906a-0dd66e58e5b6\/relationships\/parent?resourceVersion=id%3A59"}}}}},{"type":"taxonomy_term--tipi_unita_organizzativa","id":"012df017-08d1-49a5-ad73-0d1916541e8e","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/012df017-08d1-49a5-ad73-0d1916541e8e?resourceVersion=id%3A60"}},"attributes":{"drupal_internal__tid":60,"drupal_internal__revision_id":60,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"ente","description":null,"weight":0,"changed":"2023-01-20T01:50:28+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-unita-organizzativa\/ente","pid":60,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6","meta":{"drupal_internal__target_id":"tipi_unita_organizzativa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/012df017-08d1-49a5-ad73-0d1916541e8e\/vid?resourceVersion=id%3A60"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/012df017-08d1-49a5-ad73-0d1916541e8e\/relationships\/vid?resourceVersion=id%3A60"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/012df017-08d1-49a5-ad73-0d1916541e8e\/revision_user?resourceVersion=id%3A60"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/012df017-08d1-49a5-ad73-0d1916541e8e\/relationships\/revision_user?resourceVersion=id%3A60"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_unita_organizzativa","id":"1bf7293b-058c-4164-906a-0dd66e58e5b6","meta":{"drupal_internal__target_id":59}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/012df017-08d1-49a5-ad73-0d1916541e8e\/parent?resourceVersion=id%3A60"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/012df017-08d1-49a5-ad73-0d1916541e8e\/relationships\/parent?resourceVersion=id%3A60"}}}}},{"type":"taxonomy_term--tipi_unita_organizzativa","id":"0a1cb3bc-cd3d-4a8c-8531-1041e43c29a0","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/0a1cb3bc-cd3d-4a8c-8531-1041e43c29a0?resourceVersion=id%3A142"}},"attributes":{"drupal_internal__tid":142,"drupal_internal__revision_id":142,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"struttura politica","description":null,"weight":0,"changed":"2023-01-20T01:50:55+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-unita-organizzativa\/struttura-politica","pid":142,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6","meta":{"drupal_internal__target_id":"tipi_unita_organizzativa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/0a1cb3bc-cd3d-4a8c-8531-1041e43c29a0\/vid?resourceVersion=id%3A142"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/0a1cb3bc-cd3d-4a8c-8531-1041e43c29a0\/relationships\/vid?resourceVersion=id%3A142"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/0a1cb3bc-cd3d-4a8c-8531-1041e43c29a0\/revision_user?resourceVersion=id%3A142"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/0a1cb3bc-cd3d-4a8c-8531-1041e43c29a0\/relationships\/revision_user?resourceVersion=id%3A142"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_unita_organizzativa","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/0a1cb3bc-cd3d-4a8c-8531-1041e43c29a0\/parent?resourceVersion=id%3A142"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/0a1cb3bc-cd3d-4a8c-8531-1041e43c29a0\/relationships\/parent?resourceVersion=id%3A142"}}}}},{"type":"taxonomy_term--tipi_unita_organizzativa","id":"f5e446cc-acae-41ba-b08c-0ad4f08795c4","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e446cc-acae-41ba-b08c-0ad4f08795c4?resourceVersion=id%3A181"}},"attributes":{"drupal_internal__tid":181,"drupal_internal__revision_id":181,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"fondazione","description":null,"weight":0,"changed":"2023-01-20T01:50:31+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-unita-organizzativa\/fondazione","pid":181,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6","meta":{"drupal_internal__target_id":"tipi_unita_organizzativa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e446cc-acae-41ba-b08c-0ad4f08795c4\/vid?resourceVersion=id%3A181"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e446cc-acae-41ba-b08c-0ad4f08795c4\/relationships\/vid?resourceVersion=id%3A181"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e446cc-acae-41ba-b08c-0ad4f08795c4\/revision_user?resourceVersion=id%3A181"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e446cc-acae-41ba-b08c-0ad4f08795c4\/relationships\/revision_user?resourceVersion=id%3A181"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_unita_organizzativa","id":"1bf7293b-058c-4164-906a-0dd66e58e5b6","meta":{"drupal_internal__target_id":59}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e446cc-acae-41ba-b08c-0ad4f08795c4\/parent?resourceVersion=id%3A181"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e446cc-acae-41ba-b08c-0ad4f08795c4\/relationships\/parent?resourceVersion=id%3A181"}}}}},{"type":"taxonomy_term--tipi_unita_organizzativa","id":"c14d7d4f-4b73-4fd5-a590-202ac0dffab7","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/c14d7d4f-4b73-4fd5-a590-202ac0dffab7?resourceVersion=id%3A218"}},"attributes":{"drupal_internal__tid":218,"drupal_internal__revision_id":218,"langcode":"it","revision_created":"2022-05-31T09:36:01+00:00","revision_log_message":null,"status":true,"name":"altra struttura","description":null,"weight":0,"changed":"2023-01-20T01:50:44+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-unita-organizzativa\/altra-struttura-0","pid":218,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6","meta":{"drupal_internal__target_id":"tipi_unita_organizzativa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/c14d7d4f-4b73-4fd5-a590-202ac0dffab7\/vid?resourceVersion=id%3A218"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/c14d7d4f-4b73-4fd5-a590-202ac0dffab7\/relationships\/vid?resourceVersion=id%3A218"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/c14d7d4f-4b73-4fd5-a590-202ac0dffab7\/revision_user?resourceVersion=id%3A218"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/c14d7d4f-4b73-4fd5-a590-202ac0dffab7\/relationships\/revision_user?resourceVersion=id%3A218"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_unita_organizzativa","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/c14d7d4f-4b73-4fd5-a590-202ac0dffab7\/parent?resourceVersion=id%3A218"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/c14d7d4f-4b73-4fd5-a590-202ac0dffab7\/relationships\/parent?resourceVersion=id%3A218"}}}}},{"type":"taxonomy_term--tipi_unita_organizzativa","id":"5b320109-25ea-4d0c-872b-912c9a851085","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/5b320109-25ea-4d0c-872b-912c9a851085?resourceVersion=id%3A225"}},"attributes":{"drupal_internal__tid":225,"drupal_internal__revision_id":225,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"azienda municipalizzata","description":null,"weight":0,"changed":"2023-01-20T01:50:19+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-unita-organizzativa\/azienda-municipalizzata","pid":225,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6","meta":{"drupal_internal__target_id":"tipi_unita_organizzativa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/5b320109-25ea-4d0c-872b-912c9a851085\/vid?resourceVersion=id%3A225"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/5b320109-25ea-4d0c-872b-912c9a851085\/relationships\/vid?resourceVersion=id%3A225"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/5b320109-25ea-4d0c-872b-912c9a851085\/revision_user?resourceVersion=id%3A225"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/5b320109-25ea-4d0c-872b-912c9a851085\/relationships\/revision_user?resourceVersion=id%3A225"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_unita_organizzativa","id":"1bf7293b-058c-4164-906a-0dd66e58e5b6","meta":{"drupal_internal__target_id":59}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/5b320109-25ea-4d0c-872b-912c9a851085\/parent?resourceVersion=id%3A225"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/5b320109-25ea-4d0c-872b-912c9a851085\/relationships\/parent?resourceVersion=id%3A225"}}}}},{"type":"taxonomy_term--tipi_unita_organizzativa","id":"fb953f60-7aa6-45ee-b8b6-9e7f5f28997f","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/fb953f60-7aa6-45ee-b8b6-9e7f5f28997f?resourceVersion=id%3A264"}},"attributes":{"drupal_internal__tid":264,"drupal_internal__revision_id":264,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"giunta comunale","description":null,"weight":0,"changed":"2023-01-20T01:51:04+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-unita-organizzativa\/giunta-comunale","pid":264,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6","meta":{"drupal_internal__target_id":"tipi_unita_organizzativa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/fb953f60-7aa6-45ee-b8b6-9e7f5f28997f\/vid?resourceVersion=id%3A264"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/fb953f60-7aa6-45ee-b8b6-9e7f5f28997f\/relationships\/vid?resourceVersion=id%3A264"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/fb953f60-7aa6-45ee-b8b6-9e7f5f28997f\/revision_user?resourceVersion=id%3A264"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/fb953f60-7aa6-45ee-b8b6-9e7f5f28997f\/relationships\/revision_user?resourceVersion=id%3A264"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_unita_organizzativa","id":"0a1cb3bc-cd3d-4a8c-8531-1041e43c29a0","meta":{"drupal_internal__target_id":142}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/fb953f60-7aa6-45ee-b8b6-9e7f5f28997f\/parent?resourceVersion=id%3A264"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/fb953f60-7aa6-45ee-b8b6-9e7f5f28997f\/relationships\/parent?resourceVersion=id%3A264"}}}}},{"type":"taxonomy_term--tipi_unita_organizzativa","id":"f5e05486-51a6-4a5a-bf53-6254c9470169","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e05486-51a6-4a5a-bf53-6254c9470169?resourceVersion=id%3A300"}},"attributes":{"drupal_internal__tid":300,"drupal_internal__revision_id":300,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"struttura amministrativa","description":null,"weight":0,"changed":"2023-01-20T01:50:47+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-unita-organizzativa\/struttura-amministrativa","pid":300,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6","meta":{"drupal_internal__target_id":"tipi_unita_organizzativa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e05486-51a6-4a5a-bf53-6254c9470169\/vid?resourceVersion=id%3A300"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e05486-51a6-4a5a-bf53-6254c9470169\/relationships\/vid?resourceVersion=id%3A300"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e05486-51a6-4a5a-bf53-6254c9470169\/revision_user?resourceVersion=id%3A300"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e05486-51a6-4a5a-bf53-6254c9470169\/relationships\/revision_user?resourceVersion=id%3A300"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_unita_organizzativa","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e05486-51a6-4a5a-bf53-6254c9470169\/parent?resourceVersion=id%3A300"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e05486-51a6-4a5a-bf53-6254c9470169\/relationships\/parent?resourceVersion=id%3A300"}}}}},{"type":"taxonomy_term--tipi_unita_organizzativa","id":"f03fa32e-81c3-4c04-a6f6-bfdb05072048","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f03fa32e-81c3-4c04-a6f6-bfdb05072048?resourceVersion=id%3A303"}},"attributes":{"drupal_internal__tid":303,"drupal_internal__revision_id":303,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"area","description":null,"weight":0,"changed":"2023-01-20T01:50:50+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-unita-organizzativa\/area","pid":303,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6","meta":{"drupal_internal__target_id":"tipi_unita_organizzativa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f03fa32e-81c3-4c04-a6f6-bfdb05072048\/vid?resourceVersion=id%3A303"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f03fa32e-81c3-4c04-a6f6-bfdb05072048\/relationships\/vid?resourceVersion=id%3A303"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f03fa32e-81c3-4c04-a6f6-bfdb05072048\/revision_user?resourceVersion=id%3A303"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f03fa32e-81c3-4c04-a6f6-bfdb05072048\/relationships\/revision_user?resourceVersion=id%3A303"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_unita_organizzativa","id":"f5e05486-51a6-4a5a-bf53-6254c9470169","meta":{"drupal_internal__target_id":300}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f03fa32e-81c3-4c04-a6f6-bfdb05072048\/parent?resourceVersion=id%3A303"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f03fa32e-81c3-4c04-a6f6-bfdb05072048\/relationships\/parent?resourceVersion=id%3A303"}}}}},{"type":"taxonomy_term--tipi_unita_organizzativa","id":"adda0f96-3e3f-4e16-a0b2-17a3be26fce4","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/adda0f96-3e3f-4e16-a0b2-17a3be26fce4?resourceVersion=id%3A304"}},"attributes":{"drupal_internal__tid":304,"drupal_internal__revision_id":304,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"ufficio","description":null,"weight":0,"changed":"2023-01-20T01:50:52+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-unita-organizzativa\/ufficio","pid":304,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6","meta":{"drupal_internal__target_id":"tipi_unita_organizzativa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/adda0f96-3e3f-4e16-a0b2-17a3be26fce4\/vid?resourceVersion=id%3A304"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/adda0f96-3e3f-4e16-a0b2-17a3be26fce4\/relationships\/vid?resourceVersion=id%3A304"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/adda0f96-3e3f-4e16-a0b2-17a3be26fce4\/revision_user?resourceVersion=id%3A304"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/adda0f96-3e3f-4e16-a0b2-17a3be26fce4\/relationships\/revision_user?resourceVersion=id%3A304"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_unita_organizzativa","id":"f5e05486-51a6-4a5a-bf53-6254c9470169","meta":{"drupal_internal__target_id":300}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/adda0f96-3e3f-4e16-a0b2-17a3be26fce4\/parent?resourceVersion=id%3A304"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/adda0f96-3e3f-4e16-a0b2-17a3be26fce4\/relationships\/parent?resourceVersion=id%3A304"}}}}},{"type":"taxonomy_term--tipi_unita_organizzativa","id":"6b209aec-bbe5-48f4-af80-6c7ea6168801","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/6b209aec-bbe5-48f4-af80-6c7ea6168801?resourceVersion=id%3A311"}},"attributes":{"drupal_internal__tid":311,"drupal_internal__revision_id":311,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"consiglio comunale","description":null,"weight":0,"changed":"2023-01-20T01:51:01+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-unita-organizzativa\/consiglio-comunale","pid":311,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6","meta":{"drupal_internal__target_id":"tipi_unita_organizzativa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/6b209aec-bbe5-48f4-af80-6c7ea6168801\/vid?resourceVersion=id%3A311"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/6b209aec-bbe5-48f4-af80-6c7ea6168801\/relationships\/vid?resourceVersion=id%3A311"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/6b209aec-bbe5-48f4-af80-6c7ea6168801\/revision_user?resourceVersion=id%3A311"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/6b209aec-bbe5-48f4-af80-6c7ea6168801\/relationships\/revision_user?resourceVersion=id%3A311"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_unita_organizzativa","id":"0a1cb3bc-cd3d-4a8c-8531-1041e43c29a0","meta":{"drupal_internal__target_id":142}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/6b209aec-bbe5-48f4-af80-6c7ea6168801\/parent?resourceVersion=id%3A311"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/6b209aec-bbe5-48f4-af80-6c7ea6168801\/relationships\/parent?resourceVersion=id%3A311"}}}}},{"type":"taxonomy_term--tipi_unita_organizzativa","id":"ac4753e2-6243-4024-82ee-6b4acb8801f2","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/ac4753e2-6243-4024-82ee-6b4acb8801f2?resourceVersion=id%3A323"}},"attributes":{"drupal_internal__tid":323,"drupal_internal__revision_id":323,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"commissione","description":null,"weight":0,"changed":"2023-01-20T01:50:58+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-unita-organizzativa\/commissione","pid":323,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6","meta":{"drupal_internal__target_id":"tipi_unita_organizzativa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/ac4753e2-6243-4024-82ee-6b4acb8801f2\/vid?resourceVersion=id%3A323"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/ac4753e2-6243-4024-82ee-6b4acb8801f2\/relationships\/vid?resourceVersion=id%3A323"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/ac4753e2-6243-4024-82ee-6b4acb8801f2\/revision_user?resourceVersion=id%3A323"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/ac4753e2-6243-4024-82ee-6b4acb8801f2\/relationships\/revision_user?resourceVersion=id%3A323"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_unita_organizzativa","id":"0a1cb3bc-cd3d-4a8c-8531-1041e43c29a0","meta":{"drupal_internal__target_id":142}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/ac4753e2-6243-4024-82ee-6b4acb8801f2\/parent?resourceVersion=id%3A323"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/ac4753e2-6243-4024-82ee-6b4acb8801f2\/relationships\/parent?resourceVersion=id%3A323"}}}}},{"type":"taxonomy_term--tipi_unita_organizzativa","id":"586c90ca-cd31-453b-b0e0-7231c71bcd13","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/586c90ca-cd31-453b-b0e0-7231c71bcd13?resourceVersion=id%3A347"}},"attributes":{"drupal_internal__tid":347,"drupal_internal__revision_id":347,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"biblioteca","description":null,"weight":0,"changed":"2023-01-20T01:50:22+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-unita-organizzativa\/biblioteca","pid":347,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6","meta":{"drupal_internal__target_id":"tipi_unita_organizzativa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/586c90ca-cd31-453b-b0e0-7231c71bcd13\/vid?resourceVersion=id%3A347"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/586c90ca-cd31-453b-b0e0-7231c71bcd13\/relationships\/vid?resourceVersion=id%3A347"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/586c90ca-cd31-453b-b0e0-7231c71bcd13\/revision_user?resourceVersion=id%3A347"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/586c90ca-cd31-453b-b0e0-7231c71bcd13\/relationships\/revision_user?resourceVersion=id%3A347"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_unita_organizzativa","id":"1bf7293b-058c-4164-906a-0dd66e58e5b6","meta":{"drupal_internal__target_id":59}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/586c90ca-cd31-453b-b0e0-7231c71bcd13\/parent?resourceVersion=id%3A347"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/586c90ca-cd31-453b-b0e0-7231c71bcd13\/relationships\/parent?resourceVersion=id%3A347"}}}}},{"type":"taxonomy_term--tipi_unita_organizzativa","id":"1a6fa7b3-837a-41f4-9399-2e91075ff353","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1a6fa7b3-837a-41f4-9399-2e91075ff353?resourceVersion=id%3A359"}},"attributes":{"drupal_internal__tid":359,"drupal_internal__revision_id":359,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"museo","description":null,"weight":0,"changed":"2023-01-20T01:50:34+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-unita-organizzativa\/museo","pid":359,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6","meta":{"drupal_internal__target_id":"tipi_unita_organizzativa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1a6fa7b3-837a-41f4-9399-2e91075ff353\/vid?resourceVersion=id%3A359"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1a6fa7b3-837a-41f4-9399-2e91075ff353\/relationships\/vid?resourceVersion=id%3A359"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1a6fa7b3-837a-41f4-9399-2e91075ff353\/revision_user?resourceVersion=id%3A359"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1a6fa7b3-837a-41f4-9399-2e91075ff353\/relationships\/revision_user?resourceVersion=id%3A359"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_unita_organizzativa","id":"1bf7293b-058c-4164-906a-0dd66e58e5b6","meta":{"drupal_internal__target_id":59}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1a6fa7b3-837a-41f4-9399-2e91075ff353\/parent?resourceVersion=id%3A359"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1a6fa7b3-837a-41f4-9399-2e91075ff353\/relationships\/parent?resourceVersion=id%3A359"}}}}},{"type":"taxonomy_term--tipi_unita_organizzativa","id":"4e55da98-e639-4ec4-9789-37a309a4cdbb","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/4e55da98-e639-4ec4-9789-37a309a4cdbb?resourceVersion=id%3A374"}},"attributes":{"drupal_internal__tid":374,"drupal_internal__revision_id":374,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"scuola","description":null,"weight":0,"changed":"2023-01-20T01:50:39+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-unita-organizzativa\/scuola","pid":374,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6","meta":{"drupal_internal__target_id":"tipi_unita_organizzativa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/4e55da98-e639-4ec4-9789-37a309a4cdbb\/vid?resourceVersion=id%3A374"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/4e55da98-e639-4ec4-9789-37a309a4cdbb\/relationships\/vid?resourceVersion=id%3A374"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/4e55da98-e639-4ec4-9789-37a309a4cdbb\/revision_user?resourceVersion=id%3A374"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/4e55da98-e639-4ec4-9789-37a309a4cdbb\/relationships\/revision_user?resourceVersion=id%3A374"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_unita_organizzativa","id":"1bf7293b-058c-4164-906a-0dd66e58e5b6","meta":{"drupal_internal__target_id":59}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/4e55da98-e639-4ec4-9789-37a309a4cdbb\/parent?resourceVersion=id%3A374"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/4e55da98-e639-4ec4-9789-37a309a4cdbb\/relationships\/parent?resourceVersion=id%3A374"}}}}},{"type":"taxonomy_term--tipi_unita_organizzativa","id":"1e81b13e-65b9-45e2-b571-670e7f5b1ad5","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1e81b13e-65b9-45e2-b571-670e7f5b1ad5?resourceVersion=id%3A386"}},"attributes":{"drupal_internal__tid":386,"drupal_internal__revision_id":386,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"centro culturale","description":null,"weight":0,"changed":"2023-01-20T01:50:25+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-unita-organizzativa\/centro-culturale","pid":386,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6","meta":{"drupal_internal__target_id":"tipi_unita_organizzativa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1e81b13e-65b9-45e2-b571-670e7f5b1ad5\/vid?resourceVersion=id%3A386"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1e81b13e-65b9-45e2-b571-670e7f5b1ad5\/relationships\/vid?resourceVersion=id%3A386"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1e81b13e-65b9-45e2-b571-670e7f5b1ad5\/revision_user?resourceVersion=id%3A386"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1e81b13e-65b9-45e2-b571-670e7f5b1ad5\/relationships\/revision_user?resourceVersion=id%3A386"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_unita_organizzativa","id":"1bf7293b-058c-4164-906a-0dd66e58e5b6","meta":{"drupal_internal__target_id":59}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1e81b13e-65b9-45e2-b571-670e7f5b1ad5\/parent?resourceVersion=id%3A386"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1e81b13e-65b9-45e2-b571-670e7f5b1ad5\/relationships\/parent?resourceVersion=id%3A386"}}}}}],"links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa"}}}
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http:\/\/jsonapi.org\/format\/1.0\/"
+        }
+      }
+    }
+  },
+  "data": [
+    {
+      "type": "taxonomy_term--tipi_unita_organizzativa",
+      "id": "1bf7293b-058c-4164-906a-0dd66e58e5b6",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1bf7293b-058c-4164-906a-0dd66e58e5b6?resourceVersion=id%3A59"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 59,
+        "drupal_internal__revision_id": 59,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "altra struttura",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:50:17+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-unita-organizzativa\/altra-struttura",
+          "pid": 59,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6",
+            "meta": {
+              "drupal_internal__target_id": "tipi_unita_organizzativa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1bf7293b-058c-4164-906a-0dd66e58e5b6\/vid?resourceVersion=id%3A59"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1bf7293b-058c-4164-906a-0dd66e58e5b6\/relationships\/vid?resourceVersion=id%3A59"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1bf7293b-058c-4164-906a-0dd66e58e5b6\/revision_user?resourceVersion=id%3A59"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1bf7293b-058c-4164-906a-0dd66e58e5b6\/relationships\/revision_user?resourceVersion=id%3A59"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_unita_organizzativa",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1bf7293b-058c-4164-906a-0dd66e58e5b6\/parent?resourceVersion=id%3A59"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1bf7293b-058c-4164-906a-0dd66e58e5b6\/relationships\/parent?resourceVersion=id%3A59"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_unita_organizzativa",
+      "id": "012df017-08d1-49a5-ad73-0d1916541e8e",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/012df017-08d1-49a5-ad73-0d1916541e8e?resourceVersion=id%3A60"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 60,
+        "drupal_internal__revision_id": 60,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "ente",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:50:28+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-unita-organizzativa\/ente",
+          "pid": 60,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6",
+            "meta": {
+              "drupal_internal__target_id": "tipi_unita_organizzativa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/012df017-08d1-49a5-ad73-0d1916541e8e\/vid?resourceVersion=id%3A60"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/012df017-08d1-49a5-ad73-0d1916541e8e\/relationships\/vid?resourceVersion=id%3A60"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/012df017-08d1-49a5-ad73-0d1916541e8e\/revision_user?resourceVersion=id%3A60"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/012df017-08d1-49a5-ad73-0d1916541e8e\/relationships\/revision_user?resourceVersion=id%3A60"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_unita_organizzativa",
+              "id": "1bf7293b-058c-4164-906a-0dd66e58e5b6",
+              "meta": {
+                "drupal_internal__target_id": 59
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/012df017-08d1-49a5-ad73-0d1916541e8e\/parent?resourceVersion=id%3A60"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/012df017-08d1-49a5-ad73-0d1916541e8e\/relationships\/parent?resourceVersion=id%3A60"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_unita_organizzativa",
+      "id": "0a1cb3bc-cd3d-4a8c-8531-1041e43c29a0",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/0a1cb3bc-cd3d-4a8c-8531-1041e43c29a0?resourceVersion=id%3A142"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 142,
+        "drupal_internal__revision_id": 142,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "struttura politica",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:50:55+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-unita-organizzativa\/struttura-politica",
+          "pid": 142,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6",
+            "meta": {
+              "drupal_internal__target_id": "tipi_unita_organizzativa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/0a1cb3bc-cd3d-4a8c-8531-1041e43c29a0\/vid?resourceVersion=id%3A142"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/0a1cb3bc-cd3d-4a8c-8531-1041e43c29a0\/relationships\/vid?resourceVersion=id%3A142"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/0a1cb3bc-cd3d-4a8c-8531-1041e43c29a0\/revision_user?resourceVersion=id%3A142"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/0a1cb3bc-cd3d-4a8c-8531-1041e43c29a0\/relationships\/revision_user?resourceVersion=id%3A142"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_unita_organizzativa",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/0a1cb3bc-cd3d-4a8c-8531-1041e43c29a0\/parent?resourceVersion=id%3A142"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/0a1cb3bc-cd3d-4a8c-8531-1041e43c29a0\/relationships\/parent?resourceVersion=id%3A142"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_unita_organizzativa",
+      "id": "f5e446cc-acae-41ba-b08c-0ad4f08795c4",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e446cc-acae-41ba-b08c-0ad4f08795c4?resourceVersion=id%3A181"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 181,
+        "drupal_internal__revision_id": 181,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "fondazione",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:50:31+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-unita-organizzativa\/fondazione",
+          "pid": 181,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6",
+            "meta": {
+              "drupal_internal__target_id": "tipi_unita_organizzativa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e446cc-acae-41ba-b08c-0ad4f08795c4\/vid?resourceVersion=id%3A181"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e446cc-acae-41ba-b08c-0ad4f08795c4\/relationships\/vid?resourceVersion=id%3A181"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e446cc-acae-41ba-b08c-0ad4f08795c4\/revision_user?resourceVersion=id%3A181"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e446cc-acae-41ba-b08c-0ad4f08795c4\/relationships\/revision_user?resourceVersion=id%3A181"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_unita_organizzativa",
+              "id": "1bf7293b-058c-4164-906a-0dd66e58e5b6",
+              "meta": {
+                "drupal_internal__target_id": 59
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e446cc-acae-41ba-b08c-0ad4f08795c4\/parent?resourceVersion=id%3A181"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e446cc-acae-41ba-b08c-0ad4f08795c4\/relationships\/parent?resourceVersion=id%3A181"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_unita_organizzativa",
+      "id": "c14d7d4f-4b73-4fd5-a590-202ac0dffab7",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/c14d7d4f-4b73-4fd5-a590-202ac0dffab7?resourceVersion=id%3A218"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 218,
+        "drupal_internal__revision_id": 218,
+        "langcode": "it",
+        "revision_created": "2022-05-31T09:36:01+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "altra struttura",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:50:44+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-unita-organizzativa\/altra-struttura-0",
+          "pid": 218,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6",
+            "meta": {
+              "drupal_internal__target_id": "tipi_unita_organizzativa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/c14d7d4f-4b73-4fd5-a590-202ac0dffab7\/vid?resourceVersion=id%3A218"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/c14d7d4f-4b73-4fd5-a590-202ac0dffab7\/relationships\/vid?resourceVersion=id%3A218"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/c14d7d4f-4b73-4fd5-a590-202ac0dffab7\/revision_user?resourceVersion=id%3A218"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/c14d7d4f-4b73-4fd5-a590-202ac0dffab7\/relationships\/revision_user?resourceVersion=id%3A218"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_unita_organizzativa",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/c14d7d4f-4b73-4fd5-a590-202ac0dffab7\/parent?resourceVersion=id%3A218"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/c14d7d4f-4b73-4fd5-a590-202ac0dffab7\/relationships\/parent?resourceVersion=id%3A218"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_unita_organizzativa",
+      "id": "5b320109-25ea-4d0c-872b-912c9a851085",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/5b320109-25ea-4d0c-872b-912c9a851085?resourceVersion=id%3A225"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 225,
+        "drupal_internal__revision_id": 225,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "azienda municipalizzata",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:50:19+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-unita-organizzativa\/azienda-municipalizzata",
+          "pid": 225,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6",
+            "meta": {
+              "drupal_internal__target_id": "tipi_unita_organizzativa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/5b320109-25ea-4d0c-872b-912c9a851085\/vid?resourceVersion=id%3A225"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/5b320109-25ea-4d0c-872b-912c9a851085\/relationships\/vid?resourceVersion=id%3A225"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/5b320109-25ea-4d0c-872b-912c9a851085\/revision_user?resourceVersion=id%3A225"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/5b320109-25ea-4d0c-872b-912c9a851085\/relationships\/revision_user?resourceVersion=id%3A225"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_unita_organizzativa",
+              "id": "1bf7293b-058c-4164-906a-0dd66e58e5b6",
+              "meta": {
+                "drupal_internal__target_id": 59
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/5b320109-25ea-4d0c-872b-912c9a851085\/parent?resourceVersion=id%3A225"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/5b320109-25ea-4d0c-872b-912c9a851085\/relationships\/parent?resourceVersion=id%3A225"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_unita_organizzativa",
+      "id": "fb953f60-7aa6-45ee-b8b6-9e7f5f28997f",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/fb953f60-7aa6-45ee-b8b6-9e7f5f28997f?resourceVersion=id%3A264"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 264,
+        "drupal_internal__revision_id": 264,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "giunta comunale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:51:04+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-unita-organizzativa\/giunta-comunale",
+          "pid": 264,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6",
+            "meta": {
+              "drupal_internal__target_id": "tipi_unita_organizzativa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/fb953f60-7aa6-45ee-b8b6-9e7f5f28997f\/vid?resourceVersion=id%3A264"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/fb953f60-7aa6-45ee-b8b6-9e7f5f28997f\/relationships\/vid?resourceVersion=id%3A264"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/fb953f60-7aa6-45ee-b8b6-9e7f5f28997f\/revision_user?resourceVersion=id%3A264"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/fb953f60-7aa6-45ee-b8b6-9e7f5f28997f\/relationships\/revision_user?resourceVersion=id%3A264"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_unita_organizzativa",
+              "id": "0a1cb3bc-cd3d-4a8c-8531-1041e43c29a0",
+              "meta": {
+                "drupal_internal__target_id": 142
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/fb953f60-7aa6-45ee-b8b6-9e7f5f28997f\/parent?resourceVersion=id%3A264"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/fb953f60-7aa6-45ee-b8b6-9e7f5f28997f\/relationships\/parent?resourceVersion=id%3A264"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_unita_organizzativa",
+      "id": "f5e05486-51a6-4a5a-bf53-6254c9470169",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e05486-51a6-4a5a-bf53-6254c9470169?resourceVersion=id%3A300"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 300,
+        "drupal_internal__revision_id": 300,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "struttura amministrativa",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:50:47+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-unita-organizzativa\/struttura-amministrativa",
+          "pid": 300,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6",
+            "meta": {
+              "drupal_internal__target_id": "tipi_unita_organizzativa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e05486-51a6-4a5a-bf53-6254c9470169\/vid?resourceVersion=id%3A300"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e05486-51a6-4a5a-bf53-6254c9470169\/relationships\/vid?resourceVersion=id%3A300"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e05486-51a6-4a5a-bf53-6254c9470169\/revision_user?resourceVersion=id%3A300"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e05486-51a6-4a5a-bf53-6254c9470169\/relationships\/revision_user?resourceVersion=id%3A300"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_unita_organizzativa",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e05486-51a6-4a5a-bf53-6254c9470169\/parent?resourceVersion=id%3A300"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f5e05486-51a6-4a5a-bf53-6254c9470169\/relationships\/parent?resourceVersion=id%3A300"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_unita_organizzativa",
+      "id": "f03fa32e-81c3-4c04-a6f6-bfdb05072048",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f03fa32e-81c3-4c04-a6f6-bfdb05072048?resourceVersion=id%3A303"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 303,
+        "drupal_internal__revision_id": 303,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "area",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:50:50+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-unita-organizzativa\/area",
+          "pid": 303,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6",
+            "meta": {
+              "drupal_internal__target_id": "tipi_unita_organizzativa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f03fa32e-81c3-4c04-a6f6-bfdb05072048\/vid?resourceVersion=id%3A303"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f03fa32e-81c3-4c04-a6f6-bfdb05072048\/relationships\/vid?resourceVersion=id%3A303"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f03fa32e-81c3-4c04-a6f6-bfdb05072048\/revision_user?resourceVersion=id%3A303"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f03fa32e-81c3-4c04-a6f6-bfdb05072048\/relationships\/revision_user?resourceVersion=id%3A303"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_unita_organizzativa",
+              "id": "f5e05486-51a6-4a5a-bf53-6254c9470169",
+              "meta": {
+                "drupal_internal__target_id": 300
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f03fa32e-81c3-4c04-a6f6-bfdb05072048\/parent?resourceVersion=id%3A303"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/f03fa32e-81c3-4c04-a6f6-bfdb05072048\/relationships\/parent?resourceVersion=id%3A303"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_unita_organizzativa",
+      "id": "adda0f96-3e3f-4e16-a0b2-17a3be26fce4",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/adda0f96-3e3f-4e16-a0b2-17a3be26fce4?resourceVersion=id%3A304"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 304,
+        "drupal_internal__revision_id": 304,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "ufficio",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:50:52+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-unita-organizzativa\/ufficio",
+          "pid": 304,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6",
+            "meta": {
+              "drupal_internal__target_id": "tipi_unita_organizzativa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/adda0f96-3e3f-4e16-a0b2-17a3be26fce4\/vid?resourceVersion=id%3A304"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/adda0f96-3e3f-4e16-a0b2-17a3be26fce4\/relationships\/vid?resourceVersion=id%3A304"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/adda0f96-3e3f-4e16-a0b2-17a3be26fce4\/revision_user?resourceVersion=id%3A304"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/adda0f96-3e3f-4e16-a0b2-17a3be26fce4\/relationships\/revision_user?resourceVersion=id%3A304"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_unita_organizzativa",
+              "id": "f5e05486-51a6-4a5a-bf53-6254c9470169",
+              "meta": {
+                "drupal_internal__target_id": 300
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/adda0f96-3e3f-4e16-a0b2-17a3be26fce4\/parent?resourceVersion=id%3A304"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/adda0f96-3e3f-4e16-a0b2-17a3be26fce4\/relationships\/parent?resourceVersion=id%3A304"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_unita_organizzativa",
+      "id": "6b209aec-bbe5-48f4-af80-6c7ea6168801",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/6b209aec-bbe5-48f4-af80-6c7ea6168801?resourceVersion=id%3A311"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 311,
+        "drupal_internal__revision_id": 311,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "consiglio comunale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:51:01+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-unita-organizzativa\/consiglio-comunale",
+          "pid": 311,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6",
+            "meta": {
+              "drupal_internal__target_id": "tipi_unita_organizzativa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/6b209aec-bbe5-48f4-af80-6c7ea6168801\/vid?resourceVersion=id%3A311"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/6b209aec-bbe5-48f4-af80-6c7ea6168801\/relationships\/vid?resourceVersion=id%3A311"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/6b209aec-bbe5-48f4-af80-6c7ea6168801\/revision_user?resourceVersion=id%3A311"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/6b209aec-bbe5-48f4-af80-6c7ea6168801\/relationships\/revision_user?resourceVersion=id%3A311"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_unita_organizzativa",
+              "id": "0a1cb3bc-cd3d-4a8c-8531-1041e43c29a0",
+              "meta": {
+                "drupal_internal__target_id": 142
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/6b209aec-bbe5-48f4-af80-6c7ea6168801\/parent?resourceVersion=id%3A311"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/6b209aec-bbe5-48f4-af80-6c7ea6168801\/relationships\/parent?resourceVersion=id%3A311"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_unita_organizzativa",
+      "id": "ac4753e2-6243-4024-82ee-6b4acb8801f2",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/ac4753e2-6243-4024-82ee-6b4acb8801f2?resourceVersion=id%3A323"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 323,
+        "drupal_internal__revision_id": 323,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "commissione",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:50:58+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-unita-organizzativa\/commissione",
+          "pid": 323,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6",
+            "meta": {
+              "drupal_internal__target_id": "tipi_unita_organizzativa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/ac4753e2-6243-4024-82ee-6b4acb8801f2\/vid?resourceVersion=id%3A323"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/ac4753e2-6243-4024-82ee-6b4acb8801f2\/relationships\/vid?resourceVersion=id%3A323"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/ac4753e2-6243-4024-82ee-6b4acb8801f2\/revision_user?resourceVersion=id%3A323"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/ac4753e2-6243-4024-82ee-6b4acb8801f2\/relationships\/revision_user?resourceVersion=id%3A323"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_unita_organizzativa",
+              "id": "0a1cb3bc-cd3d-4a8c-8531-1041e43c29a0",
+              "meta": {
+                "drupal_internal__target_id": 142
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/ac4753e2-6243-4024-82ee-6b4acb8801f2\/parent?resourceVersion=id%3A323"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/ac4753e2-6243-4024-82ee-6b4acb8801f2\/relationships\/parent?resourceVersion=id%3A323"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_unita_organizzativa",
+      "id": "586c90ca-cd31-453b-b0e0-7231c71bcd13",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/586c90ca-cd31-453b-b0e0-7231c71bcd13?resourceVersion=id%3A347"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 347,
+        "drupal_internal__revision_id": 347,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "biblioteca",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:50:22+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-unita-organizzativa\/biblioteca",
+          "pid": 347,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6",
+            "meta": {
+              "drupal_internal__target_id": "tipi_unita_organizzativa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/586c90ca-cd31-453b-b0e0-7231c71bcd13\/vid?resourceVersion=id%3A347"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/586c90ca-cd31-453b-b0e0-7231c71bcd13\/relationships\/vid?resourceVersion=id%3A347"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/586c90ca-cd31-453b-b0e0-7231c71bcd13\/revision_user?resourceVersion=id%3A347"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/586c90ca-cd31-453b-b0e0-7231c71bcd13\/relationships\/revision_user?resourceVersion=id%3A347"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_unita_organizzativa",
+              "id": "1bf7293b-058c-4164-906a-0dd66e58e5b6",
+              "meta": {
+                "drupal_internal__target_id": 59
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/586c90ca-cd31-453b-b0e0-7231c71bcd13\/parent?resourceVersion=id%3A347"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/586c90ca-cd31-453b-b0e0-7231c71bcd13\/relationships\/parent?resourceVersion=id%3A347"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_unita_organizzativa",
+      "id": "1a6fa7b3-837a-41f4-9399-2e91075ff353",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1a6fa7b3-837a-41f4-9399-2e91075ff353?resourceVersion=id%3A359"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 359,
+        "drupal_internal__revision_id": 359,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "museo",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:50:34+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-unita-organizzativa\/museo",
+          "pid": 359,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6",
+            "meta": {
+              "drupal_internal__target_id": "tipi_unita_organizzativa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1a6fa7b3-837a-41f4-9399-2e91075ff353\/vid?resourceVersion=id%3A359"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1a6fa7b3-837a-41f4-9399-2e91075ff353\/relationships\/vid?resourceVersion=id%3A359"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1a6fa7b3-837a-41f4-9399-2e91075ff353\/revision_user?resourceVersion=id%3A359"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1a6fa7b3-837a-41f4-9399-2e91075ff353\/relationships\/revision_user?resourceVersion=id%3A359"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_unita_organizzativa",
+              "id": "1bf7293b-058c-4164-906a-0dd66e58e5b6",
+              "meta": {
+                "drupal_internal__target_id": 59
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1a6fa7b3-837a-41f4-9399-2e91075ff353\/parent?resourceVersion=id%3A359"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1a6fa7b3-837a-41f4-9399-2e91075ff353\/relationships\/parent?resourceVersion=id%3A359"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_unita_organizzativa",
+      "id": "4e55da98-e639-4ec4-9789-37a309a4cdbb",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/4e55da98-e639-4ec4-9789-37a309a4cdbb?resourceVersion=id%3A374"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 374,
+        "drupal_internal__revision_id": 374,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "scuola",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:50:39+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-unita-organizzativa\/scuola",
+          "pid": 374,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6",
+            "meta": {
+              "drupal_internal__target_id": "tipi_unita_organizzativa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/4e55da98-e639-4ec4-9789-37a309a4cdbb\/vid?resourceVersion=id%3A374"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/4e55da98-e639-4ec4-9789-37a309a4cdbb\/relationships\/vid?resourceVersion=id%3A374"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/4e55da98-e639-4ec4-9789-37a309a4cdbb\/revision_user?resourceVersion=id%3A374"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/4e55da98-e639-4ec4-9789-37a309a4cdbb\/relationships\/revision_user?resourceVersion=id%3A374"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_unita_organizzativa",
+              "id": "1bf7293b-058c-4164-906a-0dd66e58e5b6",
+              "meta": {
+                "drupal_internal__target_id": 59
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/4e55da98-e639-4ec4-9789-37a309a4cdbb\/parent?resourceVersion=id%3A374"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/4e55da98-e639-4ec4-9789-37a309a4cdbb\/relationships\/parent?resourceVersion=id%3A374"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_unita_organizzativa",
+      "id": "1e81b13e-65b9-45e2-b571-670e7f5b1ad5",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1e81b13e-65b9-45e2-b571-670e7f5b1ad5?resourceVersion=id%3A386"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 386,
+        "drupal_internal__revision_id": 386,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "centro culturale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:50:25+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-unita-organizzativa\/centro-culturale",
+          "pid": 386,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "c33cf0c4-b7ab-4e95-a394-94ef17f1a2c6",
+            "meta": {
+              "drupal_internal__target_id": "tipi_unita_organizzativa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1e81b13e-65b9-45e2-b571-670e7f5b1ad5\/vid?resourceVersion=id%3A386"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1e81b13e-65b9-45e2-b571-670e7f5b1ad5\/relationships\/vid?resourceVersion=id%3A386"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1e81b13e-65b9-45e2-b571-670e7f5b1ad5\/revision_user?resourceVersion=id%3A386"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1e81b13e-65b9-45e2-b571-670e7f5b1ad5\/relationships\/revision_user?resourceVersion=id%3A386"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_unita_organizzativa",
+              "id": "1bf7293b-058c-4164-906a-0dd66e58e5b6",
+              "meta": {
+                "drupal_internal__target_id": 59
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1e81b13e-65b9-45e2-b571-670e7f5b1ad5\/parent?resourceVersion=id%3A386"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa\/1e81b13e-65b9-45e2-b571-670e7f5b1ad5\/relationships\/parent?resourceVersion=id%3A386"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "links": {
+    "self": {
+      "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_unita_organizzativa"
+    }
+  }
+}

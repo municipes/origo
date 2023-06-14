@@ -1,1 +1,2595 @@
-{"jsonapi":{"version":"1.0","meta":{"links":{"self":{"href":"http:\/\/jsonapi.org\/format\/1.0\/"}}}},"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"5eaea532-410c-4778-b3d9-3f526144af1f","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5eaea532-410c-4778-b3d9-3f526144af1f?resourceVersion=id%3A75"}},"attributes":{"drupal_internal__tid":75,"drupal_internal__revision_id":75,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Atto amministrativo","description":null,"weight":0,"changed":"2023-01-20T01:17:42+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/atto-amministrativo","pid":75,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5eaea532-410c-4778-b3d9-3f526144af1f\/vid?resourceVersion=id%3A75"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5eaea532-410c-4778-b3d9-3f526144af1f\/relationships\/vid?resourceVersion=id%3A75"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5eaea532-410c-4778-b3d9-3f526144af1f\/revision_user?resourceVersion=id%3A75"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5eaea532-410c-4778-b3d9-3f526144af1f\/relationships\/revision_user?resourceVersion=id%3A75"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5eaea532-410c-4778-b3d9-3f526144af1f\/parent?resourceVersion=id%3A75"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5eaea532-410c-4778-b3d9-3f526144af1f\/relationships\/parent?resourceVersion=id%3A75"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"b9bfff21-de94-45b7-8b76-690d218d271e","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b9bfff21-de94-45b7-8b76-690d218d271e?resourceVersion=id%3A76"}},"attributes":{"drupal_internal__tid":76,"drupal_internal__revision_id":76,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Decreto","description":null,"weight":0,"changed":"2023-01-20T01:17:48+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/decreto","pid":76,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b9bfff21-de94-45b7-8b76-690d218d271e\/vid?resourceVersion=id%3A76"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b9bfff21-de94-45b7-8b76-690d218d271e\/relationships\/vid?resourceVersion=id%3A76"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b9bfff21-de94-45b7-8b76-690d218d271e\/revision_user?resourceVersion=id%3A76"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b9bfff21-de94-45b7-8b76-690d218d271e\/relationships\/revision_user?resourceVersion=id%3A76"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"5eaea532-410c-4778-b3d9-3f526144af1f","meta":{"drupal_internal__target_id":75}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b9bfff21-de94-45b7-8b76-690d218d271e\/parent?resourceVersion=id%3A76"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b9bfff21-de94-45b7-8b76-690d218d271e\/relationships\/parent?resourceVersion=id%3A76"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"18c184b8-96a0-4e5b-b53a-35382db84d06","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/18c184b8-96a0-4e5b-b53a-35382db84d06?resourceVersion=id%3A78"}},"attributes":{"drupal_internal__tid":78,"drupal_internal__revision_id":78,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Decreto del Dirigente","description":null,"weight":0,"changed":"2023-01-20T01:17:52+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/decreto-del-dirigente","pid":78,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/18c184b8-96a0-4e5b-b53a-35382db84d06\/vid?resourceVersion=id%3A78"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/18c184b8-96a0-4e5b-b53a-35382db84d06\/relationships\/vid?resourceVersion=id%3A78"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/18c184b8-96a0-4e5b-b53a-35382db84d06\/revision_user?resourceVersion=id%3A78"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/18c184b8-96a0-4e5b-b53a-35382db84d06\/relationships\/revision_user?resourceVersion=id%3A78"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"b9bfff21-de94-45b7-8b76-690d218d271e","meta":{"drupal_internal__target_id":76}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/18c184b8-96a0-4e5b-b53a-35382db84d06\/parent?resourceVersion=id%3A78"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/18c184b8-96a0-4e5b-b53a-35382db84d06\/relationships\/parent?resourceVersion=id%3A78"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"8b12c3a3-de3d-4880-91ba-d1c8ee982482","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/8b12c3a3-de3d-4880-91ba-d1c8ee982482?resourceVersion=id%3A79"}},"attributes":{"drupal_internal__tid":79,"drupal_internal__revision_id":79,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Decreto del Sindaco","description":null,"weight":0,"changed":"2023-01-20T01:17:55+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/decreto-del-sindaco","pid":79,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/8b12c3a3-de3d-4880-91ba-d1c8ee982482\/vid?resourceVersion=id%3A79"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/8b12c3a3-de3d-4880-91ba-d1c8ee982482\/relationships\/vid?resourceVersion=id%3A79"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/8b12c3a3-de3d-4880-91ba-d1c8ee982482\/revision_user?resourceVersion=id%3A79"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/8b12c3a3-de3d-4880-91ba-d1c8ee982482\/relationships\/revision_user?resourceVersion=id%3A79"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"b9bfff21-de94-45b7-8b76-690d218d271e","meta":{"drupal_internal__target_id":76}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/8b12c3a3-de3d-4880-91ba-d1c8ee982482\/parent?resourceVersion=id%3A79"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/8b12c3a3-de3d-4880-91ba-d1c8ee982482\/relationships\/parent?resourceVersion=id%3A79"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"c17d14f5-5f04-4817-9d8e-eb25a969a7f4","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c17d14f5-5f04-4817-9d8e-eb25a969a7f4?resourceVersion=id%3A80"}},"attributes":{"drupal_internal__tid":80,"drupal_internal__revision_id":80,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Deliberazione","description":null,"weight":0,"changed":"2023-01-20T01:17:58+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/deliberazione","pid":80,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c17d14f5-5f04-4817-9d8e-eb25a969a7f4\/vid?resourceVersion=id%3A80"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c17d14f5-5f04-4817-9d8e-eb25a969a7f4\/relationships\/vid?resourceVersion=id%3A80"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c17d14f5-5f04-4817-9d8e-eb25a969a7f4\/revision_user?resourceVersion=id%3A80"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c17d14f5-5f04-4817-9d8e-eb25a969a7f4\/relationships\/revision_user?resourceVersion=id%3A80"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"5eaea532-410c-4778-b3d9-3f526144af1f","meta":{"drupal_internal__target_id":75}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c17d14f5-5f04-4817-9d8e-eb25a969a7f4\/parent?resourceVersion=id%3A80"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c17d14f5-5f04-4817-9d8e-eb25a969a7f4\/relationships\/parent?resourceVersion=id%3A80"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"a2d1666a-84ae-44b0-8491-f9822bb79371","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a2d1666a-84ae-44b0-8491-f9822bb79371?resourceVersion=id%3A83"}},"attributes":{"drupal_internal__tid":83,"drupal_internal__revision_id":83,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Deliberazione del Consiglio comunale","description":null,"weight":0,"changed":"2023-01-20T01:18:08+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/deliberazione-del-consiglio-comunale","pid":83,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a2d1666a-84ae-44b0-8491-f9822bb79371\/vid?resourceVersion=id%3A83"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a2d1666a-84ae-44b0-8491-f9822bb79371\/relationships\/vid?resourceVersion=id%3A83"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a2d1666a-84ae-44b0-8491-f9822bb79371\/revision_user?resourceVersion=id%3A83"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a2d1666a-84ae-44b0-8491-f9822bb79371\/relationships\/revision_user?resourceVersion=id%3A83"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"c17d14f5-5f04-4817-9d8e-eb25a969a7f4","meta":{"drupal_internal__target_id":80}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a2d1666a-84ae-44b0-8491-f9822bb79371\/parent?resourceVersion=id%3A83"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a2d1666a-84ae-44b0-8491-f9822bb79371\/relationships\/parent?resourceVersion=id%3A83"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"28e71d2c-37ee-4345-8ecd-6649ef82e39f","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28e71d2c-37ee-4345-8ecd-6649ef82e39f?resourceVersion=id%3A84"}},"attributes":{"drupal_internal__tid":84,"drupal_internal__revision_id":84,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Deliberazione della Giunta comunale","description":null,"weight":0,"changed":"2023-01-20T01:18:14+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/deliberazione-della-giunta-comunale","pid":84,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28e71d2c-37ee-4345-8ecd-6649ef82e39f\/vid?resourceVersion=id%3A84"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28e71d2c-37ee-4345-8ecd-6649ef82e39f\/relationships\/vid?resourceVersion=id%3A84"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28e71d2c-37ee-4345-8ecd-6649ef82e39f\/revision_user?resourceVersion=id%3A84"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28e71d2c-37ee-4345-8ecd-6649ef82e39f\/relationships\/revision_user?resourceVersion=id%3A84"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"c17d14f5-5f04-4817-9d8e-eb25a969a7f4","meta":{"drupal_internal__target_id":80}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28e71d2c-37ee-4345-8ecd-6649ef82e39f\/parent?resourceVersion=id%3A84"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28e71d2c-37ee-4345-8ecd-6649ef82e39f\/relationships\/parent?resourceVersion=id%3A84"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"61ffafb7-7ee3-4f0b-8677-2f809a00d2c6","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61ffafb7-7ee3-4f0b-8677-2f809a00d2c6?resourceVersion=id%3A85"}},"attributes":{"drupal_internal__tid":85,"drupal_internal__revision_id":85,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Deliberazione del Commissario ad acta","description":null,"weight":0,"changed":"2023-01-20T01:18:01+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/deliberazione-del-commissario-ad-acta","pid":85,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61ffafb7-7ee3-4f0b-8677-2f809a00d2c6\/vid?resourceVersion=id%3A85"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61ffafb7-7ee3-4f0b-8677-2f809a00d2c6\/relationships\/vid?resourceVersion=id%3A85"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61ffafb7-7ee3-4f0b-8677-2f809a00d2c6\/revision_user?resourceVersion=id%3A85"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61ffafb7-7ee3-4f0b-8677-2f809a00d2c6\/relationships\/revision_user?resourceVersion=id%3A85"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"c17d14f5-5f04-4817-9d8e-eb25a969a7f4","meta":{"drupal_internal__target_id":80}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61ffafb7-7ee3-4f0b-8677-2f809a00d2c6\/parent?resourceVersion=id%3A85"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61ffafb7-7ee3-4f0b-8677-2f809a00d2c6\/relationships\/parent?resourceVersion=id%3A85"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"96a512dd-1414-444d-88fe-33cda48d29e6","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/96a512dd-1414-444d-88fe-33cda48d29e6?resourceVersion=id%3A86"}},"attributes":{"drupal_internal__tid":86,"drupal_internal__revision_id":86,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Deliberazione del Consiglio circoscrizionale","description":null,"weight":0,"changed":"2023-01-20T01:18:05+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/deliberazione-del-consiglio-circoscrizionale","pid":86,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/96a512dd-1414-444d-88fe-33cda48d29e6\/vid?resourceVersion=id%3A86"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/96a512dd-1414-444d-88fe-33cda48d29e6\/relationships\/vid?resourceVersion=id%3A86"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/96a512dd-1414-444d-88fe-33cda48d29e6\/revision_user?resourceVersion=id%3A86"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/96a512dd-1414-444d-88fe-33cda48d29e6\/relationships\/revision_user?resourceVersion=id%3A86"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"c17d14f5-5f04-4817-9d8e-eb25a969a7f4","meta":{"drupal_internal__target_id":80}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/96a512dd-1414-444d-88fe-33cda48d29e6\/parent?resourceVersion=id%3A86"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/96a512dd-1414-444d-88fe-33cda48d29e6\/relationships\/parent?resourceVersion=id%3A86"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"05a5f1c4-70a3-4a26-985e-91eeca273f4d","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/05a5f1c4-70a3-4a26-985e-91eeca273f4d?resourceVersion=id%3A87"}},"attributes":{"drupal_internal__tid":87,"drupal_internal__revision_id":87,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Deliberazione dell\u0027Esecutivo circoscrizionale","description":null,"weight":0,"changed":"2023-01-20T01:18:11+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/deliberazione-dellesecutivo-circoscrizionale","pid":87,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/05a5f1c4-70a3-4a26-985e-91eeca273f4d\/vid?resourceVersion=id%3A87"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/05a5f1c4-70a3-4a26-985e-91eeca273f4d\/relationships\/vid?resourceVersion=id%3A87"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/05a5f1c4-70a3-4a26-985e-91eeca273f4d\/revision_user?resourceVersion=id%3A87"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/05a5f1c4-70a3-4a26-985e-91eeca273f4d\/relationships\/revision_user?resourceVersion=id%3A87"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"c17d14f5-5f04-4817-9d8e-eb25a969a7f4","meta":{"drupal_internal__target_id":80}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/05a5f1c4-70a3-4a26-985e-91eeca273f4d\/parent?resourceVersion=id%3A87"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/05a5f1c4-70a3-4a26-985e-91eeca273f4d\/relationships\/parent?resourceVersion=id%3A87"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"5e5ce540-53d9-4199-b188-2804959042d8","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5e5ce540-53d9-4199-b188-2804959042d8?resourceVersion=id%3A88"}},"attributes":{"drupal_internal__tid":88,"drupal_internal__revision_id":88,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Deliberazione di altri Organi","description":null,"weight":0,"changed":"2023-01-20T01:18:17+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/deliberazione-di-altri-organi","pid":88,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5e5ce540-53d9-4199-b188-2804959042d8\/vid?resourceVersion=id%3A88"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5e5ce540-53d9-4199-b188-2804959042d8\/relationships\/vid?resourceVersion=id%3A88"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5e5ce540-53d9-4199-b188-2804959042d8\/revision_user?resourceVersion=id%3A88"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5e5ce540-53d9-4199-b188-2804959042d8\/relationships\/revision_user?resourceVersion=id%3A88"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"c17d14f5-5f04-4817-9d8e-eb25a969a7f4","meta":{"drupal_internal__target_id":80}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5e5ce540-53d9-4199-b188-2804959042d8\/parent?resourceVersion=id%3A88"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5e5ce540-53d9-4199-b188-2804959042d8\/relationships\/parent?resourceVersion=id%3A88"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"28a24df5-0ac1-4504-bb94-76f1251156f3","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28a24df5-0ac1-4504-bb94-76f1251156f3?resourceVersion=id%3A89"}},"attributes":{"drupal_internal__tid":89,"drupal_internal__revision_id":89,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Determinazione","description":null,"weight":0,"changed":"2023-01-20T01:18:21+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/determinazione","pid":89,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28a24df5-0ac1-4504-bb94-76f1251156f3\/vid?resourceVersion=id%3A89"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28a24df5-0ac1-4504-bb94-76f1251156f3\/relationships\/vid?resourceVersion=id%3A89"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28a24df5-0ac1-4504-bb94-76f1251156f3\/revision_user?resourceVersion=id%3A89"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28a24df5-0ac1-4504-bb94-76f1251156f3\/relationships\/revision_user?resourceVersion=id%3A89"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"5eaea532-410c-4778-b3d9-3f526144af1f","meta":{"drupal_internal__target_id":75}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28a24df5-0ac1-4504-bb94-76f1251156f3\/parent?resourceVersion=id%3A89"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28a24df5-0ac1-4504-bb94-76f1251156f3\/relationships\/parent?resourceVersion=id%3A89"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"07fa9cc9-9c3b-4f35-a656-0afc6a38b5a9","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/07fa9cc9-9c3b-4f35-a656-0afc6a38b5a9?resourceVersion=id%3A91"}},"attributes":{"drupal_internal__tid":91,"drupal_internal__revision_id":91,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Determinazione del Sindaco","description":null,"weight":0,"changed":"2023-01-20T01:18:27+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/determinazione-del-sindaco","pid":91,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/07fa9cc9-9c3b-4f35-a656-0afc6a38b5a9\/vid?resourceVersion=id%3A91"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/07fa9cc9-9c3b-4f35-a656-0afc6a38b5a9\/relationships\/vid?resourceVersion=id%3A91"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/07fa9cc9-9c3b-4f35-a656-0afc6a38b5a9\/revision_user?resourceVersion=id%3A91"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/07fa9cc9-9c3b-4f35-a656-0afc6a38b5a9\/relationships\/revision_user?resourceVersion=id%3A91"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"28a24df5-0ac1-4504-bb94-76f1251156f3","meta":{"drupal_internal__target_id":89}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/07fa9cc9-9c3b-4f35-a656-0afc6a38b5a9\/parent?resourceVersion=id%3A91"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/07fa9cc9-9c3b-4f35-a656-0afc6a38b5a9\/relationships\/parent?resourceVersion=id%3A91"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"45e59edc-a6f7-4219-a662-359b08e9ece1","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/45e59edc-a6f7-4219-a662-359b08e9ece1?resourceVersion=id%3A92"}},"attributes":{"drupal_internal__tid":92,"drupal_internal__revision_id":92,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Determinazione del Dirigente","description":null,"weight":0,"changed":"2023-01-20T01:18:24+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/determinazione-del-dirigente","pid":92,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/45e59edc-a6f7-4219-a662-359b08e9ece1\/vid?resourceVersion=id%3A92"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/45e59edc-a6f7-4219-a662-359b08e9ece1\/relationships\/vid?resourceVersion=id%3A92"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/45e59edc-a6f7-4219-a662-359b08e9ece1\/revision_user?resourceVersion=id%3A92"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/45e59edc-a6f7-4219-a662-359b08e9ece1\/relationships\/revision_user?resourceVersion=id%3A92"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"28a24df5-0ac1-4504-bb94-76f1251156f3","meta":{"drupal_internal__target_id":89}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/45e59edc-a6f7-4219-a662-359b08e9ece1\/parent?resourceVersion=id%3A92"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/45e59edc-a6f7-4219-a662-359b08e9ece1\/relationships\/parent?resourceVersion=id%3A92"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"6731cbfc-10e2-4eb3-b13d-6dcb92d75f98","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6731cbfc-10e2-4eb3-b13d-6dcb92d75f98?resourceVersion=id%3A95"}},"attributes":{"drupal_internal__tid":95,"drupal_internal__revision_id":95,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Ordinanza","description":null,"weight":0,"changed":"2023-01-20T01:18:30+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/ordinanza","pid":95,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6731cbfc-10e2-4eb3-b13d-6dcb92d75f98\/vid?resourceVersion=id%3A95"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6731cbfc-10e2-4eb3-b13d-6dcb92d75f98\/relationships\/vid?resourceVersion=id%3A95"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6731cbfc-10e2-4eb3-b13d-6dcb92d75f98\/revision_user?resourceVersion=id%3A95"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6731cbfc-10e2-4eb3-b13d-6dcb92d75f98\/relationships\/revision_user?resourceVersion=id%3A95"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"5eaea532-410c-4778-b3d9-3f526144af1f","meta":{"drupal_internal__target_id":75}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6731cbfc-10e2-4eb3-b13d-6dcb92d75f98\/parent?resourceVersion=id%3A95"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6731cbfc-10e2-4eb3-b13d-6dcb92d75f98\/relationships\/parent?resourceVersion=id%3A95"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"ea4f4944-33ce-46df-a87f-dd5a9143849f","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/ea4f4944-33ce-46df-a87f-dd5a9143849f?resourceVersion=id%3A96"}},"attributes":{"drupal_internal__tid":96,"drupal_internal__revision_id":96,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Ordinanza del Dirigente","description":null,"weight":0,"changed":"2023-01-20T01:18:34+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/ordinanza-del-dirigente","pid":96,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/ea4f4944-33ce-46df-a87f-dd5a9143849f\/vid?resourceVersion=id%3A96"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/ea4f4944-33ce-46df-a87f-dd5a9143849f\/relationships\/vid?resourceVersion=id%3A96"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/ea4f4944-33ce-46df-a87f-dd5a9143849f\/revision_user?resourceVersion=id%3A96"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/ea4f4944-33ce-46df-a87f-dd5a9143849f\/relationships\/revision_user?resourceVersion=id%3A96"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"6731cbfc-10e2-4eb3-b13d-6dcb92d75f98","meta":{"drupal_internal__target_id":95}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/ea4f4944-33ce-46df-a87f-dd5a9143849f\/parent?resourceVersion=id%3A96"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/ea4f4944-33ce-46df-a87f-dd5a9143849f\/relationships\/parent?resourceVersion=id%3A96"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"a795fac0-e0ce-454c-8f88-086c317ea9d9","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a795fac0-e0ce-454c-8f88-086c317ea9d9?resourceVersion=id%3A97"}},"attributes":{"drupal_internal__tid":97,"drupal_internal__revision_id":97,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Ordinanza del Sindaco","description":null,"weight":0,"changed":"2023-01-20T01:18:37+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/ordinanza-del-sindaco","pid":97,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a795fac0-e0ce-454c-8f88-086c317ea9d9\/vid?resourceVersion=id%3A97"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a795fac0-e0ce-454c-8f88-086c317ea9d9\/relationships\/vid?resourceVersion=id%3A97"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a795fac0-e0ce-454c-8f88-086c317ea9d9\/revision_user?resourceVersion=id%3A97"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a795fac0-e0ce-454c-8f88-086c317ea9d9\/relationships\/revision_user?resourceVersion=id%3A97"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"6731cbfc-10e2-4eb3-b13d-6dcb92d75f98","meta":{"drupal_internal__target_id":95}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a795fac0-e0ce-454c-8f88-086c317ea9d9\/parent?resourceVersion=id%3A97"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a795fac0-e0ce-454c-8f88-086c317ea9d9\/relationships\/parent?resourceVersion=id%3A97"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"9ad61fb0-d9bf-4885-87df-670cc32a3ccc","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/9ad61fb0-d9bf-4885-87df-670cc32a3ccc?resourceVersion=id%3A98"}},"attributes":{"drupal_internal__tid":98,"drupal_internal__revision_id":98,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Atto autorizzativo","description":null,"weight":0,"changed":"2023-01-20T01:18:39+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/atto-autorizzativo","pid":98,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/9ad61fb0-d9bf-4885-87df-670cc32a3ccc\/vid?resourceVersion=id%3A98"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/9ad61fb0-d9bf-4885-87df-670cc32a3ccc\/relationships\/vid?resourceVersion=id%3A98"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/9ad61fb0-d9bf-4885-87df-670cc32a3ccc\/revision_user?resourceVersion=id%3A98"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/9ad61fb0-d9bf-4885-87df-670cc32a3ccc\/relationships\/revision_user?resourceVersion=id%3A98"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/9ad61fb0-d9bf-4885-87df-670cc32a3ccc\/parent?resourceVersion=id%3A98"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/9ad61fb0-d9bf-4885-87df-670cc32a3ccc\/relationships\/parent?resourceVersion=id%3A98"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"6f91eb72-94bd-4576-8d3d-3a0693f333c3","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f91eb72-94bd-4576-8d3d-3a0693f333c3?resourceVersion=id%3A99"}},"attributes":{"drupal_internal__tid":99,"drupal_internal__revision_id":99,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Permesso a costruire","description":null,"weight":0,"changed":"2023-01-20T01:18:43+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/permesso-costruire","pid":99,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f91eb72-94bd-4576-8d3d-3a0693f333c3\/vid?resourceVersion=id%3A99"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f91eb72-94bd-4576-8d3d-3a0693f333c3\/relationships\/vid?resourceVersion=id%3A99"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f91eb72-94bd-4576-8d3d-3a0693f333c3\/revision_user?resourceVersion=id%3A99"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f91eb72-94bd-4576-8d3d-3a0693f333c3\/relationships\/revision_user?resourceVersion=id%3A99"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"9ad61fb0-d9bf-4885-87df-670cc32a3ccc","meta":{"drupal_internal__target_id":98}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f91eb72-94bd-4576-8d3d-3a0693f333c3\/parent?resourceVersion=id%3A99"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f91eb72-94bd-4576-8d3d-3a0693f333c3\/relationships\/parent?resourceVersion=id%3A99"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"540c5e20-eba3-4160-bc82-f53fcf2f78b4","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/540c5e20-eba3-4160-bc82-f53fcf2f78b4?resourceVersion=id%3A100"}},"attributes":{"drupal_internal__tid":100,"drupal_internal__revision_id":100,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Atto dello stato civile","description":null,"weight":0,"changed":"2023-01-20T01:18:47+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/atto-dello-stato-civile","pid":100,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/540c5e20-eba3-4160-bc82-f53fcf2f78b4\/vid?resourceVersion=id%3A100"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/540c5e20-eba3-4160-bc82-f53fcf2f78b4\/relationships\/vid?resourceVersion=id%3A100"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/540c5e20-eba3-4160-bc82-f53fcf2f78b4\/revision_user?resourceVersion=id%3A100"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/540c5e20-eba3-4160-bc82-f53fcf2f78b4\/relationships\/revision_user?resourceVersion=id%3A100"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/540c5e20-eba3-4160-bc82-f53fcf2f78b4\/parent?resourceVersion=id%3A100"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/540c5e20-eba3-4160-bc82-f53fcf2f78b4\/relationships\/parent?resourceVersion=id%3A100"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"4e0cc08a-f9f2-459a-a35d-a380ee215f79","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/4e0cc08a-f9f2-459a-a35d-a380ee215f79?resourceVersion=id%3A101"}},"attributes":{"drupal_internal__tid":101,"drupal_internal__revision_id":101,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Provvedimento di cancellazione per irreperibilit\u00e0","description":null,"weight":0,"changed":"2023-01-20T01:18:50+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/provvedimento-di-cancellazione-irreperibilita","pid":101,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/4e0cc08a-f9f2-459a-a35d-a380ee215f79\/vid?resourceVersion=id%3A101"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/4e0cc08a-f9f2-459a-a35d-a380ee215f79\/relationships\/vid?resourceVersion=id%3A101"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/4e0cc08a-f9f2-459a-a35d-a380ee215f79\/revision_user?resourceVersion=id%3A101"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/4e0cc08a-f9f2-459a-a35d-a380ee215f79\/relationships\/revision_user?resourceVersion=id%3A101"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"540c5e20-eba3-4160-bc82-f53fcf2f78b4","meta":{"drupal_internal__target_id":100}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/4e0cc08a-f9f2-459a-a35d-a380ee215f79\/parent?resourceVersion=id%3A101"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/4e0cc08a-f9f2-459a-a35d-a380ee215f79\/relationships\/parent?resourceVersion=id%3A101"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"3557cfc9-4e4d-4ad3-9693-5297b98b1fc7","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/3557cfc9-4e4d-4ad3-9693-5297b98b1fc7?resourceVersion=id%3A102"}},"attributes":{"drupal_internal__tid":102,"drupal_internal__revision_id":102,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Pubblicazione cambio nome","description":null,"weight":0,"changed":"2023-01-20T01:18:56+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/pubblicazione-cambio-nome","pid":102,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/3557cfc9-4e4d-4ad3-9693-5297b98b1fc7\/vid?resourceVersion=id%3A102"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/3557cfc9-4e4d-4ad3-9693-5297b98b1fc7\/relationships\/vid?resourceVersion=id%3A102"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/3557cfc9-4e4d-4ad3-9693-5297b98b1fc7\/revision_user?resourceVersion=id%3A102"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/3557cfc9-4e4d-4ad3-9693-5297b98b1fc7\/relationships\/revision_user?resourceVersion=id%3A102"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"540c5e20-eba3-4160-bc82-f53fcf2f78b4","meta":{"drupal_internal__target_id":100}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/3557cfc9-4e4d-4ad3-9693-5297b98b1fc7\/parent?resourceVersion=id%3A102"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/3557cfc9-4e4d-4ad3-9693-5297b98b1fc7\/relationships\/parent?resourceVersion=id%3A102"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"b2016a44-8b02-46d2-be64-18975eb93a50","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b2016a44-8b02-46d2-be64-18975eb93a50?resourceVersion=id%3A105"}},"attributes":{"drupal_internal__tid":105,"drupal_internal__revision_id":105,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Pubbicazione di matrimonio","description":null,"weight":0,"changed":"2023-01-20T01:18:53+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/pubbicazione-di-matrimonio","pid":105,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b2016a44-8b02-46d2-be64-18975eb93a50\/vid?resourceVersion=id%3A105"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b2016a44-8b02-46d2-be64-18975eb93a50\/relationships\/vid?resourceVersion=id%3A105"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b2016a44-8b02-46d2-be64-18975eb93a50\/revision_user?resourceVersion=id%3A105"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b2016a44-8b02-46d2-be64-18975eb93a50\/relationships\/revision_user?resourceVersion=id%3A105"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"540c5e20-eba3-4160-bc82-f53fcf2f78b4","meta":{"drupal_internal__target_id":100}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b2016a44-8b02-46d2-be64-18975eb93a50\/parent?resourceVersion=id%3A105"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b2016a44-8b02-46d2-be64-18975eb93a50\/relationships\/parent?resourceVersion=id%3A105"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"efebe02f-4b66-4f42-ad01-40b766a7616c","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/efebe02f-4b66-4f42-ad01-40b766a7616c?resourceVersion=id%3A107"}},"attributes":{"drupal_internal__tid":107,"drupal_internal__revision_id":107,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Atto generico","description":null,"weight":0,"changed":"2023-01-20T01:18:59+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/atto-generico","pid":107,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/efebe02f-4b66-4f42-ad01-40b766a7616c\/vid?resourceVersion=id%3A107"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/efebe02f-4b66-4f42-ad01-40b766a7616c\/relationships\/vid?resourceVersion=id%3A107"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/efebe02f-4b66-4f42-ad01-40b766a7616c\/revision_user?resourceVersion=id%3A107"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/efebe02f-4b66-4f42-ad01-40b766a7616c\/relationships\/revision_user?resourceVersion=id%3A107"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/efebe02f-4b66-4f42-ad01-40b766a7616c\/parent?resourceVersion=id%3A107"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/efebe02f-4b66-4f42-ad01-40b766a7616c\/relationships\/parent?resourceVersion=id%3A107"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"691a9c76-e677-4ac7-8c0f-4b77f6fb0819","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/691a9c76-e677-4ac7-8c0f-4b77f6fb0819?resourceVersion=id%3A108"}},"attributes":{"drupal_internal__tid":108,"drupal_internal__revision_id":108,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Avviso","description":null,"weight":0,"changed":"2023-01-20T01:19:03+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/avviso","pid":108,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/691a9c76-e677-4ac7-8c0f-4b77f6fb0819\/vid?resourceVersion=id%3A108"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/691a9c76-e677-4ac7-8c0f-4b77f6fb0819\/relationships\/vid?resourceVersion=id%3A108"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/691a9c76-e677-4ac7-8c0f-4b77f6fb0819\/revision_user?resourceVersion=id%3A108"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/691a9c76-e677-4ac7-8c0f-4b77f6fb0819\/relationships\/revision_user?resourceVersion=id%3A108"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"efebe02f-4b66-4f42-ad01-40b766a7616c","meta":{"drupal_internal__target_id":107}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/691a9c76-e677-4ac7-8c0f-4b77f6fb0819\/parent?resourceVersion=id%3A108"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/691a9c76-e677-4ac7-8c0f-4b77f6fb0819\/relationships\/parent?resourceVersion=id%3A108"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"7fa12cfa-0196-440c-b9fc-031a85b5e541","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/7fa12cfa-0196-440c-b9fc-031a85b5e541?resourceVersion=id%3A109"}},"attributes":{"drupal_internal__tid":109,"drupal_internal__revision_id":109,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Avviso di deposito in casa comunale","description":null,"weight":0,"changed":"2023-01-20T01:19:07+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/avviso-di-deposito-casa-comunale","pid":109,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/7fa12cfa-0196-440c-b9fc-031a85b5e541\/vid?resourceVersion=id%3A109"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/7fa12cfa-0196-440c-b9fc-031a85b5e541\/relationships\/vid?resourceVersion=id%3A109"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/7fa12cfa-0196-440c-b9fc-031a85b5e541\/revision_user?resourceVersion=id%3A109"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/7fa12cfa-0196-440c-b9fc-031a85b5e541\/relationships\/revision_user?resourceVersion=id%3A109"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"691a9c76-e677-4ac7-8c0f-4b77f6fb0819","meta":{"drupal_internal__target_id":108}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/7fa12cfa-0196-440c-b9fc-031a85b5e541\/parent?resourceVersion=id%3A109"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/7fa12cfa-0196-440c-b9fc-031a85b5e541\/relationships\/parent?resourceVersion=id%3A109"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"c27b8114-97aa-49f2-b529-1a648acdcd14","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c27b8114-97aa-49f2-b529-1a648acdcd14?resourceVersion=id%3A110"}},"attributes":{"drupal_internal__tid":110,"drupal_internal__revision_id":110,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Avviso\/Manifesto","description":null,"weight":0,"changed":"2023-01-20T01:19:10+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/avvisomanifesto","pid":110,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c27b8114-97aa-49f2-b529-1a648acdcd14\/vid?resourceVersion=id%3A110"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c27b8114-97aa-49f2-b529-1a648acdcd14\/relationships\/vid?resourceVersion=id%3A110"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c27b8114-97aa-49f2-b529-1a648acdcd14\/revision_user?resourceVersion=id%3A110"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c27b8114-97aa-49f2-b529-1a648acdcd14\/relationships\/revision_user?resourceVersion=id%3A110"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"691a9c76-e677-4ac7-8c0f-4b77f6fb0819","meta":{"drupal_internal__target_id":108}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c27b8114-97aa-49f2-b529-1a648acdcd14\/parent?resourceVersion=id%3A110"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c27b8114-97aa-49f2-b529-1a648acdcd14\/relationships\/parent?resourceVersion=id%3A110"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"6f21d77c-d1f9-4b8c-b1c7-ab36d5098639","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f21d77c-d1f9-4b8c-b1c7-ab36d5098639?resourceVersion=id%3A111"}},"attributes":{"drupal_internal__tid":111,"drupal_internal__revision_id":111,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Bando","description":null,"weight":0,"changed":"2023-01-20T01:19:13+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/bando","pid":111,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f21d77c-d1f9-4b8c-b1c7-ab36d5098639\/vid?resourceVersion=id%3A111"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f21d77c-d1f9-4b8c-b1c7-ab36d5098639\/relationships\/vid?resourceVersion=id%3A111"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f21d77c-d1f9-4b8c-b1c7-ab36d5098639\/revision_user?resourceVersion=id%3A111"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f21d77c-d1f9-4b8c-b1c7-ab36d5098639\/relationships\/revision_user?resourceVersion=id%3A111"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"efebe02f-4b66-4f42-ad01-40b766a7616c","meta":{"drupal_internal__target_id":107}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f21d77c-d1f9-4b8c-b1c7-ab36d5098639\/parent?resourceVersion=id%3A111"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f21d77c-d1f9-4b8c-b1c7-ab36d5098639\/relationships\/parent?resourceVersion=id%3A111"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"150e4dcf-f68f-4103-9655-b3b16c0c5fd1","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/150e4dcf-f68f-4103-9655-b3b16c0c5fd1?resourceVersion=id%3A112"}},"attributes":{"drupal_internal__tid":112,"drupal_internal__revision_id":112,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Bando di concorso","description":null,"weight":0,"changed":"2023-01-20T01:19:16+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/bando-di-concorso","pid":112,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/150e4dcf-f68f-4103-9655-b3b16c0c5fd1\/vid?resourceVersion=id%3A112"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/150e4dcf-f68f-4103-9655-b3b16c0c5fd1\/relationships\/vid?resourceVersion=id%3A112"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/150e4dcf-f68f-4103-9655-b3b16c0c5fd1\/revision_user?resourceVersion=id%3A112"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/150e4dcf-f68f-4103-9655-b3b16c0c5fd1\/relationships\/revision_user?resourceVersion=id%3A112"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"6f21d77c-d1f9-4b8c-b1c7-ab36d5098639","meta":{"drupal_internal__target_id":111}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/150e4dcf-f68f-4103-9655-b3b16c0c5fd1\/parent?resourceVersion=id%3A112"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/150e4dcf-f68f-4103-9655-b3b16c0c5fd1\/relationships\/parent?resourceVersion=id%3A112"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"61b51905-2bf6-41e7-af0b-7cfe0710bcfc","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61b51905-2bf6-41e7-af0b-7cfe0710bcfc?resourceVersion=id%3A113"}},"attributes":{"drupal_internal__tid":113,"drupal_internal__revision_id":113,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Bando di gara","description":null,"weight":0,"changed":"2023-01-20T01:19:23+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/bando-di-gara","pid":113,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61b51905-2bf6-41e7-af0b-7cfe0710bcfc\/vid?resourceVersion=id%3A113"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61b51905-2bf6-41e7-af0b-7cfe0710bcfc\/relationships\/vid?resourceVersion=id%3A113"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61b51905-2bf6-41e7-af0b-7cfe0710bcfc\/revision_user?resourceVersion=id%3A113"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61b51905-2bf6-41e7-af0b-7cfe0710bcfc\/relationships\/revision_user?resourceVersion=id%3A113"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"6f21d77c-d1f9-4b8c-b1c7-ab36d5098639","meta":{"drupal_internal__target_id":111}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61b51905-2bf6-41e7-af0b-7cfe0710bcfc\/parent?resourceVersion=id%3A113"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61b51905-2bf6-41e7-af0b-7cfe0710bcfc\/relationships\/parent?resourceVersion=id%3A113"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"dfdc44e3-57d1-4dcf-a88c-60db1e483e45","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/dfdc44e3-57d1-4dcf-a88c-60db1e483e45?resourceVersion=id%3A114"}},"attributes":{"drupal_internal__tid":114,"drupal_internal__revision_id":114,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Bando di contributi e vantaggi economici","description":null,"weight":0,"changed":"2023-01-20T01:19:20+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/bando-di-contributi-e-vantaggi-economici","pid":114,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/dfdc44e3-57d1-4dcf-a88c-60db1e483e45\/vid?resourceVersion=id%3A114"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/dfdc44e3-57d1-4dcf-a88c-60db1e483e45\/relationships\/vid?resourceVersion=id%3A114"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/dfdc44e3-57d1-4dcf-a88c-60db1e483e45\/revision_user?resourceVersion=id%3A114"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/dfdc44e3-57d1-4dcf-a88c-60db1e483e45\/relationships\/revision_user?resourceVersion=id%3A114"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"6f21d77c-d1f9-4b8c-b1c7-ab36d5098639","meta":{"drupal_internal__target_id":111}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/dfdc44e3-57d1-4dcf-a88c-60db1e483e45\/parent?resourceVersion=id%3A114"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/dfdc44e3-57d1-4dcf-a88c-60db1e483e45\/relationships\/parent?resourceVersion=id%3A114"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"5d72c6a6-4623-4d04-b98a-6d67640735b0","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5d72c6a6-4623-4d04-b98a-6d67640735b0?resourceVersion=id%3A116"}},"attributes":{"drupal_internal__tid":116,"drupal_internal__revision_id":116,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Pubblicazione esterna","description":null,"weight":0,"changed":"2023-01-20T01:19:26+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/pubblicazione-esterna","pid":116,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5d72c6a6-4623-4d04-b98a-6d67640735b0\/vid?resourceVersion=id%3A116"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5d72c6a6-4623-4d04-b98a-6d67640735b0\/relationships\/vid?resourceVersion=id%3A116"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5d72c6a6-4623-4d04-b98a-6d67640735b0\/revision_user?resourceVersion=id%3A116"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5d72c6a6-4623-4d04-b98a-6d67640735b0\/relationships\/revision_user?resourceVersion=id%3A116"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5d72c6a6-4623-4d04-b98a-6d67640735b0\/parent?resourceVersion=id%3A116"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5d72c6a6-4623-4d04-b98a-6d67640735b0\/relationships\/parent?resourceVersion=id%3A116"}}}}},{"type":"taxonomy_term--documenti_albo_pretorio","id":"175cb192-43e6-417d-ae25-65804ad621e5","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/175cb192-43e6-417d-ae25-65804ad621e5?resourceVersion=id%3A119"}},"attributes":{"drupal_internal__tid":119,"drupal_internal__revision_id":119,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Atto di terzi","description":null,"weight":0,"changed":"2023-01-20T01:19:29+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/documenti-albo-pretorio\/atto-di-terzi","pid":119,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9f45cea1-3d32-4c8c-bc85-e1bca51dc938","meta":{"drupal_internal__target_id":"documenti_albo_pretorio"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/175cb192-43e6-417d-ae25-65804ad621e5\/vid?resourceVersion=id%3A119"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/175cb192-43e6-417d-ae25-65804ad621e5\/relationships\/vid?resourceVersion=id%3A119"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/175cb192-43e6-417d-ae25-65804ad621e5\/revision_user?resourceVersion=id%3A119"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/175cb192-43e6-417d-ae25-65804ad621e5\/relationships\/revision_user?resourceVersion=id%3A119"}}},"parent":{"data":[{"type":"taxonomy_term--documenti_albo_pretorio","id":"5d72c6a6-4623-4d04-b98a-6d67640735b0","meta":{"drupal_internal__target_id":116}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/175cb192-43e6-417d-ae25-65804ad621e5\/parent?resourceVersion=id%3A119"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/175cb192-43e6-417d-ae25-65804ad621e5\/relationships\/parent?resourceVersion=id%3A119"}}}}}],"links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio"}}}
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http:\/\/jsonapi.org\/format\/1.0\/"
+        }
+      }
+    }
+  },
+  "data": [
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "5eaea532-410c-4778-b3d9-3f526144af1f",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5eaea532-410c-4778-b3d9-3f526144af1f?resourceVersion=id%3A75"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 75,
+        "drupal_internal__revision_id": 75,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Atto amministrativo",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:17:42+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/atto-amministrativo",
+          "pid": 75,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5eaea532-410c-4778-b3d9-3f526144af1f\/vid?resourceVersion=id%3A75"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5eaea532-410c-4778-b3d9-3f526144af1f\/relationships\/vid?resourceVersion=id%3A75"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5eaea532-410c-4778-b3d9-3f526144af1f\/revision_user?resourceVersion=id%3A75"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5eaea532-410c-4778-b3d9-3f526144af1f\/relationships\/revision_user?resourceVersion=id%3A75"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5eaea532-410c-4778-b3d9-3f526144af1f\/parent?resourceVersion=id%3A75"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5eaea532-410c-4778-b3d9-3f526144af1f\/relationships\/parent?resourceVersion=id%3A75"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "b9bfff21-de94-45b7-8b76-690d218d271e",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b9bfff21-de94-45b7-8b76-690d218d271e?resourceVersion=id%3A76"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 76,
+        "drupal_internal__revision_id": 76,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Decreto",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:17:48+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/decreto",
+          "pid": 76,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b9bfff21-de94-45b7-8b76-690d218d271e\/vid?resourceVersion=id%3A76"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b9bfff21-de94-45b7-8b76-690d218d271e\/relationships\/vid?resourceVersion=id%3A76"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b9bfff21-de94-45b7-8b76-690d218d271e\/revision_user?resourceVersion=id%3A76"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b9bfff21-de94-45b7-8b76-690d218d271e\/relationships\/revision_user?resourceVersion=id%3A76"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "5eaea532-410c-4778-b3d9-3f526144af1f",
+              "meta": {
+                "drupal_internal__target_id": 75
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b9bfff21-de94-45b7-8b76-690d218d271e\/parent?resourceVersion=id%3A76"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b9bfff21-de94-45b7-8b76-690d218d271e\/relationships\/parent?resourceVersion=id%3A76"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "18c184b8-96a0-4e5b-b53a-35382db84d06",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/18c184b8-96a0-4e5b-b53a-35382db84d06?resourceVersion=id%3A78"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 78,
+        "drupal_internal__revision_id": 78,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Decreto del Dirigente",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:17:52+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/decreto-del-dirigente",
+          "pid": 78,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/18c184b8-96a0-4e5b-b53a-35382db84d06\/vid?resourceVersion=id%3A78"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/18c184b8-96a0-4e5b-b53a-35382db84d06\/relationships\/vid?resourceVersion=id%3A78"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/18c184b8-96a0-4e5b-b53a-35382db84d06\/revision_user?resourceVersion=id%3A78"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/18c184b8-96a0-4e5b-b53a-35382db84d06\/relationships\/revision_user?resourceVersion=id%3A78"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "b9bfff21-de94-45b7-8b76-690d218d271e",
+              "meta": {
+                "drupal_internal__target_id": 76
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/18c184b8-96a0-4e5b-b53a-35382db84d06\/parent?resourceVersion=id%3A78"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/18c184b8-96a0-4e5b-b53a-35382db84d06\/relationships\/parent?resourceVersion=id%3A78"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "8b12c3a3-de3d-4880-91ba-d1c8ee982482",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/8b12c3a3-de3d-4880-91ba-d1c8ee982482?resourceVersion=id%3A79"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 79,
+        "drupal_internal__revision_id": 79,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Decreto del Sindaco",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:17:55+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/decreto-del-sindaco",
+          "pid": 79,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/8b12c3a3-de3d-4880-91ba-d1c8ee982482\/vid?resourceVersion=id%3A79"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/8b12c3a3-de3d-4880-91ba-d1c8ee982482\/relationships\/vid?resourceVersion=id%3A79"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/8b12c3a3-de3d-4880-91ba-d1c8ee982482\/revision_user?resourceVersion=id%3A79"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/8b12c3a3-de3d-4880-91ba-d1c8ee982482\/relationships\/revision_user?resourceVersion=id%3A79"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "b9bfff21-de94-45b7-8b76-690d218d271e",
+              "meta": {
+                "drupal_internal__target_id": 76
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/8b12c3a3-de3d-4880-91ba-d1c8ee982482\/parent?resourceVersion=id%3A79"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/8b12c3a3-de3d-4880-91ba-d1c8ee982482\/relationships\/parent?resourceVersion=id%3A79"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "c17d14f5-5f04-4817-9d8e-eb25a969a7f4",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c17d14f5-5f04-4817-9d8e-eb25a969a7f4?resourceVersion=id%3A80"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 80,
+        "drupal_internal__revision_id": 80,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Deliberazione",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:17:58+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/deliberazione",
+          "pid": 80,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c17d14f5-5f04-4817-9d8e-eb25a969a7f4\/vid?resourceVersion=id%3A80"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c17d14f5-5f04-4817-9d8e-eb25a969a7f4\/relationships\/vid?resourceVersion=id%3A80"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c17d14f5-5f04-4817-9d8e-eb25a969a7f4\/revision_user?resourceVersion=id%3A80"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c17d14f5-5f04-4817-9d8e-eb25a969a7f4\/relationships\/revision_user?resourceVersion=id%3A80"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "5eaea532-410c-4778-b3d9-3f526144af1f",
+              "meta": {
+                "drupal_internal__target_id": 75
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c17d14f5-5f04-4817-9d8e-eb25a969a7f4\/parent?resourceVersion=id%3A80"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c17d14f5-5f04-4817-9d8e-eb25a969a7f4\/relationships\/parent?resourceVersion=id%3A80"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "a2d1666a-84ae-44b0-8491-f9822bb79371",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a2d1666a-84ae-44b0-8491-f9822bb79371?resourceVersion=id%3A83"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 83,
+        "drupal_internal__revision_id": 83,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Deliberazione del Consiglio comunale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:18:08+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/deliberazione-del-consiglio-comunale",
+          "pid": 83,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a2d1666a-84ae-44b0-8491-f9822bb79371\/vid?resourceVersion=id%3A83"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a2d1666a-84ae-44b0-8491-f9822bb79371\/relationships\/vid?resourceVersion=id%3A83"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a2d1666a-84ae-44b0-8491-f9822bb79371\/revision_user?resourceVersion=id%3A83"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a2d1666a-84ae-44b0-8491-f9822bb79371\/relationships\/revision_user?resourceVersion=id%3A83"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "c17d14f5-5f04-4817-9d8e-eb25a969a7f4",
+              "meta": {
+                "drupal_internal__target_id": 80
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a2d1666a-84ae-44b0-8491-f9822bb79371\/parent?resourceVersion=id%3A83"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a2d1666a-84ae-44b0-8491-f9822bb79371\/relationships\/parent?resourceVersion=id%3A83"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "28e71d2c-37ee-4345-8ecd-6649ef82e39f",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28e71d2c-37ee-4345-8ecd-6649ef82e39f?resourceVersion=id%3A84"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 84,
+        "drupal_internal__revision_id": 84,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Deliberazione della Giunta comunale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:18:14+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/deliberazione-della-giunta-comunale",
+          "pid": 84,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28e71d2c-37ee-4345-8ecd-6649ef82e39f\/vid?resourceVersion=id%3A84"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28e71d2c-37ee-4345-8ecd-6649ef82e39f\/relationships\/vid?resourceVersion=id%3A84"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28e71d2c-37ee-4345-8ecd-6649ef82e39f\/revision_user?resourceVersion=id%3A84"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28e71d2c-37ee-4345-8ecd-6649ef82e39f\/relationships\/revision_user?resourceVersion=id%3A84"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "c17d14f5-5f04-4817-9d8e-eb25a969a7f4",
+              "meta": {
+                "drupal_internal__target_id": 80
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28e71d2c-37ee-4345-8ecd-6649ef82e39f\/parent?resourceVersion=id%3A84"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28e71d2c-37ee-4345-8ecd-6649ef82e39f\/relationships\/parent?resourceVersion=id%3A84"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "61ffafb7-7ee3-4f0b-8677-2f809a00d2c6",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61ffafb7-7ee3-4f0b-8677-2f809a00d2c6?resourceVersion=id%3A85"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 85,
+        "drupal_internal__revision_id": 85,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Deliberazione del Commissario ad acta",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:18:01+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/deliberazione-del-commissario-ad-acta",
+          "pid": 85,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61ffafb7-7ee3-4f0b-8677-2f809a00d2c6\/vid?resourceVersion=id%3A85"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61ffafb7-7ee3-4f0b-8677-2f809a00d2c6\/relationships\/vid?resourceVersion=id%3A85"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61ffafb7-7ee3-4f0b-8677-2f809a00d2c6\/revision_user?resourceVersion=id%3A85"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61ffafb7-7ee3-4f0b-8677-2f809a00d2c6\/relationships\/revision_user?resourceVersion=id%3A85"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "c17d14f5-5f04-4817-9d8e-eb25a969a7f4",
+              "meta": {
+                "drupal_internal__target_id": 80
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61ffafb7-7ee3-4f0b-8677-2f809a00d2c6\/parent?resourceVersion=id%3A85"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61ffafb7-7ee3-4f0b-8677-2f809a00d2c6\/relationships\/parent?resourceVersion=id%3A85"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "96a512dd-1414-444d-88fe-33cda48d29e6",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/96a512dd-1414-444d-88fe-33cda48d29e6?resourceVersion=id%3A86"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 86,
+        "drupal_internal__revision_id": 86,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Deliberazione del Consiglio circoscrizionale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:18:05+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/deliberazione-del-consiglio-circoscrizionale",
+          "pid": 86,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/96a512dd-1414-444d-88fe-33cda48d29e6\/vid?resourceVersion=id%3A86"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/96a512dd-1414-444d-88fe-33cda48d29e6\/relationships\/vid?resourceVersion=id%3A86"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/96a512dd-1414-444d-88fe-33cda48d29e6\/revision_user?resourceVersion=id%3A86"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/96a512dd-1414-444d-88fe-33cda48d29e6\/relationships\/revision_user?resourceVersion=id%3A86"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "c17d14f5-5f04-4817-9d8e-eb25a969a7f4",
+              "meta": {
+                "drupal_internal__target_id": 80
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/96a512dd-1414-444d-88fe-33cda48d29e6\/parent?resourceVersion=id%3A86"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/96a512dd-1414-444d-88fe-33cda48d29e6\/relationships\/parent?resourceVersion=id%3A86"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "05a5f1c4-70a3-4a26-985e-91eeca273f4d",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/05a5f1c4-70a3-4a26-985e-91eeca273f4d?resourceVersion=id%3A87"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 87,
+        "drupal_internal__revision_id": 87,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Deliberazione dell\u0027Esecutivo circoscrizionale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:18:11+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/deliberazione-dellesecutivo-circoscrizionale",
+          "pid": 87,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/05a5f1c4-70a3-4a26-985e-91eeca273f4d\/vid?resourceVersion=id%3A87"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/05a5f1c4-70a3-4a26-985e-91eeca273f4d\/relationships\/vid?resourceVersion=id%3A87"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/05a5f1c4-70a3-4a26-985e-91eeca273f4d\/revision_user?resourceVersion=id%3A87"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/05a5f1c4-70a3-4a26-985e-91eeca273f4d\/relationships\/revision_user?resourceVersion=id%3A87"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "c17d14f5-5f04-4817-9d8e-eb25a969a7f4",
+              "meta": {
+                "drupal_internal__target_id": 80
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/05a5f1c4-70a3-4a26-985e-91eeca273f4d\/parent?resourceVersion=id%3A87"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/05a5f1c4-70a3-4a26-985e-91eeca273f4d\/relationships\/parent?resourceVersion=id%3A87"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "5e5ce540-53d9-4199-b188-2804959042d8",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5e5ce540-53d9-4199-b188-2804959042d8?resourceVersion=id%3A88"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 88,
+        "drupal_internal__revision_id": 88,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Deliberazione di altri Organi",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:18:17+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/deliberazione-di-altri-organi",
+          "pid": 88,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5e5ce540-53d9-4199-b188-2804959042d8\/vid?resourceVersion=id%3A88"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5e5ce540-53d9-4199-b188-2804959042d8\/relationships\/vid?resourceVersion=id%3A88"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5e5ce540-53d9-4199-b188-2804959042d8\/revision_user?resourceVersion=id%3A88"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5e5ce540-53d9-4199-b188-2804959042d8\/relationships\/revision_user?resourceVersion=id%3A88"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "c17d14f5-5f04-4817-9d8e-eb25a969a7f4",
+              "meta": {
+                "drupal_internal__target_id": 80
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5e5ce540-53d9-4199-b188-2804959042d8\/parent?resourceVersion=id%3A88"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5e5ce540-53d9-4199-b188-2804959042d8\/relationships\/parent?resourceVersion=id%3A88"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "28a24df5-0ac1-4504-bb94-76f1251156f3",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28a24df5-0ac1-4504-bb94-76f1251156f3?resourceVersion=id%3A89"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 89,
+        "drupal_internal__revision_id": 89,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Determinazione",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:18:21+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/determinazione",
+          "pid": 89,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28a24df5-0ac1-4504-bb94-76f1251156f3\/vid?resourceVersion=id%3A89"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28a24df5-0ac1-4504-bb94-76f1251156f3\/relationships\/vid?resourceVersion=id%3A89"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28a24df5-0ac1-4504-bb94-76f1251156f3\/revision_user?resourceVersion=id%3A89"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28a24df5-0ac1-4504-bb94-76f1251156f3\/relationships\/revision_user?resourceVersion=id%3A89"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "5eaea532-410c-4778-b3d9-3f526144af1f",
+              "meta": {
+                "drupal_internal__target_id": 75
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28a24df5-0ac1-4504-bb94-76f1251156f3\/parent?resourceVersion=id%3A89"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/28a24df5-0ac1-4504-bb94-76f1251156f3\/relationships\/parent?resourceVersion=id%3A89"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "07fa9cc9-9c3b-4f35-a656-0afc6a38b5a9",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/07fa9cc9-9c3b-4f35-a656-0afc6a38b5a9?resourceVersion=id%3A91"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 91,
+        "drupal_internal__revision_id": 91,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Determinazione del Sindaco",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:18:27+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/determinazione-del-sindaco",
+          "pid": 91,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/07fa9cc9-9c3b-4f35-a656-0afc6a38b5a9\/vid?resourceVersion=id%3A91"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/07fa9cc9-9c3b-4f35-a656-0afc6a38b5a9\/relationships\/vid?resourceVersion=id%3A91"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/07fa9cc9-9c3b-4f35-a656-0afc6a38b5a9\/revision_user?resourceVersion=id%3A91"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/07fa9cc9-9c3b-4f35-a656-0afc6a38b5a9\/relationships\/revision_user?resourceVersion=id%3A91"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "28a24df5-0ac1-4504-bb94-76f1251156f3",
+              "meta": {
+                "drupal_internal__target_id": 89
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/07fa9cc9-9c3b-4f35-a656-0afc6a38b5a9\/parent?resourceVersion=id%3A91"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/07fa9cc9-9c3b-4f35-a656-0afc6a38b5a9\/relationships\/parent?resourceVersion=id%3A91"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "45e59edc-a6f7-4219-a662-359b08e9ece1",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/45e59edc-a6f7-4219-a662-359b08e9ece1?resourceVersion=id%3A92"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 92,
+        "drupal_internal__revision_id": 92,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Determinazione del Dirigente",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:18:24+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/determinazione-del-dirigente",
+          "pid": 92,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/45e59edc-a6f7-4219-a662-359b08e9ece1\/vid?resourceVersion=id%3A92"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/45e59edc-a6f7-4219-a662-359b08e9ece1\/relationships\/vid?resourceVersion=id%3A92"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/45e59edc-a6f7-4219-a662-359b08e9ece1\/revision_user?resourceVersion=id%3A92"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/45e59edc-a6f7-4219-a662-359b08e9ece1\/relationships\/revision_user?resourceVersion=id%3A92"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "28a24df5-0ac1-4504-bb94-76f1251156f3",
+              "meta": {
+                "drupal_internal__target_id": 89
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/45e59edc-a6f7-4219-a662-359b08e9ece1\/parent?resourceVersion=id%3A92"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/45e59edc-a6f7-4219-a662-359b08e9ece1\/relationships\/parent?resourceVersion=id%3A92"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "6731cbfc-10e2-4eb3-b13d-6dcb92d75f98",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6731cbfc-10e2-4eb3-b13d-6dcb92d75f98?resourceVersion=id%3A95"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 95,
+        "drupal_internal__revision_id": 95,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Ordinanza",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:18:30+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/ordinanza",
+          "pid": 95,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6731cbfc-10e2-4eb3-b13d-6dcb92d75f98\/vid?resourceVersion=id%3A95"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6731cbfc-10e2-4eb3-b13d-6dcb92d75f98\/relationships\/vid?resourceVersion=id%3A95"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6731cbfc-10e2-4eb3-b13d-6dcb92d75f98\/revision_user?resourceVersion=id%3A95"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6731cbfc-10e2-4eb3-b13d-6dcb92d75f98\/relationships\/revision_user?resourceVersion=id%3A95"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "5eaea532-410c-4778-b3d9-3f526144af1f",
+              "meta": {
+                "drupal_internal__target_id": 75
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6731cbfc-10e2-4eb3-b13d-6dcb92d75f98\/parent?resourceVersion=id%3A95"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6731cbfc-10e2-4eb3-b13d-6dcb92d75f98\/relationships\/parent?resourceVersion=id%3A95"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "ea4f4944-33ce-46df-a87f-dd5a9143849f",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/ea4f4944-33ce-46df-a87f-dd5a9143849f?resourceVersion=id%3A96"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 96,
+        "drupal_internal__revision_id": 96,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Ordinanza del Dirigente",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:18:34+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/ordinanza-del-dirigente",
+          "pid": 96,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/ea4f4944-33ce-46df-a87f-dd5a9143849f\/vid?resourceVersion=id%3A96"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/ea4f4944-33ce-46df-a87f-dd5a9143849f\/relationships\/vid?resourceVersion=id%3A96"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/ea4f4944-33ce-46df-a87f-dd5a9143849f\/revision_user?resourceVersion=id%3A96"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/ea4f4944-33ce-46df-a87f-dd5a9143849f\/relationships\/revision_user?resourceVersion=id%3A96"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "6731cbfc-10e2-4eb3-b13d-6dcb92d75f98",
+              "meta": {
+                "drupal_internal__target_id": 95
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/ea4f4944-33ce-46df-a87f-dd5a9143849f\/parent?resourceVersion=id%3A96"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/ea4f4944-33ce-46df-a87f-dd5a9143849f\/relationships\/parent?resourceVersion=id%3A96"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "a795fac0-e0ce-454c-8f88-086c317ea9d9",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a795fac0-e0ce-454c-8f88-086c317ea9d9?resourceVersion=id%3A97"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 97,
+        "drupal_internal__revision_id": 97,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Ordinanza del Sindaco",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:18:37+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/ordinanza-del-sindaco",
+          "pid": 97,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a795fac0-e0ce-454c-8f88-086c317ea9d9\/vid?resourceVersion=id%3A97"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a795fac0-e0ce-454c-8f88-086c317ea9d9\/relationships\/vid?resourceVersion=id%3A97"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a795fac0-e0ce-454c-8f88-086c317ea9d9\/revision_user?resourceVersion=id%3A97"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a795fac0-e0ce-454c-8f88-086c317ea9d9\/relationships\/revision_user?resourceVersion=id%3A97"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "6731cbfc-10e2-4eb3-b13d-6dcb92d75f98",
+              "meta": {
+                "drupal_internal__target_id": 95
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a795fac0-e0ce-454c-8f88-086c317ea9d9\/parent?resourceVersion=id%3A97"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/a795fac0-e0ce-454c-8f88-086c317ea9d9\/relationships\/parent?resourceVersion=id%3A97"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "9ad61fb0-d9bf-4885-87df-670cc32a3ccc",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/9ad61fb0-d9bf-4885-87df-670cc32a3ccc?resourceVersion=id%3A98"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 98,
+        "drupal_internal__revision_id": 98,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Atto autorizzativo",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:18:39+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/atto-autorizzativo",
+          "pid": 98,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/9ad61fb0-d9bf-4885-87df-670cc32a3ccc\/vid?resourceVersion=id%3A98"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/9ad61fb0-d9bf-4885-87df-670cc32a3ccc\/relationships\/vid?resourceVersion=id%3A98"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/9ad61fb0-d9bf-4885-87df-670cc32a3ccc\/revision_user?resourceVersion=id%3A98"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/9ad61fb0-d9bf-4885-87df-670cc32a3ccc\/relationships\/revision_user?resourceVersion=id%3A98"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/9ad61fb0-d9bf-4885-87df-670cc32a3ccc\/parent?resourceVersion=id%3A98"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/9ad61fb0-d9bf-4885-87df-670cc32a3ccc\/relationships\/parent?resourceVersion=id%3A98"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "6f91eb72-94bd-4576-8d3d-3a0693f333c3",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f91eb72-94bd-4576-8d3d-3a0693f333c3?resourceVersion=id%3A99"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 99,
+        "drupal_internal__revision_id": 99,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Permesso a costruire",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:18:43+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/permesso-costruire",
+          "pid": 99,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f91eb72-94bd-4576-8d3d-3a0693f333c3\/vid?resourceVersion=id%3A99"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f91eb72-94bd-4576-8d3d-3a0693f333c3\/relationships\/vid?resourceVersion=id%3A99"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f91eb72-94bd-4576-8d3d-3a0693f333c3\/revision_user?resourceVersion=id%3A99"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f91eb72-94bd-4576-8d3d-3a0693f333c3\/relationships\/revision_user?resourceVersion=id%3A99"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "9ad61fb0-d9bf-4885-87df-670cc32a3ccc",
+              "meta": {
+                "drupal_internal__target_id": 98
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f91eb72-94bd-4576-8d3d-3a0693f333c3\/parent?resourceVersion=id%3A99"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f91eb72-94bd-4576-8d3d-3a0693f333c3\/relationships\/parent?resourceVersion=id%3A99"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "540c5e20-eba3-4160-bc82-f53fcf2f78b4",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/540c5e20-eba3-4160-bc82-f53fcf2f78b4?resourceVersion=id%3A100"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 100,
+        "drupal_internal__revision_id": 100,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Atto dello stato civile",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:18:47+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/atto-dello-stato-civile",
+          "pid": 100,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/540c5e20-eba3-4160-bc82-f53fcf2f78b4\/vid?resourceVersion=id%3A100"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/540c5e20-eba3-4160-bc82-f53fcf2f78b4\/relationships\/vid?resourceVersion=id%3A100"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/540c5e20-eba3-4160-bc82-f53fcf2f78b4\/revision_user?resourceVersion=id%3A100"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/540c5e20-eba3-4160-bc82-f53fcf2f78b4\/relationships\/revision_user?resourceVersion=id%3A100"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/540c5e20-eba3-4160-bc82-f53fcf2f78b4\/parent?resourceVersion=id%3A100"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/540c5e20-eba3-4160-bc82-f53fcf2f78b4\/relationships\/parent?resourceVersion=id%3A100"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "4e0cc08a-f9f2-459a-a35d-a380ee215f79",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/4e0cc08a-f9f2-459a-a35d-a380ee215f79?resourceVersion=id%3A101"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 101,
+        "drupal_internal__revision_id": 101,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Provvedimento di cancellazione per irreperibilit\u00e0",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:18:50+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/provvedimento-di-cancellazione-irreperibilita",
+          "pid": 101,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/4e0cc08a-f9f2-459a-a35d-a380ee215f79\/vid?resourceVersion=id%3A101"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/4e0cc08a-f9f2-459a-a35d-a380ee215f79\/relationships\/vid?resourceVersion=id%3A101"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/4e0cc08a-f9f2-459a-a35d-a380ee215f79\/revision_user?resourceVersion=id%3A101"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/4e0cc08a-f9f2-459a-a35d-a380ee215f79\/relationships\/revision_user?resourceVersion=id%3A101"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "540c5e20-eba3-4160-bc82-f53fcf2f78b4",
+              "meta": {
+                "drupal_internal__target_id": 100
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/4e0cc08a-f9f2-459a-a35d-a380ee215f79\/parent?resourceVersion=id%3A101"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/4e0cc08a-f9f2-459a-a35d-a380ee215f79\/relationships\/parent?resourceVersion=id%3A101"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "3557cfc9-4e4d-4ad3-9693-5297b98b1fc7",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/3557cfc9-4e4d-4ad3-9693-5297b98b1fc7?resourceVersion=id%3A102"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 102,
+        "drupal_internal__revision_id": 102,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Pubblicazione cambio nome",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:18:56+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/pubblicazione-cambio-nome",
+          "pid": 102,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/3557cfc9-4e4d-4ad3-9693-5297b98b1fc7\/vid?resourceVersion=id%3A102"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/3557cfc9-4e4d-4ad3-9693-5297b98b1fc7\/relationships\/vid?resourceVersion=id%3A102"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/3557cfc9-4e4d-4ad3-9693-5297b98b1fc7\/revision_user?resourceVersion=id%3A102"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/3557cfc9-4e4d-4ad3-9693-5297b98b1fc7\/relationships\/revision_user?resourceVersion=id%3A102"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "540c5e20-eba3-4160-bc82-f53fcf2f78b4",
+              "meta": {
+                "drupal_internal__target_id": 100
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/3557cfc9-4e4d-4ad3-9693-5297b98b1fc7\/parent?resourceVersion=id%3A102"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/3557cfc9-4e4d-4ad3-9693-5297b98b1fc7\/relationships\/parent?resourceVersion=id%3A102"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "b2016a44-8b02-46d2-be64-18975eb93a50",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b2016a44-8b02-46d2-be64-18975eb93a50?resourceVersion=id%3A105"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 105,
+        "drupal_internal__revision_id": 105,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Pubbicazione di matrimonio",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:18:53+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/pubbicazione-di-matrimonio",
+          "pid": 105,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b2016a44-8b02-46d2-be64-18975eb93a50\/vid?resourceVersion=id%3A105"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b2016a44-8b02-46d2-be64-18975eb93a50\/relationships\/vid?resourceVersion=id%3A105"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b2016a44-8b02-46d2-be64-18975eb93a50\/revision_user?resourceVersion=id%3A105"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b2016a44-8b02-46d2-be64-18975eb93a50\/relationships\/revision_user?resourceVersion=id%3A105"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "540c5e20-eba3-4160-bc82-f53fcf2f78b4",
+              "meta": {
+                "drupal_internal__target_id": 100
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b2016a44-8b02-46d2-be64-18975eb93a50\/parent?resourceVersion=id%3A105"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/b2016a44-8b02-46d2-be64-18975eb93a50\/relationships\/parent?resourceVersion=id%3A105"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "efebe02f-4b66-4f42-ad01-40b766a7616c",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/efebe02f-4b66-4f42-ad01-40b766a7616c?resourceVersion=id%3A107"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 107,
+        "drupal_internal__revision_id": 107,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Atto generico",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:18:59+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/atto-generico",
+          "pid": 107,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/efebe02f-4b66-4f42-ad01-40b766a7616c\/vid?resourceVersion=id%3A107"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/efebe02f-4b66-4f42-ad01-40b766a7616c\/relationships\/vid?resourceVersion=id%3A107"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/efebe02f-4b66-4f42-ad01-40b766a7616c\/revision_user?resourceVersion=id%3A107"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/efebe02f-4b66-4f42-ad01-40b766a7616c\/relationships\/revision_user?resourceVersion=id%3A107"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/efebe02f-4b66-4f42-ad01-40b766a7616c\/parent?resourceVersion=id%3A107"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/efebe02f-4b66-4f42-ad01-40b766a7616c\/relationships\/parent?resourceVersion=id%3A107"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "691a9c76-e677-4ac7-8c0f-4b77f6fb0819",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/691a9c76-e677-4ac7-8c0f-4b77f6fb0819?resourceVersion=id%3A108"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 108,
+        "drupal_internal__revision_id": 108,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Avviso",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:19:03+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/avviso",
+          "pid": 108,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/691a9c76-e677-4ac7-8c0f-4b77f6fb0819\/vid?resourceVersion=id%3A108"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/691a9c76-e677-4ac7-8c0f-4b77f6fb0819\/relationships\/vid?resourceVersion=id%3A108"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/691a9c76-e677-4ac7-8c0f-4b77f6fb0819\/revision_user?resourceVersion=id%3A108"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/691a9c76-e677-4ac7-8c0f-4b77f6fb0819\/relationships\/revision_user?resourceVersion=id%3A108"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "efebe02f-4b66-4f42-ad01-40b766a7616c",
+              "meta": {
+                "drupal_internal__target_id": 107
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/691a9c76-e677-4ac7-8c0f-4b77f6fb0819\/parent?resourceVersion=id%3A108"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/691a9c76-e677-4ac7-8c0f-4b77f6fb0819\/relationships\/parent?resourceVersion=id%3A108"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "7fa12cfa-0196-440c-b9fc-031a85b5e541",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/7fa12cfa-0196-440c-b9fc-031a85b5e541?resourceVersion=id%3A109"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 109,
+        "drupal_internal__revision_id": 109,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Avviso di deposito in casa comunale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:19:07+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/avviso-di-deposito-casa-comunale",
+          "pid": 109,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/7fa12cfa-0196-440c-b9fc-031a85b5e541\/vid?resourceVersion=id%3A109"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/7fa12cfa-0196-440c-b9fc-031a85b5e541\/relationships\/vid?resourceVersion=id%3A109"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/7fa12cfa-0196-440c-b9fc-031a85b5e541\/revision_user?resourceVersion=id%3A109"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/7fa12cfa-0196-440c-b9fc-031a85b5e541\/relationships\/revision_user?resourceVersion=id%3A109"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "691a9c76-e677-4ac7-8c0f-4b77f6fb0819",
+              "meta": {
+                "drupal_internal__target_id": 108
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/7fa12cfa-0196-440c-b9fc-031a85b5e541\/parent?resourceVersion=id%3A109"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/7fa12cfa-0196-440c-b9fc-031a85b5e541\/relationships\/parent?resourceVersion=id%3A109"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "c27b8114-97aa-49f2-b529-1a648acdcd14",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c27b8114-97aa-49f2-b529-1a648acdcd14?resourceVersion=id%3A110"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 110,
+        "drupal_internal__revision_id": 110,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Avviso\/Manifesto",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:19:10+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/avvisomanifesto",
+          "pid": 110,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c27b8114-97aa-49f2-b529-1a648acdcd14\/vid?resourceVersion=id%3A110"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c27b8114-97aa-49f2-b529-1a648acdcd14\/relationships\/vid?resourceVersion=id%3A110"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c27b8114-97aa-49f2-b529-1a648acdcd14\/revision_user?resourceVersion=id%3A110"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c27b8114-97aa-49f2-b529-1a648acdcd14\/relationships\/revision_user?resourceVersion=id%3A110"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "691a9c76-e677-4ac7-8c0f-4b77f6fb0819",
+              "meta": {
+                "drupal_internal__target_id": 108
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c27b8114-97aa-49f2-b529-1a648acdcd14\/parent?resourceVersion=id%3A110"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/c27b8114-97aa-49f2-b529-1a648acdcd14\/relationships\/parent?resourceVersion=id%3A110"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "6f21d77c-d1f9-4b8c-b1c7-ab36d5098639",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f21d77c-d1f9-4b8c-b1c7-ab36d5098639?resourceVersion=id%3A111"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 111,
+        "drupal_internal__revision_id": 111,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Bando",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:19:13+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/bando",
+          "pid": 111,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f21d77c-d1f9-4b8c-b1c7-ab36d5098639\/vid?resourceVersion=id%3A111"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f21d77c-d1f9-4b8c-b1c7-ab36d5098639\/relationships\/vid?resourceVersion=id%3A111"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f21d77c-d1f9-4b8c-b1c7-ab36d5098639\/revision_user?resourceVersion=id%3A111"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f21d77c-d1f9-4b8c-b1c7-ab36d5098639\/relationships\/revision_user?resourceVersion=id%3A111"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "efebe02f-4b66-4f42-ad01-40b766a7616c",
+              "meta": {
+                "drupal_internal__target_id": 107
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f21d77c-d1f9-4b8c-b1c7-ab36d5098639\/parent?resourceVersion=id%3A111"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/6f21d77c-d1f9-4b8c-b1c7-ab36d5098639\/relationships\/parent?resourceVersion=id%3A111"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "150e4dcf-f68f-4103-9655-b3b16c0c5fd1",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/150e4dcf-f68f-4103-9655-b3b16c0c5fd1?resourceVersion=id%3A112"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 112,
+        "drupal_internal__revision_id": 112,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Bando di concorso",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:19:16+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/bando-di-concorso",
+          "pid": 112,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/150e4dcf-f68f-4103-9655-b3b16c0c5fd1\/vid?resourceVersion=id%3A112"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/150e4dcf-f68f-4103-9655-b3b16c0c5fd1\/relationships\/vid?resourceVersion=id%3A112"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/150e4dcf-f68f-4103-9655-b3b16c0c5fd1\/revision_user?resourceVersion=id%3A112"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/150e4dcf-f68f-4103-9655-b3b16c0c5fd1\/relationships\/revision_user?resourceVersion=id%3A112"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "6f21d77c-d1f9-4b8c-b1c7-ab36d5098639",
+              "meta": {
+                "drupal_internal__target_id": 111
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/150e4dcf-f68f-4103-9655-b3b16c0c5fd1\/parent?resourceVersion=id%3A112"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/150e4dcf-f68f-4103-9655-b3b16c0c5fd1\/relationships\/parent?resourceVersion=id%3A112"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "61b51905-2bf6-41e7-af0b-7cfe0710bcfc",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61b51905-2bf6-41e7-af0b-7cfe0710bcfc?resourceVersion=id%3A113"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 113,
+        "drupal_internal__revision_id": 113,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Bando di gara",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:19:23+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/bando-di-gara",
+          "pid": 113,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61b51905-2bf6-41e7-af0b-7cfe0710bcfc\/vid?resourceVersion=id%3A113"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61b51905-2bf6-41e7-af0b-7cfe0710bcfc\/relationships\/vid?resourceVersion=id%3A113"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61b51905-2bf6-41e7-af0b-7cfe0710bcfc\/revision_user?resourceVersion=id%3A113"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61b51905-2bf6-41e7-af0b-7cfe0710bcfc\/relationships\/revision_user?resourceVersion=id%3A113"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "6f21d77c-d1f9-4b8c-b1c7-ab36d5098639",
+              "meta": {
+                "drupal_internal__target_id": 111
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61b51905-2bf6-41e7-af0b-7cfe0710bcfc\/parent?resourceVersion=id%3A113"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/61b51905-2bf6-41e7-af0b-7cfe0710bcfc\/relationships\/parent?resourceVersion=id%3A113"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "dfdc44e3-57d1-4dcf-a88c-60db1e483e45",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/dfdc44e3-57d1-4dcf-a88c-60db1e483e45?resourceVersion=id%3A114"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 114,
+        "drupal_internal__revision_id": 114,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Bando di contributi e vantaggi economici",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:19:20+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/bando-di-contributi-e-vantaggi-economici",
+          "pid": 114,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/dfdc44e3-57d1-4dcf-a88c-60db1e483e45\/vid?resourceVersion=id%3A114"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/dfdc44e3-57d1-4dcf-a88c-60db1e483e45\/relationships\/vid?resourceVersion=id%3A114"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/dfdc44e3-57d1-4dcf-a88c-60db1e483e45\/revision_user?resourceVersion=id%3A114"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/dfdc44e3-57d1-4dcf-a88c-60db1e483e45\/relationships\/revision_user?resourceVersion=id%3A114"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "6f21d77c-d1f9-4b8c-b1c7-ab36d5098639",
+              "meta": {
+                "drupal_internal__target_id": 111
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/dfdc44e3-57d1-4dcf-a88c-60db1e483e45\/parent?resourceVersion=id%3A114"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/dfdc44e3-57d1-4dcf-a88c-60db1e483e45\/relationships\/parent?resourceVersion=id%3A114"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "5d72c6a6-4623-4d04-b98a-6d67640735b0",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5d72c6a6-4623-4d04-b98a-6d67640735b0?resourceVersion=id%3A116"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 116,
+        "drupal_internal__revision_id": 116,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Pubblicazione esterna",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:19:26+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/pubblicazione-esterna",
+          "pid": 116,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5d72c6a6-4623-4d04-b98a-6d67640735b0\/vid?resourceVersion=id%3A116"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5d72c6a6-4623-4d04-b98a-6d67640735b0\/relationships\/vid?resourceVersion=id%3A116"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5d72c6a6-4623-4d04-b98a-6d67640735b0\/revision_user?resourceVersion=id%3A116"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5d72c6a6-4623-4d04-b98a-6d67640735b0\/relationships\/revision_user?resourceVersion=id%3A116"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5d72c6a6-4623-4d04-b98a-6d67640735b0\/parent?resourceVersion=id%3A116"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/5d72c6a6-4623-4d04-b98a-6d67640735b0\/relationships\/parent?resourceVersion=id%3A116"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--documenti_albo_pretorio",
+      "id": "175cb192-43e6-417d-ae25-65804ad621e5",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/175cb192-43e6-417d-ae25-65804ad621e5?resourceVersion=id%3A119"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 119,
+        "drupal_internal__revision_id": 119,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Atto di terzi",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:19:29+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/documenti-albo-pretorio\/atto-di-terzi",
+          "pid": 119,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9f45cea1-3d32-4c8c-bc85-e1bca51dc938",
+            "meta": {
+              "drupal_internal__target_id": "documenti_albo_pretorio"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/175cb192-43e6-417d-ae25-65804ad621e5\/vid?resourceVersion=id%3A119"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/175cb192-43e6-417d-ae25-65804ad621e5\/relationships\/vid?resourceVersion=id%3A119"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/175cb192-43e6-417d-ae25-65804ad621e5\/revision_user?resourceVersion=id%3A119"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/175cb192-43e6-417d-ae25-65804ad621e5\/relationships\/revision_user?resourceVersion=id%3A119"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--documenti_albo_pretorio",
+              "id": "5d72c6a6-4623-4d04-b98a-6d67640735b0",
+              "meta": {
+                "drupal_internal__target_id": 116
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/175cb192-43e6-417d-ae25-65804ad621e5\/parent?resourceVersion=id%3A119"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio\/175cb192-43e6-417d-ae25-65804ad621e5\/relationships\/parent?resourceVersion=id%3A119"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "links": {
+    "self": {
+      "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/documenti_albo_pretorio"
+    }
+  }
+}

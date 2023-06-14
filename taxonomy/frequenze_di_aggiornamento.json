@@ -1,1 +1,2539 @@
-{"jsonapi":{"version":"1.0","meta":{"links":{"self":{"href":"http:\/\/jsonapi.org\/format\/1.0\/"}}}},"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"3591494c-36f9-470e-a5f0-772a1cc8bf1b","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3591494c-36f9-470e-a5f0-772a1cc8bf1b?resourceVersion=id%3A150"}},"attributes":{"drupal_internal__tid":150,"drupal_internal__revision_id":150,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"altro","description":null,"weight":0,"changed":"2023-01-20T01:23:58+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/altro","pid":150,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3591494c-36f9-470e-a5f0-772a1cc8bf1b\/vid?resourceVersion=id%3A150"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3591494c-36f9-470e-a5f0-772a1cc8bf1b\/relationships\/vid?resourceVersion=id%3A150"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3591494c-36f9-470e-a5f0-772a1cc8bf1b\/revision_user?resourceVersion=id%3A150"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3591494c-36f9-470e-a5f0-772a1cc8bf1b\/relationships\/revision_user?resourceVersion=id%3A150"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3591494c-36f9-470e-a5f0-772a1cc8bf1b\/parent?resourceVersion=id%3A150"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3591494c-36f9-470e-a5f0-772a1cc8bf1b\/relationships\/parent?resourceVersion=id%3A150"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"7ad86b8a-03a8-4120-abdd-a90127a3d5b2","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/7ad86b8a-03a8-4120-abdd-a90127a3d5b2?resourceVersion=id%3A151"}},"attributes":{"drupal_internal__tid":151,"drupal_internal__revision_id":151,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"annuale","description":null,"weight":0,"changed":"2023-01-20T01:24:01+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/annuale","pid":151,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/7ad86b8a-03a8-4120-abdd-a90127a3d5b2\/vid?resourceVersion=id%3A151"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/7ad86b8a-03a8-4120-abdd-a90127a3d5b2\/relationships\/vid?resourceVersion=id%3A151"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/7ad86b8a-03a8-4120-abdd-a90127a3d5b2\/revision_user?resourceVersion=id%3A151"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/7ad86b8a-03a8-4120-abdd-a90127a3d5b2\/relationships\/revision_user?resourceVersion=id%3A151"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/7ad86b8a-03a8-4120-abdd-a90127a3d5b2\/parent?resourceVersion=id%3A151"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/7ad86b8a-03a8-4120-abdd-a90127a3d5b2\/relationships\/parent?resourceVersion=id%3A151"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"fbd060a4-a6e6-456f-b520-9ee8ebe94e1a","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/fbd060a4-a6e6-456f-b520-9ee8ebe94e1a?resourceVersion=id%3A152"}},"attributes":{"drupal_internal__tid":152,"drupal_internal__revision_id":152,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"bidecennale","description":null,"weight":0,"changed":"2023-01-20T01:24:04+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/bidecennale","pid":152,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/fbd060a4-a6e6-456f-b520-9ee8ebe94e1a\/vid?resourceVersion=id%3A152"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/fbd060a4-a6e6-456f-b520-9ee8ebe94e1a\/relationships\/vid?resourceVersion=id%3A152"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/fbd060a4-a6e6-456f-b520-9ee8ebe94e1a\/revision_user?resourceVersion=id%3A152"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/fbd060a4-a6e6-456f-b520-9ee8ebe94e1a\/relationships\/revision_user?resourceVersion=id%3A152"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/fbd060a4-a6e6-456f-b520-9ee8ebe94e1a\/parent?resourceVersion=id%3A152"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/fbd060a4-a6e6-456f-b520-9ee8ebe94e1a\/relationships\/parent?resourceVersion=id%3A152"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"a2b26eef-2c2b-41de-8846-261b33309a95","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2b26eef-2c2b-41de-8846-261b33309a95?resourceVersion=id%3A153"}},"attributes":{"drupal_internal__tid":153,"drupal_internal__revision_id":153,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"biennale","description":null,"weight":0,"changed":"2023-01-20T01:24:07+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/biennale","pid":153,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2b26eef-2c2b-41de-8846-261b33309a95\/vid?resourceVersion=id%3A153"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2b26eef-2c2b-41de-8846-261b33309a95\/relationships\/vid?resourceVersion=id%3A153"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2b26eef-2c2b-41de-8846-261b33309a95\/revision_user?resourceVersion=id%3A153"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2b26eef-2c2b-41de-8846-261b33309a95\/relationships\/revision_user?resourceVersion=id%3A153"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2b26eef-2c2b-41de-8846-261b33309a95\/parent?resourceVersion=id%3A153"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2b26eef-2c2b-41de-8846-261b33309a95\/relationships\/parent?resourceVersion=id%3A153"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"675882f1-96e3-4870-965e-b104ca44eea5","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/675882f1-96e3-4870-965e-b104ca44eea5?resourceVersion=id%3A154"}},"attributes":{"drupal_internal__tid":154,"drupal_internal__revision_id":154,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"bimensile","description":null,"weight":0,"changed":"2023-01-20T01:24:11+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/bimensile","pid":154,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/675882f1-96e3-4870-965e-b104ca44eea5\/vid?resourceVersion=id%3A154"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/675882f1-96e3-4870-965e-b104ca44eea5\/relationships\/vid?resourceVersion=id%3A154"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/675882f1-96e3-4870-965e-b104ca44eea5\/revision_user?resourceVersion=id%3A154"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/675882f1-96e3-4870-965e-b104ca44eea5\/relationships\/revision_user?resourceVersion=id%3A154"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/675882f1-96e3-4870-965e-b104ca44eea5\/parent?resourceVersion=id%3A154"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/675882f1-96e3-4870-965e-b104ca44eea5\/relationships\/parent?resourceVersion=id%3A154"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"16287a2b-e786-47cb-a30c-246fca2c5be6","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/16287a2b-e786-47cb-a30c-246fca2c5be6?resourceVersion=id%3A156"}},"attributes":{"drupal_internal__tid":156,"drupal_internal__revision_id":156,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"bimestrale","description":null,"weight":0,"changed":"2023-01-20T01:24:14+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/bimestrale","pid":156,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/16287a2b-e786-47cb-a30c-246fca2c5be6\/vid?resourceVersion=id%3A156"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/16287a2b-e786-47cb-a30c-246fca2c5be6\/relationships\/vid?resourceVersion=id%3A156"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/16287a2b-e786-47cb-a30c-246fca2c5be6\/revision_user?resourceVersion=id%3A156"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/16287a2b-e786-47cb-a30c-246fca2c5be6\/relationships\/revision_user?resourceVersion=id%3A156"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/16287a2b-e786-47cb-a30c-246fca2c5be6\/parent?resourceVersion=id%3A156"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/16287a2b-e786-47cb-a30c-246fca2c5be6\/relationships\/parent?resourceVersion=id%3A156"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"6d37b96b-69e0-4144-b8c6-313ef41886fc","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/6d37b96b-69e0-4144-b8c6-313ef41886fc?resourceVersion=id%3A157"}},"attributes":{"drupal_internal__tid":157,"drupal_internal__revision_id":157,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"bisettimanale","description":null,"weight":0,"changed":"2023-01-20T01:24:16+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/bisettimanale","pid":157,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/6d37b96b-69e0-4144-b8c6-313ef41886fc\/vid?resourceVersion=id%3A157"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/6d37b96b-69e0-4144-b8c6-313ef41886fc\/relationships\/vid?resourceVersion=id%3A157"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/6d37b96b-69e0-4144-b8c6-313ef41886fc\/revision_user?resourceVersion=id%3A157"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/6d37b96b-69e0-4144-b8c6-313ef41886fc\/relationships\/revision_user?resourceVersion=id%3A157"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/6d37b96b-69e0-4144-b8c6-313ef41886fc\/parent?resourceVersion=id%3A157"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/6d37b96b-69e0-4144-b8c6-313ef41886fc\/relationships\/parent?resourceVersion=id%3A157"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"4066ed40-b4a0-41a0-8afb-f850825c5343","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/4066ed40-b4a0-41a0-8afb-f850825c5343?resourceVersion=id%3A160"}},"attributes":{"drupal_internal__tid":160,"drupal_internal__revision_id":160,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"continuo","description":null,"weight":0,"changed":"2023-01-20T01:24:19+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/continuo","pid":160,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/4066ed40-b4a0-41a0-8afb-f850825c5343\/vid?resourceVersion=id%3A160"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/4066ed40-b4a0-41a0-8afb-f850825c5343\/relationships\/vid?resourceVersion=id%3A160"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/4066ed40-b4a0-41a0-8afb-f850825c5343\/revision_user?resourceVersion=id%3A160"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/4066ed40-b4a0-41a0-8afb-f850825c5343\/relationships\/revision_user?resourceVersion=id%3A160"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/4066ed40-b4a0-41a0-8afb-f850825c5343\/parent?resourceVersion=id%3A160"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/4066ed40-b4a0-41a0-8afb-f850825c5343\/relationships\/parent?resourceVersion=id%3A160"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"d716c896-8696-487a-adc7-efc7814c6039","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/d716c896-8696-487a-adc7-efc7814c6039?resourceVersion=id%3A161"}},"attributes":{"drupal_internal__tid":161,"drupal_internal__revision_id":161,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"decennale","description":null,"weight":0,"changed":"2023-01-20T01:24:22+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/decennale","pid":161,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/d716c896-8696-487a-adc7-efc7814c6039\/vid?resourceVersion=id%3A161"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/d716c896-8696-487a-adc7-efc7814c6039\/relationships\/vid?resourceVersion=id%3A161"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/d716c896-8696-487a-adc7-efc7814c6039\/revision_user?resourceVersion=id%3A161"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/d716c896-8696-487a-adc7-efc7814c6039\/relationships\/revision_user?resourceVersion=id%3A161"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/d716c896-8696-487a-adc7-efc7814c6039\/parent?resourceVersion=id%3A161"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/d716c896-8696-487a-adc7-efc7814c6039\/relationships\/parent?resourceVersion=id%3A161"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"ed515453-d758-47e1-a8f0-6542434f0987","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ed515453-d758-47e1-a8f0-6542434f0987?resourceVersion=id%3A162"}},"attributes":{"drupal_internal__tid":162,"drupal_internal__revision_id":162,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"due volte al giorno","description":null,"weight":0,"changed":"2023-01-20T01:24:25+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/due-volte-al-giorno","pid":162,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ed515453-d758-47e1-a8f0-6542434f0987\/vid?resourceVersion=id%3A162"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ed515453-d758-47e1-a8f0-6542434f0987\/relationships\/vid?resourceVersion=id%3A162"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ed515453-d758-47e1-a8f0-6542434f0987\/revision_user?resourceVersion=id%3A162"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ed515453-d758-47e1-a8f0-6542434f0987\/relationships\/revision_user?resourceVersion=id%3A162"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ed515453-d758-47e1-a8f0-6542434f0987\/parent?resourceVersion=id%3A162"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ed515453-d758-47e1-a8f0-6542434f0987\/relationships\/parent?resourceVersion=id%3A162"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"e627db90-5317-4bd4-83c1-2cdeaa8e1c28","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/e627db90-5317-4bd4-83c1-2cdeaa8e1c28?resourceVersion=id%3A163"}},"attributes":{"drupal_internal__tid":163,"drupal_internal__revision_id":163,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"in continuo aggiornamento","description":null,"weight":0,"changed":"2023-01-20T01:24:28+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/continuo-aggiornamento","pid":163,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/e627db90-5317-4bd4-83c1-2cdeaa8e1c28\/vid?resourceVersion=id%3A163"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/e627db90-5317-4bd4-83c1-2cdeaa8e1c28\/relationships\/vid?resourceVersion=id%3A163"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/e627db90-5317-4bd4-83c1-2cdeaa8e1c28\/revision_user?resourceVersion=id%3A163"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/e627db90-5317-4bd4-83c1-2cdeaa8e1c28\/relationships\/revision_user?resourceVersion=id%3A163"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/e627db90-5317-4bd4-83c1-2cdeaa8e1c28\/parent?resourceVersion=id%3A163"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/e627db90-5317-4bd4-83c1-2cdeaa8e1c28\/relationships\/parent?resourceVersion=id%3A163"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"77bb27e6-a92a-4786-a40e-efce00166245","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/77bb27e6-a92a-4786-a40e-efce00166245?resourceVersion=id%3A164"}},"attributes":{"drupal_internal__tid":164,"drupal_internal__revision_id":164,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"irregolare","description":null,"weight":0,"changed":"2023-01-20T01:24:31+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/irregolare","pid":164,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/77bb27e6-a92a-4786-a40e-efce00166245\/vid?resourceVersion=id%3A164"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/77bb27e6-a92a-4786-a40e-efce00166245\/relationships\/vid?resourceVersion=id%3A164"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/77bb27e6-a92a-4786-a40e-efce00166245\/revision_user?resourceVersion=id%3A164"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/77bb27e6-a92a-4786-a40e-efce00166245\/relationships\/revision_user?resourceVersion=id%3A164"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/77bb27e6-a92a-4786-a40e-efce00166245\/parent?resourceVersion=id%3A164"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/77bb27e6-a92a-4786-a40e-efce00166245\/relationships\/parent?resourceVersion=id%3A164"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"b3d57385-9e3c-4d60-b4a9-7bbfd745a381","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/b3d57385-9e3c-4d60-b4a9-7bbfd745a381?resourceVersion=id%3A165"}},"attributes":{"drupal_internal__tid":165,"drupal_internal__revision_id":165,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"mai","description":null,"weight":0,"changed":"2023-01-20T01:24:34+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/mai","pid":165,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/b3d57385-9e3c-4d60-b4a9-7bbfd745a381\/vid?resourceVersion=id%3A165"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/b3d57385-9e3c-4d60-b4a9-7bbfd745a381\/relationships\/vid?resourceVersion=id%3A165"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/b3d57385-9e3c-4d60-b4a9-7bbfd745a381\/revision_user?resourceVersion=id%3A165"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/b3d57385-9e3c-4d60-b4a9-7bbfd745a381\/relationships\/revision_user?resourceVersion=id%3A165"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/b3d57385-9e3c-4d60-b4a9-7bbfd745a381\/parent?resourceVersion=id%3A165"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/b3d57385-9e3c-4d60-b4a9-7bbfd745a381\/relationships\/parent?resourceVersion=id%3A165"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"2605a0c9-1ec7-4846-951b-2efb529660ce","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/2605a0c9-1ec7-4846-951b-2efb529660ce?resourceVersion=id%3A166"}},"attributes":{"drupal_internal__tid":166,"drupal_internal__revision_id":166,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"mensile","description":null,"weight":0,"changed":"2023-01-20T01:24:36+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/mensile","pid":166,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/2605a0c9-1ec7-4846-951b-2efb529660ce\/vid?resourceVersion=id%3A166"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/2605a0c9-1ec7-4846-951b-2efb529660ce\/relationships\/vid?resourceVersion=id%3A166"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/2605a0c9-1ec7-4846-951b-2efb529660ce\/revision_user?resourceVersion=id%3A166"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/2605a0c9-1ec7-4846-951b-2efb529660ce\/relationships\/revision_user?resourceVersion=id%3A166"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/2605a0c9-1ec7-4846-951b-2efb529660ce\/parent?resourceVersion=id%3A166"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/2605a0c9-1ec7-4846-951b-2efb529660ce\/relationships\/parent?resourceVersion=id%3A166"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"c11c1d5b-a61f-4797-8b1c-6cb4d28b8495","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/c11c1d5b-a61f-4797-8b1c-6cb4d28b8495?resourceVersion=id%3A168"}},"attributes":{"drupal_internal__tid":168,"drupal_internal__revision_id":168,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"ogni cinque anni","description":null,"weight":0,"changed":"2023-01-20T01:24:39+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/ogni-cinque-anni","pid":168,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/c11c1d5b-a61f-4797-8b1c-6cb4d28b8495\/vid?resourceVersion=id%3A168"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/c11c1d5b-a61f-4797-8b1c-6cb4d28b8495\/relationships\/vid?resourceVersion=id%3A168"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/c11c1d5b-a61f-4797-8b1c-6cb4d28b8495\/revision_user?resourceVersion=id%3A168"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/c11c1d5b-a61f-4797-8b1c-6cb4d28b8495\/relationships\/revision_user?resourceVersion=id%3A168"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/c11c1d5b-a61f-4797-8b1c-6cb4d28b8495\/parent?resourceVersion=id%3A168"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/c11c1d5b-a61f-4797-8b1c-6cb4d28b8495\/relationships\/parent?resourceVersion=id%3A168"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"cbafe27a-2840-4058-bd6b-d92b41b98fd7","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/cbafe27a-2840-4058-bd6b-d92b41b98fd7?resourceVersion=id%3A169"}},"attributes":{"drupal_internal__tid":169,"drupal_internal__revision_id":169,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"ogni due ore","description":null,"weight":0,"changed":"2023-01-20T01:24:41+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/ogni-due-ore","pid":169,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/cbafe27a-2840-4058-bd6b-d92b41b98fd7\/vid?resourceVersion=id%3A169"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/cbafe27a-2840-4058-bd6b-d92b41b98fd7\/relationships\/vid?resourceVersion=id%3A169"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/cbafe27a-2840-4058-bd6b-d92b41b98fd7\/revision_user?resourceVersion=id%3A169"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/cbafe27a-2840-4058-bd6b-d92b41b98fd7\/relationships\/revision_user?resourceVersion=id%3A169"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/cbafe27a-2840-4058-bd6b-d92b41b98fd7\/parent?resourceVersion=id%3A169"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/cbafe27a-2840-4058-bd6b-d92b41b98fd7\/relationships\/parent?resourceVersion=id%3A169"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"58cfbbe1-a128-4492-a8d7-5f163e6828bf","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/58cfbbe1-a128-4492-a8d7-5f163e6828bf?resourceVersion=id%3A171"}},"attributes":{"drupal_internal__tid":171,"drupal_internal__revision_id":171,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"ogni ora","description":null,"weight":0,"changed":"2023-01-20T01:24:44+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/ogni-ora","pid":171,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/58cfbbe1-a128-4492-a8d7-5f163e6828bf\/vid?resourceVersion=id%3A171"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/58cfbbe1-a128-4492-a8d7-5f163e6828bf\/relationships\/vid?resourceVersion=id%3A171"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/58cfbbe1-a128-4492-a8d7-5f163e6828bf\/revision_user?resourceVersion=id%3A171"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/58cfbbe1-a128-4492-a8d7-5f163e6828bf\/relationships\/revision_user?resourceVersion=id%3A171"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/58cfbbe1-a128-4492-a8d7-5f163e6828bf\/parent?resourceVersion=id%3A171"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/58cfbbe1-a128-4492-a8d7-5f163e6828bf\/relationships\/parent?resourceVersion=id%3A171"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"564e94b3-9ea6-44e0-99d9-b4a21bcf95b3","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/564e94b3-9ea6-44e0-99d9-b4a21bcf95b3?resourceVersion=id%3A173"}},"attributes":{"drupal_internal__tid":173,"drupal_internal__revision_id":173,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"ogni quattro anni","description":null,"weight":0,"changed":"2023-01-20T01:24:48+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/ogni-quattro-anni","pid":173,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/564e94b3-9ea6-44e0-99d9-b4a21bcf95b3\/vid?resourceVersion=id%3A173"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/564e94b3-9ea6-44e0-99d9-b4a21bcf95b3\/relationships\/vid?resourceVersion=id%3A173"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/564e94b3-9ea6-44e0-99d9-b4a21bcf95b3\/revision_user?resourceVersion=id%3A173"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/564e94b3-9ea6-44e0-99d9-b4a21bcf95b3\/relationships\/revision_user?resourceVersion=id%3A173"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/564e94b3-9ea6-44e0-99d9-b4a21bcf95b3\/parent?resourceVersion=id%3A173"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/564e94b3-9ea6-44e0-99d9-b4a21bcf95b3\/relationships\/parent?resourceVersion=id%3A173"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"96363c46-5bfa-4343-99d8-c4cc078cdbfd","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/96363c46-5bfa-4343-99d8-c4cc078cdbfd?resourceVersion=id%3A174"}},"attributes":{"drupal_internal__tid":174,"drupal_internal__revision_id":174,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"ogni tre ore","description":null,"weight":0,"changed":"2023-01-20T01:24:51+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/ogni-tre-ore","pid":174,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/96363c46-5bfa-4343-99d8-c4cc078cdbfd\/vid?resourceVersion=id%3A174"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/96363c46-5bfa-4343-99d8-c4cc078cdbfd\/relationships\/vid?resourceVersion=id%3A174"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/96363c46-5bfa-4343-99d8-c4cc078cdbfd\/revision_user?resourceVersion=id%3A174"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/96363c46-5bfa-4343-99d8-c4cc078cdbfd\/relationships\/revision_user?resourceVersion=id%3A174"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/96363c46-5bfa-4343-99d8-c4cc078cdbfd\/parent?resourceVersion=id%3A174"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/96363c46-5bfa-4343-99d8-c4cc078cdbfd\/relationships\/parent?resourceVersion=id%3A174"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"735bba60-fb73-416b-af01-518f7d091621","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/735bba60-fb73-416b-af01-518f7d091621?resourceVersion=id%3A175"}},"attributes":{"drupal_internal__tid":175,"drupal_internal__revision_id":175,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"quindicinale","description":null,"weight":0,"changed":"2023-01-20T01:24:55+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/quindicinale","pid":175,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/735bba60-fb73-416b-af01-518f7d091621\/vid?resourceVersion=id%3A175"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/735bba60-fb73-416b-af01-518f7d091621\/relationships\/vid?resourceVersion=id%3A175"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/735bba60-fb73-416b-af01-518f7d091621\/revision_user?resourceVersion=id%3A175"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/735bba60-fb73-416b-af01-518f7d091621\/relationships\/revision_user?resourceVersion=id%3A175"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/735bba60-fb73-416b-af01-518f7d091621\/parent?resourceVersion=id%3A175"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/735bba60-fb73-416b-af01-518f7d091621\/relationships\/parent?resourceVersion=id%3A175"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"0497b537-54cc-4143-a313-9e89c47db130","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/0497b537-54cc-4143-a313-9e89c47db130?resourceVersion=id%3A176"}},"attributes":{"drupal_internal__tid":176,"drupal_internal__revision_id":176,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"quotidiano","description":null,"weight":0,"changed":"2023-01-20T01:24:58+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/quotidiano","pid":176,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/0497b537-54cc-4143-a313-9e89c47db130\/vid?resourceVersion=id%3A176"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/0497b537-54cc-4143-a313-9e89c47db130\/relationships\/vid?resourceVersion=id%3A176"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/0497b537-54cc-4143-a313-9e89c47db130\/revision_user?resourceVersion=id%3A176"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/0497b537-54cc-4143-a313-9e89c47db130\/relationships\/revision_user?resourceVersion=id%3A176"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/0497b537-54cc-4143-a313-9e89c47db130\/parent?resourceVersion=id%3A176"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/0497b537-54cc-4143-a313-9e89c47db130\/relationships\/parent?resourceVersion=id%3A176"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"9afd38a9-2015-4a4d-8331-2f674dc82cac","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/9afd38a9-2015-4a4d-8331-2f674dc82cac?resourceVersion=id%3A177"}},"attributes":{"drupal_internal__tid":177,"drupal_internal__revision_id":177,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"sconosciuto","description":null,"weight":0,"changed":"2023-01-20T01:25:01+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/sconosciuto","pid":177,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/9afd38a9-2015-4a4d-8331-2f674dc82cac\/vid?resourceVersion=id%3A177"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/9afd38a9-2015-4a4d-8331-2f674dc82cac\/relationships\/vid?resourceVersion=id%3A177"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/9afd38a9-2015-4a4d-8331-2f674dc82cac\/revision_user?resourceVersion=id%3A177"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/9afd38a9-2015-4a4d-8331-2f674dc82cac\/relationships\/revision_user?resourceVersion=id%3A177"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/9afd38a9-2015-4a4d-8331-2f674dc82cac\/parent?resourceVersion=id%3A177"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/9afd38a9-2015-4a4d-8331-2f674dc82cac\/relationships\/parent?resourceVersion=id%3A177"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"79f6ddbb-5803-43c8-bfe7-0fb26ae71857","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/79f6ddbb-5803-43c8-bfe7-0fb26ae71857?resourceVersion=id%3A178"}},"attributes":{"drupal_internal__tid":178,"drupal_internal__revision_id":178,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"semestrale","description":null,"weight":0,"changed":"2023-01-20T01:25:05+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/semestrale","pid":178,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/79f6ddbb-5803-43c8-bfe7-0fb26ae71857\/vid?resourceVersion=id%3A178"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/79f6ddbb-5803-43c8-bfe7-0fb26ae71857\/relationships\/vid?resourceVersion=id%3A178"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/79f6ddbb-5803-43c8-bfe7-0fb26ae71857\/revision_user?resourceVersion=id%3A178"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/79f6ddbb-5803-43c8-bfe7-0fb26ae71857\/relationships\/revision_user?resourceVersion=id%3A178"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/79f6ddbb-5803-43c8-bfe7-0fb26ae71857\/parent?resourceVersion=id%3A178"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/79f6ddbb-5803-43c8-bfe7-0fb26ae71857\/relationships\/parent?resourceVersion=id%3A178"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"128d21d4-5c7b-478d-bddf-2065d0be2861","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/128d21d4-5c7b-478d-bddf-2065d0be2861?resourceVersion=id%3A180"}},"attributes":{"drupal_internal__tid":180,"drupal_internal__revision_id":180,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"settimanale","description":null,"weight":0,"changed":"2023-01-20T01:25:07+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/settimanale","pid":180,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/128d21d4-5c7b-478d-bddf-2065d0be2861\/vid?resourceVersion=id%3A180"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/128d21d4-5c7b-478d-bddf-2065d0be2861\/relationships\/vid?resourceVersion=id%3A180"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/128d21d4-5c7b-478d-bddf-2065d0be2861\/revision_user?resourceVersion=id%3A180"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/128d21d4-5c7b-478d-bddf-2065d0be2861\/relationships\/revision_user?resourceVersion=id%3A180"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/128d21d4-5c7b-478d-bddf-2065d0be2861\/parent?resourceVersion=id%3A180"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/128d21d4-5c7b-478d-bddf-2065d0be2861\/relationships\/parent?resourceVersion=id%3A180"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"a2c76c3e-ca42-44ad-aa7e-562dd910291a","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2c76c3e-ca42-44ad-aa7e-562dd910291a?resourceVersion=id%3A182"}},"attributes":{"drupal_internal__tid":182,"drupal_internal__revision_id":182,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"tre volte a settimana","description":null,"weight":0,"changed":"2023-01-20T01:25:10+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/tre-volte-settimana","pid":182,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2c76c3e-ca42-44ad-aa7e-562dd910291a\/vid?resourceVersion=id%3A182"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2c76c3e-ca42-44ad-aa7e-562dd910291a\/relationships\/vid?resourceVersion=id%3A182"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2c76c3e-ca42-44ad-aa7e-562dd910291a\/revision_user?resourceVersion=id%3A182"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2c76c3e-ca42-44ad-aa7e-562dd910291a\/relationships\/revision_user?resourceVersion=id%3A182"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2c76c3e-ca42-44ad-aa7e-562dd910291a\/parent?resourceVersion=id%3A182"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2c76c3e-ca42-44ad-aa7e-562dd910291a\/relationships\/parent?resourceVersion=id%3A182"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"3a54ff78-8037-4f9f-bf8b-e295207d5670","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3a54ff78-8037-4f9f-bf8b-e295207d5670?resourceVersion=id%3A183"}},"attributes":{"drupal_internal__tid":183,"drupal_internal__revision_id":183,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"tre volte al mese","description":null,"weight":0,"changed":"2023-01-20T01:25:13+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/tre-volte-al-mese","pid":183,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3a54ff78-8037-4f9f-bf8b-e295207d5670\/vid?resourceVersion=id%3A183"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3a54ff78-8037-4f9f-bf8b-e295207d5670\/relationships\/vid?resourceVersion=id%3A183"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3a54ff78-8037-4f9f-bf8b-e295207d5670\/revision_user?resourceVersion=id%3A183"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3a54ff78-8037-4f9f-bf8b-e295207d5670\/relationships\/revision_user?resourceVersion=id%3A183"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3a54ff78-8037-4f9f-bf8b-e295207d5670\/parent?resourceVersion=id%3A183"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3a54ff78-8037-4f9f-bf8b-e295207d5670\/relationships\/parent?resourceVersion=id%3A183"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"544928df-3bcf-4802-b92d-3298e037bc4a","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/544928df-3bcf-4802-b92d-3298e037bc4a?resourceVersion=id%3A184"}},"attributes":{"drupal_internal__tid":184,"drupal_internal__revision_id":184,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"tre volte all\u0027anno","description":null,"weight":0,"changed":"2023-01-20T01:25:16+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/tre-volte-allanno","pid":184,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/544928df-3bcf-4802-b92d-3298e037bc4a\/vid?resourceVersion=id%3A184"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/544928df-3bcf-4802-b92d-3298e037bc4a\/relationships\/vid?resourceVersion=id%3A184"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/544928df-3bcf-4802-b92d-3298e037bc4a\/revision_user?resourceVersion=id%3A184"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/544928df-3bcf-4802-b92d-3298e037bc4a\/relationships\/revision_user?resourceVersion=id%3A184"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/544928df-3bcf-4802-b92d-3298e037bc4a\/parent?resourceVersion=id%3A184"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/544928df-3bcf-4802-b92d-3298e037bc4a\/relationships\/parent?resourceVersion=id%3A184"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"ade46c00-9463-4f32-99e2-6830776d3d34","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ade46c00-9463-4f32-99e2-6830776d3d34?resourceVersion=id%3A187"}},"attributes":{"drupal_internal__tid":187,"drupal_internal__revision_id":187,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"tridecennale","description":null,"weight":0,"changed":"2023-01-20T01:25:19+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/tridecennale","pid":187,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ade46c00-9463-4f32-99e2-6830776d3d34\/vid?resourceVersion=id%3A187"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ade46c00-9463-4f32-99e2-6830776d3d34\/relationships\/vid?resourceVersion=id%3A187"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ade46c00-9463-4f32-99e2-6830776d3d34\/revision_user?resourceVersion=id%3A187"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ade46c00-9463-4f32-99e2-6830776d3d34\/relationships\/revision_user?resourceVersion=id%3A187"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ade46c00-9463-4f32-99e2-6830776d3d34\/parent?resourceVersion=id%3A187"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ade46c00-9463-4f32-99e2-6830776d3d34\/relationships\/parent?resourceVersion=id%3A187"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"436d2b22-bbf1-416f-b91e-52031933e584","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/436d2b22-bbf1-416f-b91e-52031933e584?resourceVersion=id%3A188"}},"attributes":{"drupal_internal__tid":188,"drupal_internal__revision_id":188,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"triennale","description":null,"weight":0,"changed":"2023-01-20T01:25:21+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/triennale","pid":188,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/436d2b22-bbf1-416f-b91e-52031933e584\/vid?resourceVersion=id%3A188"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/436d2b22-bbf1-416f-b91e-52031933e584\/relationships\/vid?resourceVersion=id%3A188"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/436d2b22-bbf1-416f-b91e-52031933e584\/revision_user?resourceVersion=id%3A188"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/436d2b22-bbf1-416f-b91e-52031933e584\/relationships\/revision_user?resourceVersion=id%3A188"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/436d2b22-bbf1-416f-b91e-52031933e584\/parent?resourceVersion=id%3A188"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/436d2b22-bbf1-416f-b91e-52031933e584\/relationships\/parent?resourceVersion=id%3A188"}}}}},{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"8f103b59-35ba-4cc3-98a8-3bcf2cab169f","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/8f103b59-35ba-4cc3-98a8-3bcf2cab169f?resourceVersion=id%3A189"}},"attributes":{"drupal_internal__tid":189,"drupal_internal__revision_id":189,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"trimestrale","description":null,"weight":0,"changed":"2023-01-20T01:25:25+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/frequenze-di-aggiornamento\/trimestrale","pid":189,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"9673b03a-7a88-4995-bf25-c07306c3d76b","meta":{"drupal_internal__target_id":"frequenze_di_aggiornamento"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/8f103b59-35ba-4cc3-98a8-3bcf2cab169f\/vid?resourceVersion=id%3A189"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/8f103b59-35ba-4cc3-98a8-3bcf2cab169f\/relationships\/vid?resourceVersion=id%3A189"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/8f103b59-35ba-4cc3-98a8-3bcf2cab169f\/revision_user?resourceVersion=id%3A189"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/8f103b59-35ba-4cc3-98a8-3bcf2cab169f\/relationships\/revision_user?resourceVersion=id%3A189"}}},"parent":{"data":[{"type":"taxonomy_term--frequenze_di_aggiornamento","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/8f103b59-35ba-4cc3-98a8-3bcf2cab169f\/parent?resourceVersion=id%3A189"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/8f103b59-35ba-4cc3-98a8-3bcf2cab169f\/relationships\/parent?resourceVersion=id%3A189"}}}}}],"links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento"}}}
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http:\/\/jsonapi.org\/format\/1.0\/"
+        }
+      }
+    }
+  },
+  "data": [
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "3591494c-36f9-470e-a5f0-772a1cc8bf1b",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3591494c-36f9-470e-a5f0-772a1cc8bf1b?resourceVersion=id%3A150"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 150,
+        "drupal_internal__revision_id": 150,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "altro",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:23:58+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/altro",
+          "pid": 150,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3591494c-36f9-470e-a5f0-772a1cc8bf1b\/vid?resourceVersion=id%3A150"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3591494c-36f9-470e-a5f0-772a1cc8bf1b\/relationships\/vid?resourceVersion=id%3A150"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3591494c-36f9-470e-a5f0-772a1cc8bf1b\/revision_user?resourceVersion=id%3A150"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3591494c-36f9-470e-a5f0-772a1cc8bf1b\/relationships\/revision_user?resourceVersion=id%3A150"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3591494c-36f9-470e-a5f0-772a1cc8bf1b\/parent?resourceVersion=id%3A150"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3591494c-36f9-470e-a5f0-772a1cc8bf1b\/relationships\/parent?resourceVersion=id%3A150"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "7ad86b8a-03a8-4120-abdd-a90127a3d5b2",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/7ad86b8a-03a8-4120-abdd-a90127a3d5b2?resourceVersion=id%3A151"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 151,
+        "drupal_internal__revision_id": 151,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "annuale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:24:01+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/annuale",
+          "pid": 151,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/7ad86b8a-03a8-4120-abdd-a90127a3d5b2\/vid?resourceVersion=id%3A151"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/7ad86b8a-03a8-4120-abdd-a90127a3d5b2\/relationships\/vid?resourceVersion=id%3A151"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/7ad86b8a-03a8-4120-abdd-a90127a3d5b2\/revision_user?resourceVersion=id%3A151"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/7ad86b8a-03a8-4120-abdd-a90127a3d5b2\/relationships\/revision_user?resourceVersion=id%3A151"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/7ad86b8a-03a8-4120-abdd-a90127a3d5b2\/parent?resourceVersion=id%3A151"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/7ad86b8a-03a8-4120-abdd-a90127a3d5b2\/relationships\/parent?resourceVersion=id%3A151"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "fbd060a4-a6e6-456f-b520-9ee8ebe94e1a",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/fbd060a4-a6e6-456f-b520-9ee8ebe94e1a?resourceVersion=id%3A152"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 152,
+        "drupal_internal__revision_id": 152,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "bidecennale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:24:04+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/bidecennale",
+          "pid": 152,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/fbd060a4-a6e6-456f-b520-9ee8ebe94e1a\/vid?resourceVersion=id%3A152"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/fbd060a4-a6e6-456f-b520-9ee8ebe94e1a\/relationships\/vid?resourceVersion=id%3A152"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/fbd060a4-a6e6-456f-b520-9ee8ebe94e1a\/revision_user?resourceVersion=id%3A152"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/fbd060a4-a6e6-456f-b520-9ee8ebe94e1a\/relationships\/revision_user?resourceVersion=id%3A152"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/fbd060a4-a6e6-456f-b520-9ee8ebe94e1a\/parent?resourceVersion=id%3A152"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/fbd060a4-a6e6-456f-b520-9ee8ebe94e1a\/relationships\/parent?resourceVersion=id%3A152"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "a2b26eef-2c2b-41de-8846-261b33309a95",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2b26eef-2c2b-41de-8846-261b33309a95?resourceVersion=id%3A153"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 153,
+        "drupal_internal__revision_id": 153,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "biennale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:24:07+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/biennale",
+          "pid": 153,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2b26eef-2c2b-41de-8846-261b33309a95\/vid?resourceVersion=id%3A153"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2b26eef-2c2b-41de-8846-261b33309a95\/relationships\/vid?resourceVersion=id%3A153"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2b26eef-2c2b-41de-8846-261b33309a95\/revision_user?resourceVersion=id%3A153"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2b26eef-2c2b-41de-8846-261b33309a95\/relationships\/revision_user?resourceVersion=id%3A153"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2b26eef-2c2b-41de-8846-261b33309a95\/parent?resourceVersion=id%3A153"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2b26eef-2c2b-41de-8846-261b33309a95\/relationships\/parent?resourceVersion=id%3A153"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "675882f1-96e3-4870-965e-b104ca44eea5",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/675882f1-96e3-4870-965e-b104ca44eea5?resourceVersion=id%3A154"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 154,
+        "drupal_internal__revision_id": 154,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "bimensile",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:24:11+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/bimensile",
+          "pid": 154,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/675882f1-96e3-4870-965e-b104ca44eea5\/vid?resourceVersion=id%3A154"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/675882f1-96e3-4870-965e-b104ca44eea5\/relationships\/vid?resourceVersion=id%3A154"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/675882f1-96e3-4870-965e-b104ca44eea5\/revision_user?resourceVersion=id%3A154"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/675882f1-96e3-4870-965e-b104ca44eea5\/relationships\/revision_user?resourceVersion=id%3A154"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/675882f1-96e3-4870-965e-b104ca44eea5\/parent?resourceVersion=id%3A154"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/675882f1-96e3-4870-965e-b104ca44eea5\/relationships\/parent?resourceVersion=id%3A154"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "16287a2b-e786-47cb-a30c-246fca2c5be6",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/16287a2b-e786-47cb-a30c-246fca2c5be6?resourceVersion=id%3A156"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 156,
+        "drupal_internal__revision_id": 156,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "bimestrale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:24:14+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/bimestrale",
+          "pid": 156,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/16287a2b-e786-47cb-a30c-246fca2c5be6\/vid?resourceVersion=id%3A156"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/16287a2b-e786-47cb-a30c-246fca2c5be6\/relationships\/vid?resourceVersion=id%3A156"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/16287a2b-e786-47cb-a30c-246fca2c5be6\/revision_user?resourceVersion=id%3A156"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/16287a2b-e786-47cb-a30c-246fca2c5be6\/relationships\/revision_user?resourceVersion=id%3A156"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/16287a2b-e786-47cb-a30c-246fca2c5be6\/parent?resourceVersion=id%3A156"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/16287a2b-e786-47cb-a30c-246fca2c5be6\/relationships\/parent?resourceVersion=id%3A156"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "6d37b96b-69e0-4144-b8c6-313ef41886fc",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/6d37b96b-69e0-4144-b8c6-313ef41886fc?resourceVersion=id%3A157"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 157,
+        "drupal_internal__revision_id": 157,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "bisettimanale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:24:16+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/bisettimanale",
+          "pid": 157,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/6d37b96b-69e0-4144-b8c6-313ef41886fc\/vid?resourceVersion=id%3A157"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/6d37b96b-69e0-4144-b8c6-313ef41886fc\/relationships\/vid?resourceVersion=id%3A157"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/6d37b96b-69e0-4144-b8c6-313ef41886fc\/revision_user?resourceVersion=id%3A157"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/6d37b96b-69e0-4144-b8c6-313ef41886fc\/relationships\/revision_user?resourceVersion=id%3A157"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/6d37b96b-69e0-4144-b8c6-313ef41886fc\/parent?resourceVersion=id%3A157"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/6d37b96b-69e0-4144-b8c6-313ef41886fc\/relationships\/parent?resourceVersion=id%3A157"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "4066ed40-b4a0-41a0-8afb-f850825c5343",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/4066ed40-b4a0-41a0-8afb-f850825c5343?resourceVersion=id%3A160"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 160,
+        "drupal_internal__revision_id": 160,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "continuo",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:24:19+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/continuo",
+          "pid": 160,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/4066ed40-b4a0-41a0-8afb-f850825c5343\/vid?resourceVersion=id%3A160"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/4066ed40-b4a0-41a0-8afb-f850825c5343\/relationships\/vid?resourceVersion=id%3A160"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/4066ed40-b4a0-41a0-8afb-f850825c5343\/revision_user?resourceVersion=id%3A160"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/4066ed40-b4a0-41a0-8afb-f850825c5343\/relationships\/revision_user?resourceVersion=id%3A160"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/4066ed40-b4a0-41a0-8afb-f850825c5343\/parent?resourceVersion=id%3A160"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/4066ed40-b4a0-41a0-8afb-f850825c5343\/relationships\/parent?resourceVersion=id%3A160"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "d716c896-8696-487a-adc7-efc7814c6039",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/d716c896-8696-487a-adc7-efc7814c6039?resourceVersion=id%3A161"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 161,
+        "drupal_internal__revision_id": 161,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "decennale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:24:22+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/decennale",
+          "pid": 161,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/d716c896-8696-487a-adc7-efc7814c6039\/vid?resourceVersion=id%3A161"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/d716c896-8696-487a-adc7-efc7814c6039\/relationships\/vid?resourceVersion=id%3A161"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/d716c896-8696-487a-adc7-efc7814c6039\/revision_user?resourceVersion=id%3A161"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/d716c896-8696-487a-adc7-efc7814c6039\/relationships\/revision_user?resourceVersion=id%3A161"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/d716c896-8696-487a-adc7-efc7814c6039\/parent?resourceVersion=id%3A161"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/d716c896-8696-487a-adc7-efc7814c6039\/relationships\/parent?resourceVersion=id%3A161"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "ed515453-d758-47e1-a8f0-6542434f0987",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ed515453-d758-47e1-a8f0-6542434f0987?resourceVersion=id%3A162"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 162,
+        "drupal_internal__revision_id": 162,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "due volte al giorno",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:24:25+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/due-volte-al-giorno",
+          "pid": 162,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ed515453-d758-47e1-a8f0-6542434f0987\/vid?resourceVersion=id%3A162"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ed515453-d758-47e1-a8f0-6542434f0987\/relationships\/vid?resourceVersion=id%3A162"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ed515453-d758-47e1-a8f0-6542434f0987\/revision_user?resourceVersion=id%3A162"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ed515453-d758-47e1-a8f0-6542434f0987\/relationships\/revision_user?resourceVersion=id%3A162"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ed515453-d758-47e1-a8f0-6542434f0987\/parent?resourceVersion=id%3A162"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ed515453-d758-47e1-a8f0-6542434f0987\/relationships\/parent?resourceVersion=id%3A162"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "e627db90-5317-4bd4-83c1-2cdeaa8e1c28",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/e627db90-5317-4bd4-83c1-2cdeaa8e1c28?resourceVersion=id%3A163"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 163,
+        "drupal_internal__revision_id": 163,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "in continuo aggiornamento",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:24:28+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/continuo-aggiornamento",
+          "pid": 163,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/e627db90-5317-4bd4-83c1-2cdeaa8e1c28\/vid?resourceVersion=id%3A163"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/e627db90-5317-4bd4-83c1-2cdeaa8e1c28\/relationships\/vid?resourceVersion=id%3A163"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/e627db90-5317-4bd4-83c1-2cdeaa8e1c28\/revision_user?resourceVersion=id%3A163"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/e627db90-5317-4bd4-83c1-2cdeaa8e1c28\/relationships\/revision_user?resourceVersion=id%3A163"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/e627db90-5317-4bd4-83c1-2cdeaa8e1c28\/parent?resourceVersion=id%3A163"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/e627db90-5317-4bd4-83c1-2cdeaa8e1c28\/relationships\/parent?resourceVersion=id%3A163"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "77bb27e6-a92a-4786-a40e-efce00166245",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/77bb27e6-a92a-4786-a40e-efce00166245?resourceVersion=id%3A164"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 164,
+        "drupal_internal__revision_id": 164,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "irregolare",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:24:31+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/irregolare",
+          "pid": 164,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/77bb27e6-a92a-4786-a40e-efce00166245\/vid?resourceVersion=id%3A164"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/77bb27e6-a92a-4786-a40e-efce00166245\/relationships\/vid?resourceVersion=id%3A164"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/77bb27e6-a92a-4786-a40e-efce00166245\/revision_user?resourceVersion=id%3A164"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/77bb27e6-a92a-4786-a40e-efce00166245\/relationships\/revision_user?resourceVersion=id%3A164"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/77bb27e6-a92a-4786-a40e-efce00166245\/parent?resourceVersion=id%3A164"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/77bb27e6-a92a-4786-a40e-efce00166245\/relationships\/parent?resourceVersion=id%3A164"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "b3d57385-9e3c-4d60-b4a9-7bbfd745a381",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/b3d57385-9e3c-4d60-b4a9-7bbfd745a381?resourceVersion=id%3A165"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 165,
+        "drupal_internal__revision_id": 165,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "mai",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:24:34+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/mai",
+          "pid": 165,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/b3d57385-9e3c-4d60-b4a9-7bbfd745a381\/vid?resourceVersion=id%3A165"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/b3d57385-9e3c-4d60-b4a9-7bbfd745a381\/relationships\/vid?resourceVersion=id%3A165"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/b3d57385-9e3c-4d60-b4a9-7bbfd745a381\/revision_user?resourceVersion=id%3A165"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/b3d57385-9e3c-4d60-b4a9-7bbfd745a381\/relationships\/revision_user?resourceVersion=id%3A165"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/b3d57385-9e3c-4d60-b4a9-7bbfd745a381\/parent?resourceVersion=id%3A165"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/b3d57385-9e3c-4d60-b4a9-7bbfd745a381\/relationships\/parent?resourceVersion=id%3A165"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "2605a0c9-1ec7-4846-951b-2efb529660ce",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/2605a0c9-1ec7-4846-951b-2efb529660ce?resourceVersion=id%3A166"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 166,
+        "drupal_internal__revision_id": 166,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "mensile",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:24:36+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/mensile",
+          "pid": 166,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/2605a0c9-1ec7-4846-951b-2efb529660ce\/vid?resourceVersion=id%3A166"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/2605a0c9-1ec7-4846-951b-2efb529660ce\/relationships\/vid?resourceVersion=id%3A166"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/2605a0c9-1ec7-4846-951b-2efb529660ce\/revision_user?resourceVersion=id%3A166"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/2605a0c9-1ec7-4846-951b-2efb529660ce\/relationships\/revision_user?resourceVersion=id%3A166"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/2605a0c9-1ec7-4846-951b-2efb529660ce\/parent?resourceVersion=id%3A166"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/2605a0c9-1ec7-4846-951b-2efb529660ce\/relationships\/parent?resourceVersion=id%3A166"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "c11c1d5b-a61f-4797-8b1c-6cb4d28b8495",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/c11c1d5b-a61f-4797-8b1c-6cb4d28b8495?resourceVersion=id%3A168"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 168,
+        "drupal_internal__revision_id": 168,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "ogni cinque anni",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:24:39+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/ogni-cinque-anni",
+          "pid": 168,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/c11c1d5b-a61f-4797-8b1c-6cb4d28b8495\/vid?resourceVersion=id%3A168"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/c11c1d5b-a61f-4797-8b1c-6cb4d28b8495\/relationships\/vid?resourceVersion=id%3A168"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/c11c1d5b-a61f-4797-8b1c-6cb4d28b8495\/revision_user?resourceVersion=id%3A168"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/c11c1d5b-a61f-4797-8b1c-6cb4d28b8495\/relationships\/revision_user?resourceVersion=id%3A168"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/c11c1d5b-a61f-4797-8b1c-6cb4d28b8495\/parent?resourceVersion=id%3A168"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/c11c1d5b-a61f-4797-8b1c-6cb4d28b8495\/relationships\/parent?resourceVersion=id%3A168"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "cbafe27a-2840-4058-bd6b-d92b41b98fd7",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/cbafe27a-2840-4058-bd6b-d92b41b98fd7?resourceVersion=id%3A169"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 169,
+        "drupal_internal__revision_id": 169,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "ogni due ore",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:24:41+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/ogni-due-ore",
+          "pid": 169,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/cbafe27a-2840-4058-bd6b-d92b41b98fd7\/vid?resourceVersion=id%3A169"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/cbafe27a-2840-4058-bd6b-d92b41b98fd7\/relationships\/vid?resourceVersion=id%3A169"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/cbafe27a-2840-4058-bd6b-d92b41b98fd7\/revision_user?resourceVersion=id%3A169"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/cbafe27a-2840-4058-bd6b-d92b41b98fd7\/relationships\/revision_user?resourceVersion=id%3A169"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/cbafe27a-2840-4058-bd6b-d92b41b98fd7\/parent?resourceVersion=id%3A169"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/cbafe27a-2840-4058-bd6b-d92b41b98fd7\/relationships\/parent?resourceVersion=id%3A169"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "58cfbbe1-a128-4492-a8d7-5f163e6828bf",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/58cfbbe1-a128-4492-a8d7-5f163e6828bf?resourceVersion=id%3A171"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 171,
+        "drupal_internal__revision_id": 171,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "ogni ora",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:24:44+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/ogni-ora",
+          "pid": 171,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/58cfbbe1-a128-4492-a8d7-5f163e6828bf\/vid?resourceVersion=id%3A171"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/58cfbbe1-a128-4492-a8d7-5f163e6828bf\/relationships\/vid?resourceVersion=id%3A171"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/58cfbbe1-a128-4492-a8d7-5f163e6828bf\/revision_user?resourceVersion=id%3A171"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/58cfbbe1-a128-4492-a8d7-5f163e6828bf\/relationships\/revision_user?resourceVersion=id%3A171"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/58cfbbe1-a128-4492-a8d7-5f163e6828bf\/parent?resourceVersion=id%3A171"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/58cfbbe1-a128-4492-a8d7-5f163e6828bf\/relationships\/parent?resourceVersion=id%3A171"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "564e94b3-9ea6-44e0-99d9-b4a21bcf95b3",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/564e94b3-9ea6-44e0-99d9-b4a21bcf95b3?resourceVersion=id%3A173"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 173,
+        "drupal_internal__revision_id": 173,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "ogni quattro anni",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:24:48+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/ogni-quattro-anni",
+          "pid": 173,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/564e94b3-9ea6-44e0-99d9-b4a21bcf95b3\/vid?resourceVersion=id%3A173"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/564e94b3-9ea6-44e0-99d9-b4a21bcf95b3\/relationships\/vid?resourceVersion=id%3A173"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/564e94b3-9ea6-44e0-99d9-b4a21bcf95b3\/revision_user?resourceVersion=id%3A173"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/564e94b3-9ea6-44e0-99d9-b4a21bcf95b3\/relationships\/revision_user?resourceVersion=id%3A173"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/564e94b3-9ea6-44e0-99d9-b4a21bcf95b3\/parent?resourceVersion=id%3A173"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/564e94b3-9ea6-44e0-99d9-b4a21bcf95b3\/relationships\/parent?resourceVersion=id%3A173"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "96363c46-5bfa-4343-99d8-c4cc078cdbfd",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/96363c46-5bfa-4343-99d8-c4cc078cdbfd?resourceVersion=id%3A174"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 174,
+        "drupal_internal__revision_id": 174,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "ogni tre ore",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:24:51+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/ogni-tre-ore",
+          "pid": 174,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/96363c46-5bfa-4343-99d8-c4cc078cdbfd\/vid?resourceVersion=id%3A174"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/96363c46-5bfa-4343-99d8-c4cc078cdbfd\/relationships\/vid?resourceVersion=id%3A174"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/96363c46-5bfa-4343-99d8-c4cc078cdbfd\/revision_user?resourceVersion=id%3A174"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/96363c46-5bfa-4343-99d8-c4cc078cdbfd\/relationships\/revision_user?resourceVersion=id%3A174"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/96363c46-5bfa-4343-99d8-c4cc078cdbfd\/parent?resourceVersion=id%3A174"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/96363c46-5bfa-4343-99d8-c4cc078cdbfd\/relationships\/parent?resourceVersion=id%3A174"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "735bba60-fb73-416b-af01-518f7d091621",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/735bba60-fb73-416b-af01-518f7d091621?resourceVersion=id%3A175"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 175,
+        "drupal_internal__revision_id": 175,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "quindicinale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:24:55+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/quindicinale",
+          "pid": 175,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/735bba60-fb73-416b-af01-518f7d091621\/vid?resourceVersion=id%3A175"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/735bba60-fb73-416b-af01-518f7d091621\/relationships\/vid?resourceVersion=id%3A175"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/735bba60-fb73-416b-af01-518f7d091621\/revision_user?resourceVersion=id%3A175"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/735bba60-fb73-416b-af01-518f7d091621\/relationships\/revision_user?resourceVersion=id%3A175"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/735bba60-fb73-416b-af01-518f7d091621\/parent?resourceVersion=id%3A175"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/735bba60-fb73-416b-af01-518f7d091621\/relationships\/parent?resourceVersion=id%3A175"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "0497b537-54cc-4143-a313-9e89c47db130",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/0497b537-54cc-4143-a313-9e89c47db130?resourceVersion=id%3A176"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 176,
+        "drupal_internal__revision_id": 176,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "quotidiano",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:24:58+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/quotidiano",
+          "pid": 176,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/0497b537-54cc-4143-a313-9e89c47db130\/vid?resourceVersion=id%3A176"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/0497b537-54cc-4143-a313-9e89c47db130\/relationships\/vid?resourceVersion=id%3A176"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/0497b537-54cc-4143-a313-9e89c47db130\/revision_user?resourceVersion=id%3A176"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/0497b537-54cc-4143-a313-9e89c47db130\/relationships\/revision_user?resourceVersion=id%3A176"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/0497b537-54cc-4143-a313-9e89c47db130\/parent?resourceVersion=id%3A176"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/0497b537-54cc-4143-a313-9e89c47db130\/relationships\/parent?resourceVersion=id%3A176"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "9afd38a9-2015-4a4d-8331-2f674dc82cac",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/9afd38a9-2015-4a4d-8331-2f674dc82cac?resourceVersion=id%3A177"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 177,
+        "drupal_internal__revision_id": 177,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "sconosciuto",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:25:01+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/sconosciuto",
+          "pid": 177,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/9afd38a9-2015-4a4d-8331-2f674dc82cac\/vid?resourceVersion=id%3A177"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/9afd38a9-2015-4a4d-8331-2f674dc82cac\/relationships\/vid?resourceVersion=id%3A177"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/9afd38a9-2015-4a4d-8331-2f674dc82cac\/revision_user?resourceVersion=id%3A177"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/9afd38a9-2015-4a4d-8331-2f674dc82cac\/relationships\/revision_user?resourceVersion=id%3A177"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/9afd38a9-2015-4a4d-8331-2f674dc82cac\/parent?resourceVersion=id%3A177"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/9afd38a9-2015-4a4d-8331-2f674dc82cac\/relationships\/parent?resourceVersion=id%3A177"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "79f6ddbb-5803-43c8-bfe7-0fb26ae71857",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/79f6ddbb-5803-43c8-bfe7-0fb26ae71857?resourceVersion=id%3A178"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 178,
+        "drupal_internal__revision_id": 178,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "semestrale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:25:05+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/semestrale",
+          "pid": 178,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/79f6ddbb-5803-43c8-bfe7-0fb26ae71857\/vid?resourceVersion=id%3A178"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/79f6ddbb-5803-43c8-bfe7-0fb26ae71857\/relationships\/vid?resourceVersion=id%3A178"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/79f6ddbb-5803-43c8-bfe7-0fb26ae71857\/revision_user?resourceVersion=id%3A178"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/79f6ddbb-5803-43c8-bfe7-0fb26ae71857\/relationships\/revision_user?resourceVersion=id%3A178"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/79f6ddbb-5803-43c8-bfe7-0fb26ae71857\/parent?resourceVersion=id%3A178"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/79f6ddbb-5803-43c8-bfe7-0fb26ae71857\/relationships\/parent?resourceVersion=id%3A178"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "128d21d4-5c7b-478d-bddf-2065d0be2861",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/128d21d4-5c7b-478d-bddf-2065d0be2861?resourceVersion=id%3A180"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 180,
+        "drupal_internal__revision_id": 180,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "settimanale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:25:07+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/settimanale",
+          "pid": 180,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/128d21d4-5c7b-478d-bddf-2065d0be2861\/vid?resourceVersion=id%3A180"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/128d21d4-5c7b-478d-bddf-2065d0be2861\/relationships\/vid?resourceVersion=id%3A180"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/128d21d4-5c7b-478d-bddf-2065d0be2861\/revision_user?resourceVersion=id%3A180"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/128d21d4-5c7b-478d-bddf-2065d0be2861\/relationships\/revision_user?resourceVersion=id%3A180"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/128d21d4-5c7b-478d-bddf-2065d0be2861\/parent?resourceVersion=id%3A180"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/128d21d4-5c7b-478d-bddf-2065d0be2861\/relationships\/parent?resourceVersion=id%3A180"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "a2c76c3e-ca42-44ad-aa7e-562dd910291a",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2c76c3e-ca42-44ad-aa7e-562dd910291a?resourceVersion=id%3A182"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 182,
+        "drupal_internal__revision_id": 182,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "tre volte a settimana",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:25:10+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/tre-volte-settimana",
+          "pid": 182,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2c76c3e-ca42-44ad-aa7e-562dd910291a\/vid?resourceVersion=id%3A182"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2c76c3e-ca42-44ad-aa7e-562dd910291a\/relationships\/vid?resourceVersion=id%3A182"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2c76c3e-ca42-44ad-aa7e-562dd910291a\/revision_user?resourceVersion=id%3A182"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2c76c3e-ca42-44ad-aa7e-562dd910291a\/relationships\/revision_user?resourceVersion=id%3A182"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2c76c3e-ca42-44ad-aa7e-562dd910291a\/parent?resourceVersion=id%3A182"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/a2c76c3e-ca42-44ad-aa7e-562dd910291a\/relationships\/parent?resourceVersion=id%3A182"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "3a54ff78-8037-4f9f-bf8b-e295207d5670",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3a54ff78-8037-4f9f-bf8b-e295207d5670?resourceVersion=id%3A183"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 183,
+        "drupal_internal__revision_id": 183,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "tre volte al mese",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:25:13+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/tre-volte-al-mese",
+          "pid": 183,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3a54ff78-8037-4f9f-bf8b-e295207d5670\/vid?resourceVersion=id%3A183"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3a54ff78-8037-4f9f-bf8b-e295207d5670\/relationships\/vid?resourceVersion=id%3A183"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3a54ff78-8037-4f9f-bf8b-e295207d5670\/revision_user?resourceVersion=id%3A183"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3a54ff78-8037-4f9f-bf8b-e295207d5670\/relationships\/revision_user?resourceVersion=id%3A183"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3a54ff78-8037-4f9f-bf8b-e295207d5670\/parent?resourceVersion=id%3A183"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/3a54ff78-8037-4f9f-bf8b-e295207d5670\/relationships\/parent?resourceVersion=id%3A183"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "544928df-3bcf-4802-b92d-3298e037bc4a",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/544928df-3bcf-4802-b92d-3298e037bc4a?resourceVersion=id%3A184"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 184,
+        "drupal_internal__revision_id": 184,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "tre volte all\u0027anno",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:25:16+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/tre-volte-allanno",
+          "pid": 184,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/544928df-3bcf-4802-b92d-3298e037bc4a\/vid?resourceVersion=id%3A184"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/544928df-3bcf-4802-b92d-3298e037bc4a\/relationships\/vid?resourceVersion=id%3A184"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/544928df-3bcf-4802-b92d-3298e037bc4a\/revision_user?resourceVersion=id%3A184"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/544928df-3bcf-4802-b92d-3298e037bc4a\/relationships\/revision_user?resourceVersion=id%3A184"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/544928df-3bcf-4802-b92d-3298e037bc4a\/parent?resourceVersion=id%3A184"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/544928df-3bcf-4802-b92d-3298e037bc4a\/relationships\/parent?resourceVersion=id%3A184"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "ade46c00-9463-4f32-99e2-6830776d3d34",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ade46c00-9463-4f32-99e2-6830776d3d34?resourceVersion=id%3A187"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 187,
+        "drupal_internal__revision_id": 187,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "tridecennale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:25:19+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/tridecennale",
+          "pid": 187,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ade46c00-9463-4f32-99e2-6830776d3d34\/vid?resourceVersion=id%3A187"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ade46c00-9463-4f32-99e2-6830776d3d34\/relationships\/vid?resourceVersion=id%3A187"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ade46c00-9463-4f32-99e2-6830776d3d34\/revision_user?resourceVersion=id%3A187"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ade46c00-9463-4f32-99e2-6830776d3d34\/relationships\/revision_user?resourceVersion=id%3A187"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ade46c00-9463-4f32-99e2-6830776d3d34\/parent?resourceVersion=id%3A187"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/ade46c00-9463-4f32-99e2-6830776d3d34\/relationships\/parent?resourceVersion=id%3A187"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "436d2b22-bbf1-416f-b91e-52031933e584",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/436d2b22-bbf1-416f-b91e-52031933e584?resourceVersion=id%3A188"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 188,
+        "drupal_internal__revision_id": 188,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "triennale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:25:21+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/triennale",
+          "pid": 188,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/436d2b22-bbf1-416f-b91e-52031933e584\/vid?resourceVersion=id%3A188"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/436d2b22-bbf1-416f-b91e-52031933e584\/relationships\/vid?resourceVersion=id%3A188"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/436d2b22-bbf1-416f-b91e-52031933e584\/revision_user?resourceVersion=id%3A188"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/436d2b22-bbf1-416f-b91e-52031933e584\/relationships\/revision_user?resourceVersion=id%3A188"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/436d2b22-bbf1-416f-b91e-52031933e584\/parent?resourceVersion=id%3A188"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/436d2b22-bbf1-416f-b91e-52031933e584\/relationships\/parent?resourceVersion=id%3A188"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--frequenze_di_aggiornamento",
+      "id": "8f103b59-35ba-4cc3-98a8-3bcf2cab169f",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/8f103b59-35ba-4cc3-98a8-3bcf2cab169f?resourceVersion=id%3A189"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 189,
+        "drupal_internal__revision_id": 189,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "trimestrale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:25:25+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/frequenze-di-aggiornamento\/trimestrale",
+          "pid": 189,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "9673b03a-7a88-4995-bf25-c07306c3d76b",
+            "meta": {
+              "drupal_internal__target_id": "frequenze_di_aggiornamento"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/8f103b59-35ba-4cc3-98a8-3bcf2cab169f\/vid?resourceVersion=id%3A189"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/8f103b59-35ba-4cc3-98a8-3bcf2cab169f\/relationships\/vid?resourceVersion=id%3A189"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/8f103b59-35ba-4cc3-98a8-3bcf2cab169f\/revision_user?resourceVersion=id%3A189"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/8f103b59-35ba-4cc3-98a8-3bcf2cab169f\/relationships\/revision_user?resourceVersion=id%3A189"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--frequenze_di_aggiornamento",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/8f103b59-35ba-4cc3-98a8-3bcf2cab169f\/parent?resourceVersion=id%3A189"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento\/8f103b59-35ba-4cc3-98a8-3bcf2cab169f\/relationships\/parent?resourceVersion=id%3A189"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "links": {
+    "self": {
+      "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/frequenze_di_aggiornamento"
+    }
+  }
+}

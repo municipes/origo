@@ -1,1 +1,824 @@
-{"jsonapi":{"version":"1.0","meta":{"links":{"self":{"href":"http:\/\/jsonapi.org\/format\/1.0\/"}}}},"data":[{"type":"taxonomy_term--tipi_punto_di_contatto","id":"2dd47b56-825e-4fe2-8e8e-b880c034ce88","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/2dd47b56-825e-4fe2-8e8e-b880c034ce88?resourceVersion=id%3A62"}},"attributes":{"drupal_internal__tid":62,"drupal_internal__revision_id":62,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Email","description":null,"weight":0,"changed":"2023-01-20T01:49:24+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-punto-di-contatto\/email","pid":62,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"e76f4d23-2a42-4fc9-bf28-0882ed622c37","meta":{"drupal_internal__target_id":"tipi_punto_di_contatto"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/2dd47b56-825e-4fe2-8e8e-b880c034ce88\/vid?resourceVersion=id%3A62"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/2dd47b56-825e-4fe2-8e8e-b880c034ce88\/relationships\/vid?resourceVersion=id%3A62"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/2dd47b56-825e-4fe2-8e8e-b880c034ce88\/revision_user?resourceVersion=id%3A62"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/2dd47b56-825e-4fe2-8e8e-b880c034ce88\/relationships\/revision_user?resourceVersion=id%3A62"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_punto_di_contatto","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/2dd47b56-825e-4fe2-8e8e-b880c034ce88\/parent?resourceVersion=id%3A62"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/2dd47b56-825e-4fe2-8e8e-b880c034ce88\/relationships\/parent?resourceVersion=id%3A62"}}}}},{"type":"taxonomy_term--tipi_punto_di_contatto","id":"94027d7d-0803-4e10-b6a9-10d97b5933b2","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/94027d7d-0803-4e10-b6a9-10d97b5933b2?resourceVersion=id%3A63"}},"attributes":{"drupal_internal__tid":63,"drupal_internal__revision_id":63,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Telefono","description":null,"weight":0,"changed":"2023-01-20T01:49:30+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-punto-di-contatto\/telefono","pid":63,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"e76f4d23-2a42-4fc9-bf28-0882ed622c37","meta":{"drupal_internal__target_id":"tipi_punto_di_contatto"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/94027d7d-0803-4e10-b6a9-10d97b5933b2\/vid?resourceVersion=id%3A63"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/94027d7d-0803-4e10-b6a9-10d97b5933b2\/relationships\/vid?resourceVersion=id%3A63"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/94027d7d-0803-4e10-b6a9-10d97b5933b2\/revision_user?resourceVersion=id%3A63"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/94027d7d-0803-4e10-b6a9-10d97b5933b2\/relationships\/revision_user?resourceVersion=id%3A63"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_punto_di_contatto","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/94027d7d-0803-4e10-b6a9-10d97b5933b2\/parent?resourceVersion=id%3A63"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/94027d7d-0803-4e10-b6a9-10d97b5933b2\/relationships\/parent?resourceVersion=id%3A63"}}}}},{"type":"taxonomy_term--tipi_punto_di_contatto","id":"d9fd0f8e-6ffe-4def-aafa-0e25879ce8d1","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d9fd0f8e-6ffe-4def-aafa-0e25879ce8d1?resourceVersion=id%3A65"}},"attributes":{"drupal_internal__tid":65,"drupal_internal__revision_id":65,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"URL","description":null,"weight":0,"changed":"2023-01-20T01:49:34+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-punto-di-contatto\/url","pid":65,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"e76f4d23-2a42-4fc9-bf28-0882ed622c37","meta":{"drupal_internal__target_id":"tipi_punto_di_contatto"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d9fd0f8e-6ffe-4def-aafa-0e25879ce8d1\/vid?resourceVersion=id%3A65"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d9fd0f8e-6ffe-4def-aafa-0e25879ce8d1\/relationships\/vid?resourceVersion=id%3A65"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d9fd0f8e-6ffe-4def-aafa-0e25879ce8d1\/revision_user?resourceVersion=id%3A65"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d9fd0f8e-6ffe-4def-aafa-0e25879ce8d1\/relationships\/revision_user?resourceVersion=id%3A65"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_punto_di_contatto","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d9fd0f8e-6ffe-4def-aafa-0e25879ce8d1\/parent?resourceVersion=id%3A65"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d9fd0f8e-6ffe-4def-aafa-0e25879ce8d1\/relationships\/parent?resourceVersion=id%3A65"}}}}},{"type":"taxonomy_term--tipi_punto_di_contatto","id":"3e47f1ef-3ad7-4644-adde-26320d329c44","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/3e47f1ef-3ad7-4644-adde-26320d329c44?resourceVersion=id%3A66"}},"attributes":{"drupal_internal__tid":66,"drupal_internal__revision_id":66,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"PEC","description":null,"weight":0,"changed":"2023-01-20T01:49:27+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-punto-di-contatto\/pec","pid":66,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"e76f4d23-2a42-4fc9-bf28-0882ed622c37","meta":{"drupal_internal__target_id":"tipi_punto_di_contatto"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/3e47f1ef-3ad7-4644-adde-26320d329c44\/vid?resourceVersion=id%3A66"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/3e47f1ef-3ad7-4644-adde-26320d329c44\/relationships\/vid?resourceVersion=id%3A66"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/3e47f1ef-3ad7-4644-adde-26320d329c44\/revision_user?resourceVersion=id%3A66"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/3e47f1ef-3ad7-4644-adde-26320d329c44\/relationships\/revision_user?resourceVersion=id%3A66"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_punto_di_contatto","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/3e47f1ef-3ad7-4644-adde-26320d329c44\/parent?resourceVersion=id%3A66"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/3e47f1ef-3ad7-4644-adde-26320d329c44\/relationships\/parent?resourceVersion=id%3A66"}}}}},{"type":"taxonomy_term--tipi_punto_di_contatto","id":"1104037c-0a5e-44ce-ac8e-1074fee0f63d","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/1104037c-0a5e-44ce-ac8e-1074fee0f63d?resourceVersion=id%3A67"}},"attributes":{"drupal_internal__tid":67,"drupal_internal__revision_id":67,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Account","description":null,"weight":0,"changed":"2023-01-20T01:49:06+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-punto-di-contatto\/account","pid":67,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"e76f4d23-2a42-4fc9-bf28-0882ed622c37","meta":{"drupal_internal__target_id":"tipi_punto_di_contatto"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/1104037c-0a5e-44ce-ac8e-1074fee0f63d\/vid?resourceVersion=id%3A67"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/1104037c-0a5e-44ce-ac8e-1074fee0f63d\/relationships\/vid?resourceVersion=id%3A67"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/1104037c-0a5e-44ce-ac8e-1074fee0f63d\/revision_user?resourceVersion=id%3A67"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/1104037c-0a5e-44ce-ac8e-1074fee0f63d\/relationships\/revision_user?resourceVersion=id%3A67"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_punto_di_contatto","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/1104037c-0a5e-44ce-ac8e-1074fee0f63d\/parent?resourceVersion=id%3A67"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/1104037c-0a5e-44ce-ac8e-1074fee0f63d\/relationships\/parent?resourceVersion=id%3A67"}}}}},{"type":"taxonomy_term--tipi_punto_di_contatto","id":"df0ae26c-a44b-4742-a073-8590e8355d63","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/df0ae26c-a44b-4742-a073-8590e8355d63?resourceVersion=id%3A68"}},"attributes":{"drupal_internal__tid":68,"drupal_internal__revision_id":68,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Whatsapp","description":null,"weight":0,"changed":"2023-01-20T01:49:22+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-punto-di-contatto\/whatsapp","pid":68,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"e76f4d23-2a42-4fc9-bf28-0882ed622c37","meta":{"drupal_internal__target_id":"tipi_punto_di_contatto"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/df0ae26c-a44b-4742-a073-8590e8355d63\/vid?resourceVersion=id%3A68"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/df0ae26c-a44b-4742-a073-8590e8355d63\/relationships\/vid?resourceVersion=id%3A68"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/df0ae26c-a44b-4742-a073-8590e8355d63\/revision_user?resourceVersion=id%3A68"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/df0ae26c-a44b-4742-a073-8590e8355d63\/relationships\/revision_user?resourceVersion=id%3A68"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_punto_di_contatto","id":"1104037c-0a5e-44ce-ac8e-1074fee0f63d","meta":{"drupal_internal__target_id":67}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/df0ae26c-a44b-4742-a073-8590e8355d63\/parent?resourceVersion=id%3A68"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/df0ae26c-a44b-4742-a073-8590e8355d63\/relationships\/parent?resourceVersion=id%3A68"}}}}},{"type":"taxonomy_term--tipi_punto_di_contatto","id":"be753b04-c100-474f-9737-c84ac750121f","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/be753b04-c100-474f-9737-c84ac750121f?resourceVersion=id%3A70"}},"attributes":{"drupal_internal__tid":70,"drupal_internal__revision_id":70,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Telegram","description":null,"weight":0,"changed":"2023-01-20T01:49:16+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-punto-di-contatto\/telegram","pid":70,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"e76f4d23-2a42-4fc9-bf28-0882ed622c37","meta":{"drupal_internal__target_id":"tipi_punto_di_contatto"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/be753b04-c100-474f-9737-c84ac750121f\/vid?resourceVersion=id%3A70"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/be753b04-c100-474f-9737-c84ac750121f\/relationships\/vid?resourceVersion=id%3A70"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/be753b04-c100-474f-9737-c84ac750121f\/revision_user?resourceVersion=id%3A70"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/be753b04-c100-474f-9737-c84ac750121f\/relationships\/revision_user?resourceVersion=id%3A70"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_punto_di_contatto","id":"1104037c-0a5e-44ce-ac8e-1074fee0f63d","meta":{"drupal_internal__target_id":67}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/be753b04-c100-474f-9737-c84ac750121f\/parent?resourceVersion=id%3A70"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/be753b04-c100-474f-9737-c84ac750121f\/relationships\/parent?resourceVersion=id%3A70"}}}}},{"type":"taxonomy_term--tipi_punto_di_contatto","id":"e56c7d1b-0341-4067-b458-9c177242695f","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/e56c7d1b-0341-4067-b458-9c177242695f?resourceVersion=id%3A72"}},"attributes":{"drupal_internal__tid":72,"drupal_internal__revision_id":72,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Skype","description":null,"weight":0,"changed":"2023-01-20T01:49:14+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-punto-di-contatto\/skype","pid":72,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"e76f4d23-2a42-4fc9-bf28-0882ed622c37","meta":{"drupal_internal__target_id":"tipi_punto_di_contatto"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/e56c7d1b-0341-4067-b458-9c177242695f\/vid?resourceVersion=id%3A72"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/e56c7d1b-0341-4067-b458-9c177242695f\/relationships\/vid?resourceVersion=id%3A72"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/e56c7d1b-0341-4067-b458-9c177242695f\/revision_user?resourceVersion=id%3A72"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/e56c7d1b-0341-4067-b458-9c177242695f\/relationships\/revision_user?resourceVersion=id%3A72"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_punto_di_contatto","id":"1104037c-0a5e-44ce-ac8e-1074fee0f63d","meta":{"drupal_internal__target_id":67}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/e56c7d1b-0341-4067-b458-9c177242695f\/parent?resourceVersion=id%3A72"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/e56c7d1b-0341-4067-b458-9c177242695f\/relationships\/parent?resourceVersion=id%3A72"}}}}},{"type":"taxonomy_term--tipi_punto_di_contatto","id":"d1f6287e-5073-4208-8df5-00c786eb11bb","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d1f6287e-5073-4208-8df5-00c786eb11bb?resourceVersion=id%3A73"}},"attributes":{"drupal_internal__tid":73,"drupal_internal__revision_id":73,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Linkedin","description":null,"weight":0,"changed":"2023-01-20T01:49:10+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-punto-di-contatto\/linkedin","pid":73,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"e76f4d23-2a42-4fc9-bf28-0882ed622c37","meta":{"drupal_internal__target_id":"tipi_punto_di_contatto"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d1f6287e-5073-4208-8df5-00c786eb11bb\/vid?resourceVersion=id%3A73"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d1f6287e-5073-4208-8df5-00c786eb11bb\/relationships\/vid?resourceVersion=id%3A73"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d1f6287e-5073-4208-8df5-00c786eb11bb\/revision_user?resourceVersion=id%3A73"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d1f6287e-5073-4208-8df5-00c786eb11bb\/relationships\/revision_user?resourceVersion=id%3A73"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_punto_di_contatto","id":"1104037c-0a5e-44ce-ac8e-1074fee0f63d","meta":{"drupal_internal__target_id":67}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d1f6287e-5073-4208-8df5-00c786eb11bb\/parent?resourceVersion=id%3A73"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d1f6287e-5073-4208-8df5-00c786eb11bb\/relationships\/parent?resourceVersion=id%3A73"}}}}},{"type":"taxonomy_term--tipi_punto_di_contatto","id":"72eeb186-42ec-41fd-ada9-4d6420953b7f","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/72eeb186-42ec-41fd-ada9-4d6420953b7f?resourceVersion=id%3A74"}},"attributes":{"drupal_internal__tid":74,"drupal_internal__revision_id":74,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Twitter","description":null,"weight":0,"changed":"2023-01-20T01:49:19+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/tipi-punto-di-contatto\/twitter","pid":74,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"e76f4d23-2a42-4fc9-bf28-0882ed622c37","meta":{"drupal_internal__target_id":"tipi_punto_di_contatto"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/72eeb186-42ec-41fd-ada9-4d6420953b7f\/vid?resourceVersion=id%3A74"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/72eeb186-42ec-41fd-ada9-4d6420953b7f\/relationships\/vid?resourceVersion=id%3A74"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/72eeb186-42ec-41fd-ada9-4d6420953b7f\/revision_user?resourceVersion=id%3A74"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/72eeb186-42ec-41fd-ada9-4d6420953b7f\/relationships\/revision_user?resourceVersion=id%3A74"}}},"parent":{"data":[{"type":"taxonomy_term--tipi_punto_di_contatto","id":"1104037c-0a5e-44ce-ac8e-1074fee0f63d","meta":{"drupal_internal__target_id":67}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/72eeb186-42ec-41fd-ada9-4d6420953b7f\/parent?resourceVersion=id%3A74"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/72eeb186-42ec-41fd-ada9-4d6420953b7f\/relationships\/parent?resourceVersion=id%3A74"}}}}}],"links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto"}}}
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http:\/\/jsonapi.org\/format\/1.0\/"
+        }
+      }
+    }
+  },
+  "data": [
+    {
+      "type": "taxonomy_term--tipi_punto_di_contatto",
+      "id": "2dd47b56-825e-4fe2-8e8e-b880c034ce88",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/2dd47b56-825e-4fe2-8e8e-b880c034ce88?resourceVersion=id%3A62"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 62,
+        "drupal_internal__revision_id": 62,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Email",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:49:24+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-punto-di-contatto\/email",
+          "pid": 62,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "e76f4d23-2a42-4fc9-bf28-0882ed622c37",
+            "meta": {
+              "drupal_internal__target_id": "tipi_punto_di_contatto"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/2dd47b56-825e-4fe2-8e8e-b880c034ce88\/vid?resourceVersion=id%3A62"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/2dd47b56-825e-4fe2-8e8e-b880c034ce88\/relationships\/vid?resourceVersion=id%3A62"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/2dd47b56-825e-4fe2-8e8e-b880c034ce88\/revision_user?resourceVersion=id%3A62"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/2dd47b56-825e-4fe2-8e8e-b880c034ce88\/relationships\/revision_user?resourceVersion=id%3A62"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_punto_di_contatto",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/2dd47b56-825e-4fe2-8e8e-b880c034ce88\/parent?resourceVersion=id%3A62"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/2dd47b56-825e-4fe2-8e8e-b880c034ce88\/relationships\/parent?resourceVersion=id%3A62"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_punto_di_contatto",
+      "id": "94027d7d-0803-4e10-b6a9-10d97b5933b2",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/94027d7d-0803-4e10-b6a9-10d97b5933b2?resourceVersion=id%3A63"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 63,
+        "drupal_internal__revision_id": 63,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Telefono",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:49:30+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-punto-di-contatto\/telefono",
+          "pid": 63,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "e76f4d23-2a42-4fc9-bf28-0882ed622c37",
+            "meta": {
+              "drupal_internal__target_id": "tipi_punto_di_contatto"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/94027d7d-0803-4e10-b6a9-10d97b5933b2\/vid?resourceVersion=id%3A63"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/94027d7d-0803-4e10-b6a9-10d97b5933b2\/relationships\/vid?resourceVersion=id%3A63"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/94027d7d-0803-4e10-b6a9-10d97b5933b2\/revision_user?resourceVersion=id%3A63"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/94027d7d-0803-4e10-b6a9-10d97b5933b2\/relationships\/revision_user?resourceVersion=id%3A63"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_punto_di_contatto",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/94027d7d-0803-4e10-b6a9-10d97b5933b2\/parent?resourceVersion=id%3A63"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/94027d7d-0803-4e10-b6a9-10d97b5933b2\/relationships\/parent?resourceVersion=id%3A63"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_punto_di_contatto",
+      "id": "d9fd0f8e-6ffe-4def-aafa-0e25879ce8d1",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d9fd0f8e-6ffe-4def-aafa-0e25879ce8d1?resourceVersion=id%3A65"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 65,
+        "drupal_internal__revision_id": 65,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "URL",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:49:34+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-punto-di-contatto\/url",
+          "pid": 65,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "e76f4d23-2a42-4fc9-bf28-0882ed622c37",
+            "meta": {
+              "drupal_internal__target_id": "tipi_punto_di_contatto"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d9fd0f8e-6ffe-4def-aafa-0e25879ce8d1\/vid?resourceVersion=id%3A65"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d9fd0f8e-6ffe-4def-aafa-0e25879ce8d1\/relationships\/vid?resourceVersion=id%3A65"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d9fd0f8e-6ffe-4def-aafa-0e25879ce8d1\/revision_user?resourceVersion=id%3A65"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d9fd0f8e-6ffe-4def-aafa-0e25879ce8d1\/relationships\/revision_user?resourceVersion=id%3A65"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_punto_di_contatto",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d9fd0f8e-6ffe-4def-aafa-0e25879ce8d1\/parent?resourceVersion=id%3A65"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d9fd0f8e-6ffe-4def-aafa-0e25879ce8d1\/relationships\/parent?resourceVersion=id%3A65"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_punto_di_contatto",
+      "id": "3e47f1ef-3ad7-4644-adde-26320d329c44",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/3e47f1ef-3ad7-4644-adde-26320d329c44?resourceVersion=id%3A66"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 66,
+        "drupal_internal__revision_id": 66,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "PEC",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:49:27+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-punto-di-contatto\/pec",
+          "pid": 66,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "e76f4d23-2a42-4fc9-bf28-0882ed622c37",
+            "meta": {
+              "drupal_internal__target_id": "tipi_punto_di_contatto"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/3e47f1ef-3ad7-4644-adde-26320d329c44\/vid?resourceVersion=id%3A66"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/3e47f1ef-3ad7-4644-adde-26320d329c44\/relationships\/vid?resourceVersion=id%3A66"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/3e47f1ef-3ad7-4644-adde-26320d329c44\/revision_user?resourceVersion=id%3A66"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/3e47f1ef-3ad7-4644-adde-26320d329c44\/relationships\/revision_user?resourceVersion=id%3A66"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_punto_di_contatto",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/3e47f1ef-3ad7-4644-adde-26320d329c44\/parent?resourceVersion=id%3A66"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/3e47f1ef-3ad7-4644-adde-26320d329c44\/relationships\/parent?resourceVersion=id%3A66"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_punto_di_contatto",
+      "id": "1104037c-0a5e-44ce-ac8e-1074fee0f63d",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/1104037c-0a5e-44ce-ac8e-1074fee0f63d?resourceVersion=id%3A67"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 67,
+        "drupal_internal__revision_id": 67,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Account",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:49:06+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-punto-di-contatto\/account",
+          "pid": 67,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "e76f4d23-2a42-4fc9-bf28-0882ed622c37",
+            "meta": {
+              "drupal_internal__target_id": "tipi_punto_di_contatto"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/1104037c-0a5e-44ce-ac8e-1074fee0f63d\/vid?resourceVersion=id%3A67"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/1104037c-0a5e-44ce-ac8e-1074fee0f63d\/relationships\/vid?resourceVersion=id%3A67"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/1104037c-0a5e-44ce-ac8e-1074fee0f63d\/revision_user?resourceVersion=id%3A67"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/1104037c-0a5e-44ce-ac8e-1074fee0f63d\/relationships\/revision_user?resourceVersion=id%3A67"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_punto_di_contatto",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/1104037c-0a5e-44ce-ac8e-1074fee0f63d\/parent?resourceVersion=id%3A67"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/1104037c-0a5e-44ce-ac8e-1074fee0f63d\/relationships\/parent?resourceVersion=id%3A67"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_punto_di_contatto",
+      "id": "df0ae26c-a44b-4742-a073-8590e8355d63",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/df0ae26c-a44b-4742-a073-8590e8355d63?resourceVersion=id%3A68"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 68,
+        "drupal_internal__revision_id": 68,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Whatsapp",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:49:22+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-punto-di-contatto\/whatsapp",
+          "pid": 68,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "e76f4d23-2a42-4fc9-bf28-0882ed622c37",
+            "meta": {
+              "drupal_internal__target_id": "tipi_punto_di_contatto"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/df0ae26c-a44b-4742-a073-8590e8355d63\/vid?resourceVersion=id%3A68"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/df0ae26c-a44b-4742-a073-8590e8355d63\/relationships\/vid?resourceVersion=id%3A68"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/df0ae26c-a44b-4742-a073-8590e8355d63\/revision_user?resourceVersion=id%3A68"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/df0ae26c-a44b-4742-a073-8590e8355d63\/relationships\/revision_user?resourceVersion=id%3A68"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_punto_di_contatto",
+              "id": "1104037c-0a5e-44ce-ac8e-1074fee0f63d",
+              "meta": {
+                "drupal_internal__target_id": 67
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/df0ae26c-a44b-4742-a073-8590e8355d63\/parent?resourceVersion=id%3A68"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/df0ae26c-a44b-4742-a073-8590e8355d63\/relationships\/parent?resourceVersion=id%3A68"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_punto_di_contatto",
+      "id": "be753b04-c100-474f-9737-c84ac750121f",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/be753b04-c100-474f-9737-c84ac750121f?resourceVersion=id%3A70"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 70,
+        "drupal_internal__revision_id": 70,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Telegram",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:49:16+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-punto-di-contatto\/telegram",
+          "pid": 70,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "e76f4d23-2a42-4fc9-bf28-0882ed622c37",
+            "meta": {
+              "drupal_internal__target_id": "tipi_punto_di_contatto"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/be753b04-c100-474f-9737-c84ac750121f\/vid?resourceVersion=id%3A70"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/be753b04-c100-474f-9737-c84ac750121f\/relationships\/vid?resourceVersion=id%3A70"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/be753b04-c100-474f-9737-c84ac750121f\/revision_user?resourceVersion=id%3A70"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/be753b04-c100-474f-9737-c84ac750121f\/relationships\/revision_user?resourceVersion=id%3A70"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_punto_di_contatto",
+              "id": "1104037c-0a5e-44ce-ac8e-1074fee0f63d",
+              "meta": {
+                "drupal_internal__target_id": 67
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/be753b04-c100-474f-9737-c84ac750121f\/parent?resourceVersion=id%3A70"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/be753b04-c100-474f-9737-c84ac750121f\/relationships\/parent?resourceVersion=id%3A70"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_punto_di_contatto",
+      "id": "e56c7d1b-0341-4067-b458-9c177242695f",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/e56c7d1b-0341-4067-b458-9c177242695f?resourceVersion=id%3A72"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 72,
+        "drupal_internal__revision_id": 72,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Skype",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:49:14+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-punto-di-contatto\/skype",
+          "pid": 72,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "e76f4d23-2a42-4fc9-bf28-0882ed622c37",
+            "meta": {
+              "drupal_internal__target_id": "tipi_punto_di_contatto"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/e56c7d1b-0341-4067-b458-9c177242695f\/vid?resourceVersion=id%3A72"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/e56c7d1b-0341-4067-b458-9c177242695f\/relationships\/vid?resourceVersion=id%3A72"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/e56c7d1b-0341-4067-b458-9c177242695f\/revision_user?resourceVersion=id%3A72"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/e56c7d1b-0341-4067-b458-9c177242695f\/relationships\/revision_user?resourceVersion=id%3A72"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_punto_di_contatto",
+              "id": "1104037c-0a5e-44ce-ac8e-1074fee0f63d",
+              "meta": {
+                "drupal_internal__target_id": 67
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/e56c7d1b-0341-4067-b458-9c177242695f\/parent?resourceVersion=id%3A72"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/e56c7d1b-0341-4067-b458-9c177242695f\/relationships\/parent?resourceVersion=id%3A72"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_punto_di_contatto",
+      "id": "d1f6287e-5073-4208-8df5-00c786eb11bb",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d1f6287e-5073-4208-8df5-00c786eb11bb?resourceVersion=id%3A73"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 73,
+        "drupal_internal__revision_id": 73,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Linkedin",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:49:10+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-punto-di-contatto\/linkedin",
+          "pid": 73,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "e76f4d23-2a42-4fc9-bf28-0882ed622c37",
+            "meta": {
+              "drupal_internal__target_id": "tipi_punto_di_contatto"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d1f6287e-5073-4208-8df5-00c786eb11bb\/vid?resourceVersion=id%3A73"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d1f6287e-5073-4208-8df5-00c786eb11bb\/relationships\/vid?resourceVersion=id%3A73"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d1f6287e-5073-4208-8df5-00c786eb11bb\/revision_user?resourceVersion=id%3A73"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d1f6287e-5073-4208-8df5-00c786eb11bb\/relationships\/revision_user?resourceVersion=id%3A73"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_punto_di_contatto",
+              "id": "1104037c-0a5e-44ce-ac8e-1074fee0f63d",
+              "meta": {
+                "drupal_internal__target_id": 67
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d1f6287e-5073-4208-8df5-00c786eb11bb\/parent?resourceVersion=id%3A73"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/d1f6287e-5073-4208-8df5-00c786eb11bb\/relationships\/parent?resourceVersion=id%3A73"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--tipi_punto_di_contatto",
+      "id": "72eeb186-42ec-41fd-ada9-4d6420953b7f",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/72eeb186-42ec-41fd-ada9-4d6420953b7f?resourceVersion=id%3A74"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 74,
+        "drupal_internal__revision_id": 74,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Twitter",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:49:19+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/tipi-punto-di-contatto\/twitter",
+          "pid": 74,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "e76f4d23-2a42-4fc9-bf28-0882ed622c37",
+            "meta": {
+              "drupal_internal__target_id": "tipi_punto_di_contatto"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/72eeb186-42ec-41fd-ada9-4d6420953b7f\/vid?resourceVersion=id%3A74"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/72eeb186-42ec-41fd-ada9-4d6420953b7f\/relationships\/vid?resourceVersion=id%3A74"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/72eeb186-42ec-41fd-ada9-4d6420953b7f\/revision_user?resourceVersion=id%3A74"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/72eeb186-42ec-41fd-ada9-4d6420953b7f\/relationships\/revision_user?resourceVersion=id%3A74"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--tipi_punto_di_contatto",
+              "id": "1104037c-0a5e-44ce-ac8e-1074fee0f63d",
+              "meta": {
+                "drupal_internal__target_id": 67
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/72eeb186-42ec-41fd-ada9-4d6420953b7f\/parent?resourceVersion=id%3A74"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto\/72eeb186-42ec-41fd-ada9-4d6420953b7f\/relationships\/parent?resourceVersion=id%3A74"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "links": {
+    "self": {
+      "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_punto_di_contatto"
+    }
+  }
+}

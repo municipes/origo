@@ -1,1 +1,733 @@
-{"jsonapi":{"version":"1.0","meta":{"links":{"self":{"href":"http:\/\/jsonapi.org\/format\/1.0\/"}}}},"data":[{"type":"taxonomy_term--licenze","id":"3646e37c-580e-4600-ace9-16bdafc08320","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/3646e37c-580e-4600-ace9-16bdafc08320?resourceVersion=id%3A136"}},"attributes":{"drupal_internal__tid":136,"drupal_internal__revision_id":136,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"licenza aperta","description":null,"weight":0,"changed":"2023-01-20T01:26:03+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/licenze\/licenza-aperta","pid":136,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"309c6971-7fd9-4379-ace2-f4d03843f2cc","meta":{"drupal_internal__target_id":"licenze"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/3646e37c-580e-4600-ace9-16bdafc08320\/vid?resourceVersion=id%3A136"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/3646e37c-580e-4600-ace9-16bdafc08320\/relationships\/vid?resourceVersion=id%3A136"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/3646e37c-580e-4600-ace9-16bdafc08320\/revision_user?resourceVersion=id%3A136"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/3646e37c-580e-4600-ace9-16bdafc08320\/relationships\/revision_user?resourceVersion=id%3A136"}}},"parent":{"data":[{"type":"taxonomy_term--licenze","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/3646e37c-580e-4600-ace9-16bdafc08320\/parent?resourceVersion=id%3A136"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/3646e37c-580e-4600-ace9-16bdafc08320\/relationships\/parent?resourceVersion=id%3A136"}}}}},{"type":"taxonomy_term--licenze","id":"f4f09a3a-2fef-445a-bca9-eb13037e24d3","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f4f09a3a-2fef-445a-bca9-eb13037e24d3?resourceVersion=id%3A138"}},"attributes":{"drupal_internal__tid":138,"drupal_internal__revision_id":138,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"pubblico dominio","description":null,"weight":0,"changed":"2023-01-20T01:26:14+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/licenze\/pubblico-dominio","pid":138,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"309c6971-7fd9-4379-ace2-f4d03843f2cc","meta":{"drupal_internal__target_id":"licenze"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f4f09a3a-2fef-445a-bca9-eb13037e24d3\/vid?resourceVersion=id%3A138"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f4f09a3a-2fef-445a-bca9-eb13037e24d3\/relationships\/vid?resourceVersion=id%3A138"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f4f09a3a-2fef-445a-bca9-eb13037e24d3\/revision_user?resourceVersion=id%3A138"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f4f09a3a-2fef-445a-bca9-eb13037e24d3\/relationships\/revision_user?resourceVersion=id%3A138"}}},"parent":{"data":[{"type":"taxonomy_term--licenze","id":"3646e37c-580e-4600-ace9-16bdafc08320","meta":{"drupal_internal__target_id":136}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f4f09a3a-2fef-445a-bca9-eb13037e24d3\/parent?resourceVersion=id%3A138"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f4f09a3a-2fef-445a-bca9-eb13037e24d3\/relationships\/parent?resourceVersion=id%3A138"}}}}},{"type":"taxonomy_term--licenze","id":"07613f53-8cce-46fa-a37d-7ca438be7801","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/07613f53-8cce-46fa-a37d-7ca438be7801?resourceVersion=id%3A139"}},"attributes":{"drupal_internal__tid":139,"drupal_internal__revision_id":139,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"attribuzione","description":null,"weight":0,"changed":"2023-01-20T01:26:06+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/licenze\/attribuzione","pid":139,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"309c6971-7fd9-4379-ace2-f4d03843f2cc","meta":{"drupal_internal__target_id":"licenze"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/07613f53-8cce-46fa-a37d-7ca438be7801\/vid?resourceVersion=id%3A139"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/07613f53-8cce-46fa-a37d-7ca438be7801\/relationships\/vid?resourceVersion=id%3A139"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/07613f53-8cce-46fa-a37d-7ca438be7801\/revision_user?resourceVersion=id%3A139"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/07613f53-8cce-46fa-a37d-7ca438be7801\/relationships\/revision_user?resourceVersion=id%3A139"}}},"parent":{"data":[{"type":"taxonomy_term--licenze","id":"3646e37c-580e-4600-ace9-16bdafc08320","meta":{"drupal_internal__target_id":136}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/07613f53-8cce-46fa-a37d-7ca438be7801\/parent?resourceVersion=id%3A139"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/07613f53-8cce-46fa-a37d-7ca438be7801\/relationships\/parent?resourceVersion=id%3A139"}}}}},{"type":"taxonomy_term--licenze","id":"7ca35e8b-b3e7-4432-b083-2f36b6497036","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/7ca35e8b-b3e7-4432-b083-2f36b6497036?resourceVersion=id%3A140"}},"attributes":{"drupal_internal__tid":140,"drupal_internal__revision_id":140,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"effetto virale","description":null,"weight":0,"changed":"2023-01-20T01:26:11+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/licenze\/effetto-virale","pid":140,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"309c6971-7fd9-4379-ace2-f4d03843f2cc","meta":{"drupal_internal__target_id":"licenze"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/7ca35e8b-b3e7-4432-b083-2f36b6497036\/vid?resourceVersion=id%3A140"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/7ca35e8b-b3e7-4432-b083-2f36b6497036\/relationships\/vid?resourceVersion=id%3A140"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/7ca35e8b-b3e7-4432-b083-2f36b6497036\/revision_user?resourceVersion=id%3A140"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/7ca35e8b-b3e7-4432-b083-2f36b6497036\/relationships\/revision_user?resourceVersion=id%3A140"}}},"parent":{"data":[{"type":"taxonomy_term--licenze","id":"3646e37c-580e-4600-ace9-16bdafc08320","meta":{"drupal_internal__target_id":136}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/7ca35e8b-b3e7-4432-b083-2f36b6497036\/parent?resourceVersion=id%3A140"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/7ca35e8b-b3e7-4432-b083-2f36b6497036\/relationships\/parent?resourceVersion=id%3A140"}}}}},{"type":"taxonomy_term--licenze","id":"b7fbb04c-b483-4d18-8cc2-26873f4fb48b","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/b7fbb04c-b483-4d18-8cc2-26873f4fb48b?resourceVersion=id%3A141"}},"attributes":{"drupal_internal__tid":141,"drupal_internal__revision_id":141,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"condivisione allo stesso modo - copyleft non compatibile","description":null,"weight":0,"changed":"2023-01-20T01:26:08+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/licenze\/condivisione-allo-stesso-modo-copyleft-non-compatibile","pid":141,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"309c6971-7fd9-4379-ace2-f4d03843f2cc","meta":{"drupal_internal__target_id":"licenze"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/b7fbb04c-b483-4d18-8cc2-26873f4fb48b\/vid?resourceVersion=id%3A141"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/b7fbb04c-b483-4d18-8cc2-26873f4fb48b\/relationships\/vid?resourceVersion=id%3A141"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/b7fbb04c-b483-4d18-8cc2-26873f4fb48b\/revision_user?resourceVersion=id%3A141"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/b7fbb04c-b483-4d18-8cc2-26873f4fb48b\/relationships\/revision_user?resourceVersion=id%3A141"}}},"parent":{"data":[{"type":"taxonomy_term--licenze","id":"3646e37c-580e-4600-ace9-16bdafc08320","meta":{"drupal_internal__target_id":136}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/b7fbb04c-b483-4d18-8cc2-26873f4fb48b\/parent?resourceVersion=id%3A141"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/b7fbb04c-b483-4d18-8cc2-26873f4fb48b\/relationships\/parent?resourceVersion=id%3A141"}}}}},{"type":"taxonomy_term--licenze","id":"67ad2d2c-7de2-4634-9de0-232e50502f80","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/67ad2d2c-7de2-4634-9de0-232e50502f80?resourceVersion=id%3A144"}},"attributes":{"drupal_internal__tid":144,"drupal_internal__revision_id":144,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"non aperta","description":null,"weight":0,"changed":"2023-01-20T01:26:20+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/licenze\/non-aperta","pid":144,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"309c6971-7fd9-4379-ace2-f4d03843f2cc","meta":{"drupal_internal__target_id":"licenze"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/67ad2d2c-7de2-4634-9de0-232e50502f80\/vid?resourceVersion=id%3A144"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/67ad2d2c-7de2-4634-9de0-232e50502f80\/relationships\/vid?resourceVersion=id%3A144"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/67ad2d2c-7de2-4634-9de0-232e50502f80\/revision_user?resourceVersion=id%3A144"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/67ad2d2c-7de2-4634-9de0-232e50502f80\/relationships\/revision_user?resourceVersion=id%3A144"}}},"parent":{"data":[{"type":"taxonomy_term--licenze","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/67ad2d2c-7de2-4634-9de0-232e50502f80\/parent?resourceVersion=id%3A144"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/67ad2d2c-7de2-4634-9de0-232e50502f80\/relationships\/parent?resourceVersion=id%3A144"}}}}},{"type":"taxonomy_term--licenze","id":"1c00a55d-78b0-4429-9063-4b90312b2bcd","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/1c00a55d-78b0-4429-9063-4b90312b2bcd?resourceVersion=id%3A146"}},"attributes":{"drupal_internal__tid":146,"drupal_internal__revision_id":146,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"solo uso non commerciale","description":null,"weight":0,"changed":"2023-01-20T01:26:26+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/licenze\/solo-uso-non-commerciale","pid":146,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"309c6971-7fd9-4379-ace2-f4d03843f2cc","meta":{"drupal_internal__target_id":"licenze"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/1c00a55d-78b0-4429-9063-4b90312b2bcd\/vid?resourceVersion=id%3A146"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/1c00a55d-78b0-4429-9063-4b90312b2bcd\/relationships\/vid?resourceVersion=id%3A146"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/1c00a55d-78b0-4429-9063-4b90312b2bcd\/revision_user?resourceVersion=id%3A146"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/1c00a55d-78b0-4429-9063-4b90312b2bcd\/relationships\/revision_user?resourceVersion=id%3A146"}}},"parent":{"data":[{"type":"taxonomy_term--licenze","id":"67ad2d2c-7de2-4634-9de0-232e50502f80","meta":{"drupal_internal__target_id":144}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/1c00a55d-78b0-4429-9063-4b90312b2bcd\/parent?resourceVersion=id%3A146"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/1c00a55d-78b0-4429-9063-4b90312b2bcd\/relationships\/parent?resourceVersion=id%3A146"}}}}},{"type":"taxonomy_term--licenze","id":"49460f17-5d86-4e47-8e1d-7431bcefe78d","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/49460f17-5d86-4e47-8e1d-7431bcefe78d?resourceVersion=id%3A147"}},"attributes":{"drupal_internal__tid":147,"drupal_internal__revision_id":147,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"non opere derivate","description":null,"weight":0,"changed":"2023-01-20T01:26:23+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/licenze\/non-opere-derivate","pid":147,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"309c6971-7fd9-4379-ace2-f4d03843f2cc","meta":{"drupal_internal__target_id":"licenze"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/49460f17-5d86-4e47-8e1d-7431bcefe78d\/vid?resourceVersion=id%3A147"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/49460f17-5d86-4e47-8e1d-7431bcefe78d\/relationships\/vid?resourceVersion=id%3A147"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/49460f17-5d86-4e47-8e1d-7431bcefe78d\/revision_user?resourceVersion=id%3A147"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/49460f17-5d86-4e47-8e1d-7431bcefe78d\/relationships\/revision_user?resourceVersion=id%3A147"}}},"parent":{"data":[{"type":"taxonomy_term--licenze","id":"67ad2d2c-7de2-4634-9de0-232e50502f80","meta":{"drupal_internal__target_id":144}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/49460f17-5d86-4e47-8e1d-7431bcefe78d\/parent?resourceVersion=id%3A147"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/49460f17-5d86-4e47-8e1d-7431bcefe78d\/relationships\/parent?resourceVersion=id%3A147"}}}}},{"type":"taxonomy_term--licenze","id":"f2d5a7ef-fc14-4c27-8f02-9255a6f46bc4","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f2d5a7ef-fc14-4c27-8f02-9255a6f46bc4?resourceVersion=id%3A149"}},"attributes":{"drupal_internal__tid":149,"drupal_internal__revision_id":149,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"licenza sconosciuta","description":null,"weight":0,"changed":"2023-01-20T01:26:17+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/licenze\/licenza-sconosciuta","pid":149,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"309c6971-7fd9-4379-ace2-f4d03843f2cc","meta":{"drupal_internal__target_id":"licenze"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f2d5a7ef-fc14-4c27-8f02-9255a6f46bc4\/vid?resourceVersion=id%3A149"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f2d5a7ef-fc14-4c27-8f02-9255a6f46bc4\/relationships\/vid?resourceVersion=id%3A149"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f2d5a7ef-fc14-4c27-8f02-9255a6f46bc4\/revision_user?resourceVersion=id%3A149"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f2d5a7ef-fc14-4c27-8f02-9255a6f46bc4\/relationships\/revision_user?resourceVersion=id%3A149"}}},"parent":{"data":[{"type":"taxonomy_term--licenze","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f2d5a7ef-fc14-4c27-8f02-9255a6f46bc4\/parent?resourceVersion=id%3A149"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f2d5a7ef-fc14-4c27-8f02-9255a6f46bc4\/relationships\/parent?resourceVersion=id%3A149"}}}}}],"links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze"}}}
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http:\/\/jsonapi.org\/format\/1.0\/"
+        }
+      }
+    }
+  },
+  "data": [
+    {
+      "type": "taxonomy_term--licenze",
+      "id": "3646e37c-580e-4600-ace9-16bdafc08320",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/3646e37c-580e-4600-ace9-16bdafc08320?resourceVersion=id%3A136"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 136,
+        "drupal_internal__revision_id": 136,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "licenza aperta",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:26:03+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/licenze\/licenza-aperta",
+          "pid": 136,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "309c6971-7fd9-4379-ace2-f4d03843f2cc",
+            "meta": {
+              "drupal_internal__target_id": "licenze"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/3646e37c-580e-4600-ace9-16bdafc08320\/vid?resourceVersion=id%3A136"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/3646e37c-580e-4600-ace9-16bdafc08320\/relationships\/vid?resourceVersion=id%3A136"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/3646e37c-580e-4600-ace9-16bdafc08320\/revision_user?resourceVersion=id%3A136"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/3646e37c-580e-4600-ace9-16bdafc08320\/relationships\/revision_user?resourceVersion=id%3A136"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--licenze",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/3646e37c-580e-4600-ace9-16bdafc08320\/parent?resourceVersion=id%3A136"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/3646e37c-580e-4600-ace9-16bdafc08320\/relationships\/parent?resourceVersion=id%3A136"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--licenze",
+      "id": "f4f09a3a-2fef-445a-bca9-eb13037e24d3",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f4f09a3a-2fef-445a-bca9-eb13037e24d3?resourceVersion=id%3A138"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 138,
+        "drupal_internal__revision_id": 138,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "pubblico dominio",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:26:14+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/licenze\/pubblico-dominio",
+          "pid": 138,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "309c6971-7fd9-4379-ace2-f4d03843f2cc",
+            "meta": {
+              "drupal_internal__target_id": "licenze"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f4f09a3a-2fef-445a-bca9-eb13037e24d3\/vid?resourceVersion=id%3A138"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f4f09a3a-2fef-445a-bca9-eb13037e24d3\/relationships\/vid?resourceVersion=id%3A138"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f4f09a3a-2fef-445a-bca9-eb13037e24d3\/revision_user?resourceVersion=id%3A138"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f4f09a3a-2fef-445a-bca9-eb13037e24d3\/relationships\/revision_user?resourceVersion=id%3A138"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--licenze",
+              "id": "3646e37c-580e-4600-ace9-16bdafc08320",
+              "meta": {
+                "drupal_internal__target_id": 136
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f4f09a3a-2fef-445a-bca9-eb13037e24d3\/parent?resourceVersion=id%3A138"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f4f09a3a-2fef-445a-bca9-eb13037e24d3\/relationships\/parent?resourceVersion=id%3A138"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--licenze",
+      "id": "07613f53-8cce-46fa-a37d-7ca438be7801",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/07613f53-8cce-46fa-a37d-7ca438be7801?resourceVersion=id%3A139"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 139,
+        "drupal_internal__revision_id": 139,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "attribuzione",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:26:06+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/licenze\/attribuzione",
+          "pid": 139,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "309c6971-7fd9-4379-ace2-f4d03843f2cc",
+            "meta": {
+              "drupal_internal__target_id": "licenze"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/07613f53-8cce-46fa-a37d-7ca438be7801\/vid?resourceVersion=id%3A139"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/07613f53-8cce-46fa-a37d-7ca438be7801\/relationships\/vid?resourceVersion=id%3A139"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/07613f53-8cce-46fa-a37d-7ca438be7801\/revision_user?resourceVersion=id%3A139"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/07613f53-8cce-46fa-a37d-7ca438be7801\/relationships\/revision_user?resourceVersion=id%3A139"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--licenze",
+              "id": "3646e37c-580e-4600-ace9-16bdafc08320",
+              "meta": {
+                "drupal_internal__target_id": 136
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/07613f53-8cce-46fa-a37d-7ca438be7801\/parent?resourceVersion=id%3A139"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/07613f53-8cce-46fa-a37d-7ca438be7801\/relationships\/parent?resourceVersion=id%3A139"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--licenze",
+      "id": "7ca35e8b-b3e7-4432-b083-2f36b6497036",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/7ca35e8b-b3e7-4432-b083-2f36b6497036?resourceVersion=id%3A140"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 140,
+        "drupal_internal__revision_id": 140,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "effetto virale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:26:11+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/licenze\/effetto-virale",
+          "pid": 140,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "309c6971-7fd9-4379-ace2-f4d03843f2cc",
+            "meta": {
+              "drupal_internal__target_id": "licenze"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/7ca35e8b-b3e7-4432-b083-2f36b6497036\/vid?resourceVersion=id%3A140"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/7ca35e8b-b3e7-4432-b083-2f36b6497036\/relationships\/vid?resourceVersion=id%3A140"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/7ca35e8b-b3e7-4432-b083-2f36b6497036\/revision_user?resourceVersion=id%3A140"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/7ca35e8b-b3e7-4432-b083-2f36b6497036\/relationships\/revision_user?resourceVersion=id%3A140"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--licenze",
+              "id": "3646e37c-580e-4600-ace9-16bdafc08320",
+              "meta": {
+                "drupal_internal__target_id": 136
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/7ca35e8b-b3e7-4432-b083-2f36b6497036\/parent?resourceVersion=id%3A140"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/7ca35e8b-b3e7-4432-b083-2f36b6497036\/relationships\/parent?resourceVersion=id%3A140"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--licenze",
+      "id": "b7fbb04c-b483-4d18-8cc2-26873f4fb48b",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/b7fbb04c-b483-4d18-8cc2-26873f4fb48b?resourceVersion=id%3A141"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 141,
+        "drupal_internal__revision_id": 141,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "condivisione allo stesso modo - copyleft non compatibile",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:26:08+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/licenze\/condivisione-allo-stesso-modo-copyleft-non-compatibile",
+          "pid": 141,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "309c6971-7fd9-4379-ace2-f4d03843f2cc",
+            "meta": {
+              "drupal_internal__target_id": "licenze"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/b7fbb04c-b483-4d18-8cc2-26873f4fb48b\/vid?resourceVersion=id%3A141"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/b7fbb04c-b483-4d18-8cc2-26873f4fb48b\/relationships\/vid?resourceVersion=id%3A141"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/b7fbb04c-b483-4d18-8cc2-26873f4fb48b\/revision_user?resourceVersion=id%3A141"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/b7fbb04c-b483-4d18-8cc2-26873f4fb48b\/relationships\/revision_user?resourceVersion=id%3A141"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--licenze",
+              "id": "3646e37c-580e-4600-ace9-16bdafc08320",
+              "meta": {
+                "drupal_internal__target_id": 136
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/b7fbb04c-b483-4d18-8cc2-26873f4fb48b\/parent?resourceVersion=id%3A141"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/b7fbb04c-b483-4d18-8cc2-26873f4fb48b\/relationships\/parent?resourceVersion=id%3A141"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--licenze",
+      "id": "67ad2d2c-7de2-4634-9de0-232e50502f80",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/67ad2d2c-7de2-4634-9de0-232e50502f80?resourceVersion=id%3A144"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 144,
+        "drupal_internal__revision_id": 144,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "non aperta",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:26:20+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/licenze\/non-aperta",
+          "pid": 144,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "309c6971-7fd9-4379-ace2-f4d03843f2cc",
+            "meta": {
+              "drupal_internal__target_id": "licenze"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/67ad2d2c-7de2-4634-9de0-232e50502f80\/vid?resourceVersion=id%3A144"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/67ad2d2c-7de2-4634-9de0-232e50502f80\/relationships\/vid?resourceVersion=id%3A144"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/67ad2d2c-7de2-4634-9de0-232e50502f80\/revision_user?resourceVersion=id%3A144"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/67ad2d2c-7de2-4634-9de0-232e50502f80\/relationships\/revision_user?resourceVersion=id%3A144"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--licenze",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/67ad2d2c-7de2-4634-9de0-232e50502f80\/parent?resourceVersion=id%3A144"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/67ad2d2c-7de2-4634-9de0-232e50502f80\/relationships\/parent?resourceVersion=id%3A144"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--licenze",
+      "id": "1c00a55d-78b0-4429-9063-4b90312b2bcd",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/1c00a55d-78b0-4429-9063-4b90312b2bcd?resourceVersion=id%3A146"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 146,
+        "drupal_internal__revision_id": 146,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "solo uso non commerciale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:26:26+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/licenze\/solo-uso-non-commerciale",
+          "pid": 146,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "309c6971-7fd9-4379-ace2-f4d03843f2cc",
+            "meta": {
+              "drupal_internal__target_id": "licenze"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/1c00a55d-78b0-4429-9063-4b90312b2bcd\/vid?resourceVersion=id%3A146"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/1c00a55d-78b0-4429-9063-4b90312b2bcd\/relationships\/vid?resourceVersion=id%3A146"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/1c00a55d-78b0-4429-9063-4b90312b2bcd\/revision_user?resourceVersion=id%3A146"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/1c00a55d-78b0-4429-9063-4b90312b2bcd\/relationships\/revision_user?resourceVersion=id%3A146"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--licenze",
+              "id": "67ad2d2c-7de2-4634-9de0-232e50502f80",
+              "meta": {
+                "drupal_internal__target_id": 144
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/1c00a55d-78b0-4429-9063-4b90312b2bcd\/parent?resourceVersion=id%3A146"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/1c00a55d-78b0-4429-9063-4b90312b2bcd\/relationships\/parent?resourceVersion=id%3A146"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--licenze",
+      "id": "49460f17-5d86-4e47-8e1d-7431bcefe78d",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/49460f17-5d86-4e47-8e1d-7431bcefe78d?resourceVersion=id%3A147"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 147,
+        "drupal_internal__revision_id": 147,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "non opere derivate",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:26:23+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/licenze\/non-opere-derivate",
+          "pid": 147,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "309c6971-7fd9-4379-ace2-f4d03843f2cc",
+            "meta": {
+              "drupal_internal__target_id": "licenze"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/49460f17-5d86-4e47-8e1d-7431bcefe78d\/vid?resourceVersion=id%3A147"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/49460f17-5d86-4e47-8e1d-7431bcefe78d\/relationships\/vid?resourceVersion=id%3A147"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/49460f17-5d86-4e47-8e1d-7431bcefe78d\/revision_user?resourceVersion=id%3A147"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/49460f17-5d86-4e47-8e1d-7431bcefe78d\/relationships\/revision_user?resourceVersion=id%3A147"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--licenze",
+              "id": "67ad2d2c-7de2-4634-9de0-232e50502f80",
+              "meta": {
+                "drupal_internal__target_id": 144
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/49460f17-5d86-4e47-8e1d-7431bcefe78d\/parent?resourceVersion=id%3A147"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/49460f17-5d86-4e47-8e1d-7431bcefe78d\/relationships\/parent?resourceVersion=id%3A147"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--licenze",
+      "id": "f2d5a7ef-fc14-4c27-8f02-9255a6f46bc4",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f2d5a7ef-fc14-4c27-8f02-9255a6f46bc4?resourceVersion=id%3A149"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 149,
+        "drupal_internal__revision_id": 149,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "licenza sconosciuta",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:26:17+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/licenze\/licenza-sconosciuta",
+          "pid": 149,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "309c6971-7fd9-4379-ace2-f4d03843f2cc",
+            "meta": {
+              "drupal_internal__target_id": "licenze"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f2d5a7ef-fc14-4c27-8f02-9255a6f46bc4\/vid?resourceVersion=id%3A149"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f2d5a7ef-fc14-4c27-8f02-9255a6f46bc4\/relationships\/vid?resourceVersion=id%3A149"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f2d5a7ef-fc14-4c27-8f02-9255a6f46bc4\/revision_user?resourceVersion=id%3A149"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f2d5a7ef-fc14-4c27-8f02-9255a6f46bc4\/relationships\/revision_user?resourceVersion=id%3A149"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--licenze",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f2d5a7ef-fc14-4c27-8f02-9255a6f46bc4\/parent?resourceVersion=id%3A149"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze\/f2d5a7ef-fc14-4c27-8f02-9255a6f46bc4\/relationships\/parent?resourceVersion=id%3A149"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "links": {
+    "self": {
+      "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/licenze"
+    }
+  }
+}

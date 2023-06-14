@@ -1,1 +1,740 @@
-{"jsonapi":{"version":"1.0","meta":{"links":{"self":{"href":"http:\/\/jsonapi.org\/format\/1.0\/"}}}},"data":[{"type":"taxonomy_term--stati_di_una_pratica","id":"ebbc84c8-2abc-4a94-9322-e4101f1670e5","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ebbc84c8-2abc-4a94-9322-e4101f1670e5?resourceVersion=id%3A190"}},"attributes":{"drupal_internal__tid":190,"drupal_internal__revision_id":190,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Processo non avviato","description":null,"weight":0,"changed":"2023-01-20T01:27:07+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/stati-di-una-pratica\/processo-non-avviato","pid":190,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"5b0a9eb1-5a3b-40fe-8de9-835f1b5fe524","meta":{"drupal_internal__target_id":"stati_di_una_pratica"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ebbc84c8-2abc-4a94-9322-e4101f1670e5\/vid?resourceVersion=id%3A190"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ebbc84c8-2abc-4a94-9322-e4101f1670e5\/relationships\/vid?resourceVersion=id%3A190"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ebbc84c8-2abc-4a94-9322-e4101f1670e5\/revision_user?resourceVersion=id%3A190"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ebbc84c8-2abc-4a94-9322-e4101f1670e5\/relationships\/revision_user?resourceVersion=id%3A190"}}},"parent":{"data":[{"type":"taxonomy_term--stati_di_una_pratica","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ebbc84c8-2abc-4a94-9322-e4101f1670e5\/parent?resourceVersion=id%3A190"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ebbc84c8-2abc-4a94-9322-e4101f1670e5\/relationships\/parent?resourceVersion=id%3A190"}}}}},{"type":"taxonomy_term--stati_di_una_pratica","id":"ea356ff8-6570-4bc6-a853-bc40b367fe9b","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ea356ff8-6570-4bc6-a853-bc40b367fe9b?resourceVersion=id%3A193"}},"attributes":{"drupal_internal__tid":193,"drupal_internal__revision_id":193,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"In bozza","description":null,"weight":0,"changed":"2023-01-20T01:27:09+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/stati-di-una-pratica\/bozza","pid":193,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"5b0a9eb1-5a3b-40fe-8de9-835f1b5fe524","meta":{"drupal_internal__target_id":"stati_di_una_pratica"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ea356ff8-6570-4bc6-a853-bc40b367fe9b\/vid?resourceVersion=id%3A193"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ea356ff8-6570-4bc6-a853-bc40b367fe9b\/relationships\/vid?resourceVersion=id%3A193"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ea356ff8-6570-4bc6-a853-bc40b367fe9b\/revision_user?resourceVersion=id%3A193"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ea356ff8-6570-4bc6-a853-bc40b367fe9b\/relationships\/revision_user?resourceVersion=id%3A193"}}},"parent":{"data":[{"type":"taxonomy_term--stati_di_una_pratica","id":"ebbc84c8-2abc-4a94-9322-e4101f1670e5","meta":{"drupal_internal__target_id":190}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ea356ff8-6570-4bc6-a853-bc40b367fe9b\/parent?resourceVersion=id%3A193"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ea356ff8-6570-4bc6-a853-bc40b367fe9b\/relationships\/parent?resourceVersion=id%3A193"}}}}},{"type":"taxonomy_term--stati_di_una_pratica","id":"552c49ca-97af-416a-bc15-f446274b5de0","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/552c49ca-97af-416a-bc15-f446274b5de0?resourceVersion=id%3A194"}},"attributes":{"drupal_internal__tid":194,"drupal_internal__revision_id":194,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Processo in corso","description":null,"weight":0,"changed":"2023-01-20T01:27:04+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/stati-di-una-pratica\/processo-corso","pid":194,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"5b0a9eb1-5a3b-40fe-8de9-835f1b5fe524","meta":{"drupal_internal__target_id":"stati_di_una_pratica"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/552c49ca-97af-416a-bc15-f446274b5de0\/vid?resourceVersion=id%3A194"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/552c49ca-97af-416a-bc15-f446274b5de0\/relationships\/vid?resourceVersion=id%3A194"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/552c49ca-97af-416a-bc15-f446274b5de0\/revision_user?resourceVersion=id%3A194"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/552c49ca-97af-416a-bc15-f446274b5de0\/relationships\/revision_user?resourceVersion=id%3A194"}}},"parent":{"data":[{"type":"taxonomy_term--stati_di_una_pratica","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/552c49ca-97af-416a-bc15-f446274b5de0\/parent?resourceVersion=id%3A194"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/552c49ca-97af-416a-bc15-f446274b5de0\/relationships\/parent?resourceVersion=id%3A194"}}}}},{"type":"taxonomy_term--stati_di_una_pratica","id":"ad279b9f-ddfb-4fa8-bb79-eca9426f1858","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ad279b9f-ddfb-4fa8-bb79-eca9426f1858?resourceVersion=id%3A195"}},"attributes":{"drupal_internal__tid":195,"drupal_internal__revision_id":195,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Processo sospeso","description":null,"weight":0,"changed":"2023-01-20T01:27:12+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/stati-di-una-pratica\/processo-sospeso","pid":195,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"5b0a9eb1-5a3b-40fe-8de9-835f1b5fe524","meta":{"drupal_internal__target_id":"stati_di_una_pratica"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ad279b9f-ddfb-4fa8-bb79-eca9426f1858\/vid?resourceVersion=id%3A195"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ad279b9f-ddfb-4fa8-bb79-eca9426f1858\/relationships\/vid?resourceVersion=id%3A195"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ad279b9f-ddfb-4fa8-bb79-eca9426f1858\/revision_user?resourceVersion=id%3A195"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ad279b9f-ddfb-4fa8-bb79-eca9426f1858\/relationships\/revision_user?resourceVersion=id%3A195"}}},"parent":{"data":[{"type":"taxonomy_term--stati_di_una_pratica","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ad279b9f-ddfb-4fa8-bb79-eca9426f1858\/parent?resourceVersion=id%3A195"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ad279b9f-ddfb-4fa8-bb79-eca9426f1858\/relationships\/parent?resourceVersion=id%3A195"}}}}},{"type":"taxonomy_term--stati_di_una_pratica","id":"31faae4c-9da5-499c-b35b-bbe09f1f66e1","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/31faae4c-9da5-499c-b35b-bbe09f1f66e1?resourceVersion=id%3A196"}},"attributes":{"drupal_internal__tid":196,"drupal_internal__revision_id":196,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Si richiede un\u2019azione da parte dell\u0027utente","description":null,"weight":0,"changed":"2023-01-20T01:27:17+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/stati-di-una-pratica\/si-richiede-unazione-da-parte-dellutente","pid":196,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"5b0a9eb1-5a3b-40fe-8de9-835f1b5fe524","meta":{"drupal_internal__target_id":"stati_di_una_pratica"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/31faae4c-9da5-499c-b35b-bbe09f1f66e1\/vid?resourceVersion=id%3A196"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/31faae4c-9da5-499c-b35b-bbe09f1f66e1\/relationships\/vid?resourceVersion=id%3A196"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/31faae4c-9da5-499c-b35b-bbe09f1f66e1\/revision_user?resourceVersion=id%3A196"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/31faae4c-9da5-499c-b35b-bbe09f1f66e1\/relationships\/revision_user?resourceVersion=id%3A196"}}},"parent":{"data":[{"type":"taxonomy_term--stati_di_una_pratica","id":"ad279b9f-ddfb-4fa8-bb79-eca9426f1858","meta":{"drupal_internal__target_id":195}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/31faae4c-9da5-499c-b35b-bbe09f1f66e1\/parent?resourceVersion=id%3A196"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/31faae4c-9da5-499c-b35b-bbe09f1f66e1\/relationships\/parent?resourceVersion=id%3A196"}}}}},{"type":"taxonomy_term--stati_di_una_pratica","id":"56e634ff-c3f2-4b2b-9110-cdcc89c540e9","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/56e634ff-c3f2-4b2b-9110-cdcc89c540e9?resourceVersion=id%3A197"}},"attributes":{"drupal_internal__tid":197,"drupal_internal__revision_id":197,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Si richiede un\u0027azione da parte della Pubblica Amministrazione","description":null,"weight":0,"changed":"2023-01-20T01:27:14+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/stati-di-una-pratica\/si-richiede-unazione-da-parte-della-pubblica-amministrazione","pid":197,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"5b0a9eb1-5a3b-40fe-8de9-835f1b5fe524","meta":{"drupal_internal__target_id":"stati_di_una_pratica"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/56e634ff-c3f2-4b2b-9110-cdcc89c540e9\/vid?resourceVersion=id%3A197"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/56e634ff-c3f2-4b2b-9110-cdcc89c540e9\/relationships\/vid?resourceVersion=id%3A197"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/56e634ff-c3f2-4b2b-9110-cdcc89c540e9\/revision_user?resourceVersion=id%3A197"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/56e634ff-c3f2-4b2b-9110-cdcc89c540e9\/relationships\/revision_user?resourceVersion=id%3A197"}}},"parent":{"data":[{"type":"taxonomy_term--stati_di_una_pratica","id":"ad279b9f-ddfb-4fa8-bb79-eca9426f1858","meta":{"drupal_internal__target_id":195}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/56e634ff-c3f2-4b2b-9110-cdcc89c540e9\/parent?resourceVersion=id%3A197"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/56e634ff-c3f2-4b2b-9110-cdcc89c540e9\/relationships\/parent?resourceVersion=id%3A197"}}}}},{"type":"taxonomy_term--stati_di_una_pratica","id":"fdd31a1e-c87d-4683-be4f-d68e2d82b0c6","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/fdd31a1e-c87d-4683-be4f-d68e2d82b0c6?resourceVersion=id%3A198"}},"attributes":{"drupal_internal__tid":198,"drupal_internal__revision_id":198,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Processo concluso","description":null,"weight":0,"changed":"2023-01-20T01:26:56+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/stati-di-una-pratica\/processo-concluso","pid":198,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"5b0a9eb1-5a3b-40fe-8de9-835f1b5fe524","meta":{"drupal_internal__target_id":"stati_di_una_pratica"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/fdd31a1e-c87d-4683-be4f-d68e2d82b0c6\/vid?resourceVersion=id%3A198"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/fdd31a1e-c87d-4683-be4f-d68e2d82b0c6\/relationships\/vid?resourceVersion=id%3A198"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/fdd31a1e-c87d-4683-be4f-d68e2d82b0c6\/revision_user?resourceVersion=id%3A198"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/fdd31a1e-c87d-4683-be4f-d68e2d82b0c6\/relationships\/revision_user?resourceVersion=id%3A198"}}},"parent":{"data":[{"type":"taxonomy_term--stati_di_una_pratica","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/fdd31a1e-c87d-4683-be4f-d68e2d82b0c6\/parent?resourceVersion=id%3A198"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/fdd31a1e-c87d-4683-be4f-d68e2d82b0c6\/relationships\/parent?resourceVersion=id%3A198"}}}}},{"type":"taxonomy_term--stati_di_una_pratica","id":"805f10c7-7fc7-48df-90ff-f74f77c03c87","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/805f10c7-7fc7-48df-90ff-f74f77c03c87?resourceVersion=id%3A200"}},"attributes":{"drupal_internal__tid":200,"drupal_internal__revision_id":200,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Esito positivo","description":null,"weight":0,"changed":"2023-01-20T01:27:02+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/stati-di-una-pratica\/esito-positivo","pid":200,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"5b0a9eb1-5a3b-40fe-8de9-835f1b5fe524","meta":{"drupal_internal__target_id":"stati_di_una_pratica"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/805f10c7-7fc7-48df-90ff-f74f77c03c87\/vid?resourceVersion=id%3A200"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/805f10c7-7fc7-48df-90ff-f74f77c03c87\/relationships\/vid?resourceVersion=id%3A200"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/805f10c7-7fc7-48df-90ff-f74f77c03c87\/revision_user?resourceVersion=id%3A200"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/805f10c7-7fc7-48df-90ff-f74f77c03c87\/relationships\/revision_user?resourceVersion=id%3A200"}}},"parent":{"data":[{"type":"taxonomy_term--stati_di_una_pratica","id":"fdd31a1e-c87d-4683-be4f-d68e2d82b0c6","meta":{"drupal_internal__target_id":198}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/805f10c7-7fc7-48df-90ff-f74f77c03c87\/parent?resourceVersion=id%3A200"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/805f10c7-7fc7-48df-90ff-f74f77c03c87\/relationships\/parent?resourceVersion=id%3A200"}}}}},{"type":"taxonomy_term--stati_di_una_pratica","id":"b5825508-569a-46f4-8b48-5dde45363194","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/b5825508-569a-46f4-8b48-5dde45363194?resourceVersion=id%3A201"}},"attributes":{"drupal_internal__tid":201,"drupal_internal__revision_id":201,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Esito negativo","description":null,"weight":0,"changed":"2023-01-20T01:26:59+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/stati-di-una-pratica\/esito-negativo","pid":201,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"5b0a9eb1-5a3b-40fe-8de9-835f1b5fe524","meta":{"drupal_internal__target_id":"stati_di_una_pratica"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/b5825508-569a-46f4-8b48-5dde45363194\/vid?resourceVersion=id%3A201"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/b5825508-569a-46f4-8b48-5dde45363194\/relationships\/vid?resourceVersion=id%3A201"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/b5825508-569a-46f4-8b48-5dde45363194\/revision_user?resourceVersion=id%3A201"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/b5825508-569a-46f4-8b48-5dde45363194\/relationships\/revision_user?resourceVersion=id%3A201"}}},"parent":{"data":[{"type":"taxonomy_term--stati_di_una_pratica","id":"fdd31a1e-c87d-4683-be4f-d68e2d82b0c6","meta":{"drupal_internal__target_id":198}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/b5825508-569a-46f4-8b48-5dde45363194\/parent?resourceVersion=id%3A201"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/b5825508-569a-46f4-8b48-5dde45363194\/relationships\/parent?resourceVersion=id%3A201"}}}}}],"links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica"}}}
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http:\/\/jsonapi.org\/format\/1.0\/"
+        }
+      }
+    }
+  },
+  "data": [
+    {
+      "type": "taxonomy_term--stati_di_una_pratica",
+      "id": "ebbc84c8-2abc-4a94-9322-e4101f1670e5",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ebbc84c8-2abc-4a94-9322-e4101f1670e5?resourceVersion=id%3A190"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 190,
+        "drupal_internal__revision_id": 190,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Processo non avviato",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:27:07+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/stati-di-una-pratica\/processo-non-avviato",
+          "pid": 190,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "5b0a9eb1-5a3b-40fe-8de9-835f1b5fe524",
+            "meta": {
+              "drupal_internal__target_id": "stati_di_una_pratica"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ebbc84c8-2abc-4a94-9322-e4101f1670e5\/vid?resourceVersion=id%3A190"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ebbc84c8-2abc-4a94-9322-e4101f1670e5\/relationships\/vid?resourceVersion=id%3A190"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ebbc84c8-2abc-4a94-9322-e4101f1670e5\/revision_user?resourceVersion=id%3A190"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ebbc84c8-2abc-4a94-9322-e4101f1670e5\/relationships\/revision_user?resourceVersion=id%3A190"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--stati_di_una_pratica",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ebbc84c8-2abc-4a94-9322-e4101f1670e5\/parent?resourceVersion=id%3A190"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ebbc84c8-2abc-4a94-9322-e4101f1670e5\/relationships\/parent?resourceVersion=id%3A190"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--stati_di_una_pratica",
+      "id": "ea356ff8-6570-4bc6-a853-bc40b367fe9b",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ea356ff8-6570-4bc6-a853-bc40b367fe9b?resourceVersion=id%3A193"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 193,
+        "drupal_internal__revision_id": 193,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "In bozza",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:27:09+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/stati-di-una-pratica\/bozza",
+          "pid": 193,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "5b0a9eb1-5a3b-40fe-8de9-835f1b5fe524",
+            "meta": {
+              "drupal_internal__target_id": "stati_di_una_pratica"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ea356ff8-6570-4bc6-a853-bc40b367fe9b\/vid?resourceVersion=id%3A193"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ea356ff8-6570-4bc6-a853-bc40b367fe9b\/relationships\/vid?resourceVersion=id%3A193"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ea356ff8-6570-4bc6-a853-bc40b367fe9b\/revision_user?resourceVersion=id%3A193"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ea356ff8-6570-4bc6-a853-bc40b367fe9b\/relationships\/revision_user?resourceVersion=id%3A193"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--stati_di_una_pratica",
+              "id": "ebbc84c8-2abc-4a94-9322-e4101f1670e5",
+              "meta": {
+                "drupal_internal__target_id": 190
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ea356ff8-6570-4bc6-a853-bc40b367fe9b\/parent?resourceVersion=id%3A193"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ea356ff8-6570-4bc6-a853-bc40b367fe9b\/relationships\/parent?resourceVersion=id%3A193"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--stati_di_una_pratica",
+      "id": "552c49ca-97af-416a-bc15-f446274b5de0",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/552c49ca-97af-416a-bc15-f446274b5de0?resourceVersion=id%3A194"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 194,
+        "drupal_internal__revision_id": 194,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Processo in corso",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:27:04+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/stati-di-una-pratica\/processo-corso",
+          "pid": 194,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "5b0a9eb1-5a3b-40fe-8de9-835f1b5fe524",
+            "meta": {
+              "drupal_internal__target_id": "stati_di_una_pratica"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/552c49ca-97af-416a-bc15-f446274b5de0\/vid?resourceVersion=id%3A194"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/552c49ca-97af-416a-bc15-f446274b5de0\/relationships\/vid?resourceVersion=id%3A194"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/552c49ca-97af-416a-bc15-f446274b5de0\/revision_user?resourceVersion=id%3A194"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/552c49ca-97af-416a-bc15-f446274b5de0\/relationships\/revision_user?resourceVersion=id%3A194"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--stati_di_una_pratica",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/552c49ca-97af-416a-bc15-f446274b5de0\/parent?resourceVersion=id%3A194"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/552c49ca-97af-416a-bc15-f446274b5de0\/relationships\/parent?resourceVersion=id%3A194"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--stati_di_una_pratica",
+      "id": "ad279b9f-ddfb-4fa8-bb79-eca9426f1858",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ad279b9f-ddfb-4fa8-bb79-eca9426f1858?resourceVersion=id%3A195"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 195,
+        "drupal_internal__revision_id": 195,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Processo sospeso",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:27:12+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/stati-di-una-pratica\/processo-sospeso",
+          "pid": 195,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "5b0a9eb1-5a3b-40fe-8de9-835f1b5fe524",
+            "meta": {
+              "drupal_internal__target_id": "stati_di_una_pratica"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ad279b9f-ddfb-4fa8-bb79-eca9426f1858\/vid?resourceVersion=id%3A195"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ad279b9f-ddfb-4fa8-bb79-eca9426f1858\/relationships\/vid?resourceVersion=id%3A195"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ad279b9f-ddfb-4fa8-bb79-eca9426f1858\/revision_user?resourceVersion=id%3A195"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ad279b9f-ddfb-4fa8-bb79-eca9426f1858\/relationships\/revision_user?resourceVersion=id%3A195"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--stati_di_una_pratica",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ad279b9f-ddfb-4fa8-bb79-eca9426f1858\/parent?resourceVersion=id%3A195"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/ad279b9f-ddfb-4fa8-bb79-eca9426f1858\/relationships\/parent?resourceVersion=id%3A195"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--stati_di_una_pratica",
+      "id": "31faae4c-9da5-499c-b35b-bbe09f1f66e1",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/31faae4c-9da5-499c-b35b-bbe09f1f66e1?resourceVersion=id%3A196"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 196,
+        "drupal_internal__revision_id": 196,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Si richiede un\u2019azione da parte dell\u0027utente",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:27:17+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/stati-di-una-pratica\/si-richiede-unazione-da-parte-dellutente",
+          "pid": 196,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "5b0a9eb1-5a3b-40fe-8de9-835f1b5fe524",
+            "meta": {
+              "drupal_internal__target_id": "stati_di_una_pratica"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/31faae4c-9da5-499c-b35b-bbe09f1f66e1\/vid?resourceVersion=id%3A196"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/31faae4c-9da5-499c-b35b-bbe09f1f66e1\/relationships\/vid?resourceVersion=id%3A196"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/31faae4c-9da5-499c-b35b-bbe09f1f66e1\/revision_user?resourceVersion=id%3A196"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/31faae4c-9da5-499c-b35b-bbe09f1f66e1\/relationships\/revision_user?resourceVersion=id%3A196"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--stati_di_una_pratica",
+              "id": "ad279b9f-ddfb-4fa8-bb79-eca9426f1858",
+              "meta": {
+                "drupal_internal__target_id": 195
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/31faae4c-9da5-499c-b35b-bbe09f1f66e1\/parent?resourceVersion=id%3A196"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/31faae4c-9da5-499c-b35b-bbe09f1f66e1\/relationships\/parent?resourceVersion=id%3A196"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--stati_di_una_pratica",
+      "id": "56e634ff-c3f2-4b2b-9110-cdcc89c540e9",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/56e634ff-c3f2-4b2b-9110-cdcc89c540e9?resourceVersion=id%3A197"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 197,
+        "drupal_internal__revision_id": 197,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Si richiede un\u0027azione da parte della Pubblica Amministrazione",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:27:14+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/stati-di-una-pratica\/si-richiede-unazione-da-parte-della-pubblica-amministrazione",
+          "pid": 197,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "5b0a9eb1-5a3b-40fe-8de9-835f1b5fe524",
+            "meta": {
+              "drupal_internal__target_id": "stati_di_una_pratica"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/56e634ff-c3f2-4b2b-9110-cdcc89c540e9\/vid?resourceVersion=id%3A197"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/56e634ff-c3f2-4b2b-9110-cdcc89c540e9\/relationships\/vid?resourceVersion=id%3A197"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/56e634ff-c3f2-4b2b-9110-cdcc89c540e9\/revision_user?resourceVersion=id%3A197"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/56e634ff-c3f2-4b2b-9110-cdcc89c540e9\/relationships\/revision_user?resourceVersion=id%3A197"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--stati_di_una_pratica",
+              "id": "ad279b9f-ddfb-4fa8-bb79-eca9426f1858",
+              "meta": {
+                "drupal_internal__target_id": 195
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/56e634ff-c3f2-4b2b-9110-cdcc89c540e9\/parent?resourceVersion=id%3A197"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/56e634ff-c3f2-4b2b-9110-cdcc89c540e9\/relationships\/parent?resourceVersion=id%3A197"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--stati_di_una_pratica",
+      "id": "fdd31a1e-c87d-4683-be4f-d68e2d82b0c6",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/fdd31a1e-c87d-4683-be4f-d68e2d82b0c6?resourceVersion=id%3A198"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 198,
+        "drupal_internal__revision_id": 198,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Processo concluso",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:26:56+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/stati-di-una-pratica\/processo-concluso",
+          "pid": 198,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "5b0a9eb1-5a3b-40fe-8de9-835f1b5fe524",
+            "meta": {
+              "drupal_internal__target_id": "stati_di_una_pratica"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/fdd31a1e-c87d-4683-be4f-d68e2d82b0c6\/vid?resourceVersion=id%3A198"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/fdd31a1e-c87d-4683-be4f-d68e2d82b0c6\/relationships\/vid?resourceVersion=id%3A198"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/fdd31a1e-c87d-4683-be4f-d68e2d82b0c6\/revision_user?resourceVersion=id%3A198"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/fdd31a1e-c87d-4683-be4f-d68e2d82b0c6\/relationships\/revision_user?resourceVersion=id%3A198"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--stati_di_una_pratica",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/fdd31a1e-c87d-4683-be4f-d68e2d82b0c6\/parent?resourceVersion=id%3A198"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/fdd31a1e-c87d-4683-be4f-d68e2d82b0c6\/relationships\/parent?resourceVersion=id%3A198"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--stati_di_una_pratica",
+      "id": "805f10c7-7fc7-48df-90ff-f74f77c03c87",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/805f10c7-7fc7-48df-90ff-f74f77c03c87?resourceVersion=id%3A200"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 200,
+        "drupal_internal__revision_id": 200,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Esito positivo",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:27:02+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/stati-di-una-pratica\/esito-positivo",
+          "pid": 200,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "5b0a9eb1-5a3b-40fe-8de9-835f1b5fe524",
+            "meta": {
+              "drupal_internal__target_id": "stati_di_una_pratica"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/805f10c7-7fc7-48df-90ff-f74f77c03c87\/vid?resourceVersion=id%3A200"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/805f10c7-7fc7-48df-90ff-f74f77c03c87\/relationships\/vid?resourceVersion=id%3A200"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/805f10c7-7fc7-48df-90ff-f74f77c03c87\/revision_user?resourceVersion=id%3A200"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/805f10c7-7fc7-48df-90ff-f74f77c03c87\/relationships\/revision_user?resourceVersion=id%3A200"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--stati_di_una_pratica",
+              "id": "fdd31a1e-c87d-4683-be4f-d68e2d82b0c6",
+              "meta": {
+                "drupal_internal__target_id": 198
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/805f10c7-7fc7-48df-90ff-f74f77c03c87\/parent?resourceVersion=id%3A200"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/805f10c7-7fc7-48df-90ff-f74f77c03c87\/relationships\/parent?resourceVersion=id%3A200"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--stati_di_una_pratica",
+      "id": "b5825508-569a-46f4-8b48-5dde45363194",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/b5825508-569a-46f4-8b48-5dde45363194?resourceVersion=id%3A201"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 201,
+        "drupal_internal__revision_id": 201,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Esito negativo",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:26:59+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/stati-di-una-pratica\/esito-negativo",
+          "pid": 201,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "5b0a9eb1-5a3b-40fe-8de9-835f1b5fe524",
+            "meta": {
+              "drupal_internal__target_id": "stati_di_una_pratica"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/b5825508-569a-46f4-8b48-5dde45363194\/vid?resourceVersion=id%3A201"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/b5825508-569a-46f4-8b48-5dde45363194\/relationships\/vid?resourceVersion=id%3A201"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/b5825508-569a-46f4-8b48-5dde45363194\/revision_user?resourceVersion=id%3A201"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/b5825508-569a-46f4-8b48-5dde45363194\/relationships\/revision_user?resourceVersion=id%3A201"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--stati_di_una_pratica",
+              "id": "fdd31a1e-c87d-4683-be4f-d68e2d82b0c6",
+              "meta": {
+                "drupal_internal__target_id": 198
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/b5825508-569a-46f4-8b48-5dde45363194\/parent?resourceVersion=id%3A201"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica\/b5825508-569a-46f4-8b48-5dde45363194\/relationships\/parent?resourceVersion=id%3A201"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "links": {
+    "self": {
+      "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/stati_di_una_pratica"
+    }
+  }
+}

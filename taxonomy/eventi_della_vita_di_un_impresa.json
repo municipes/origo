@@ -1,1 +1,1279 @@
-{"jsonapi":{"version":"1.0","meta":{"links":{"self":{"href":"http:\/\/jsonapi.org\/format\/1.0\/"}}}},"data":[{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"c63dd491-a96d-4a90-b9b6-d38432c61244","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/c63dd491-a96d-4a90-b9b6-d38432c61244?resourceVersion=id%3A282"}},"attributes":{"drupal_internal__tid":282,"drupal_internal__revision_id":282,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Avvio impresa","description":null,"weight":0,"changed":"2023-01-20T01:22:23+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-di-unimpresa\/avvio-impresa","pid":282,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"fdedb31a-99d0-4507-806f-23bff78d4c5b","meta":{"drupal_internal__target_id":"eventi_della_vita_di_un_impresa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/c63dd491-a96d-4a90-b9b6-d38432c61244\/vid?resourceVersion=id%3A282"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/c63dd491-a96d-4a90-b9b6-d38432c61244\/relationships\/vid?resourceVersion=id%3A282"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/c63dd491-a96d-4a90-b9b6-d38432c61244\/revision_user?resourceVersion=id%3A282"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/c63dd491-a96d-4a90-b9b6-d38432c61244\/relationships\/revision_user?resourceVersion=id%3A282"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/c63dd491-a96d-4a90-b9b6-d38432c61244\/parent?resourceVersion=id%3A282"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/c63dd491-a96d-4a90-b9b6-d38432c61244\/relationships\/parent?resourceVersion=id%3A282"}}}}},{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"4ac1964e-ca9c-449a-a06d-d0b2765eae5a","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/4ac1964e-ca9c-449a-a06d-d0b2765eae5a?resourceVersion=id%3A283"}},"attributes":{"drupal_internal__tid":283,"drupal_internal__revision_id":283,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Avvio nuova attivit\u00e0 professionale","description":null,"weight":0,"changed":"2023-01-20T01:22:26+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-di-unimpresa\/avvio-nuova-attivita-professionale","pid":283,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"fdedb31a-99d0-4507-806f-23bff78d4c5b","meta":{"drupal_internal__target_id":"eventi_della_vita_di_un_impresa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/4ac1964e-ca9c-449a-a06d-d0b2765eae5a\/vid?resourceVersion=id%3A283"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/4ac1964e-ca9c-449a-a06d-d0b2765eae5a\/relationships\/vid?resourceVersion=id%3A283"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/4ac1964e-ca9c-449a-a06d-d0b2765eae5a\/revision_user?resourceVersion=id%3A283"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/4ac1964e-ca9c-449a-a06d-d0b2765eae5a\/relationships\/revision_user?resourceVersion=id%3A283"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/4ac1964e-ca9c-449a-a06d-d0b2765eae5a\/parent?resourceVersion=id%3A283"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/4ac1964e-ca9c-449a-a06d-d0b2765eae5a\/relationships\/parent?resourceVersion=id%3A283"}}}}},{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"efb39638-410f-47e2-91ad-af4c6c658d6c","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/efb39638-410f-47e2-91ad-af4c6c658d6c?resourceVersion=id%3A284"}},"attributes":{"drupal_internal__tid":284,"drupal_internal__revision_id":284,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Richiesta licenze, permessi e certificati","description":null,"weight":0,"changed":"2023-01-20T01:22:55+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-di-unimpresa\/richiesta-licenze-permessi-e-certificati","pid":284,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"fdedb31a-99d0-4507-806f-23bff78d4c5b","meta":{"drupal_internal__target_id":"eventi_della_vita_di_un_impresa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/efb39638-410f-47e2-91ad-af4c6c658d6c\/vid?resourceVersion=id%3A284"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/efb39638-410f-47e2-91ad-af4c6c658d6c\/relationships\/vid?resourceVersion=id%3A284"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/efb39638-410f-47e2-91ad-af4c6c658d6c\/revision_user?resourceVersion=id%3A284"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/efb39638-410f-47e2-91ad-af4c6c658d6c\/relationships\/revision_user?resourceVersion=id%3A284"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/efb39638-410f-47e2-91ad-af4c6c658d6c\/parent?resourceVersion=id%3A284"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/efb39638-410f-47e2-91ad-af4c6c658d6c\/relationships\/parent?resourceVersion=id%3A284"}}}}},{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"bf08692a-d281-4c42-ab44-28aad9de594e","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/bf08692a-d281-4c42-ab44-28aad9de594e?resourceVersion=id%3A285"}},"attributes":{"drupal_internal__tid":285,"drupal_internal__revision_id":285,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Registrazione impresa transfrontaliera","description":null,"weight":0,"changed":"2023-01-20T01:22:52+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-di-unimpresa\/registrazione-impresa-transfrontaliera","pid":285,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"fdedb31a-99d0-4507-806f-23bff78d4c5b","meta":{"drupal_internal__target_id":"eventi_della_vita_di_un_impresa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/bf08692a-d281-4c42-ab44-28aad9de594e\/vid?resourceVersion=id%3A285"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/bf08692a-d281-4c42-ab44-28aad9de594e\/relationships\/vid?resourceVersion=id%3A285"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/bf08692a-d281-4c42-ab44-28aad9de594e\/revision_user?resourceVersion=id%3A285"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/bf08692a-d281-4c42-ab44-28aad9de594e\/relationships\/revision_user?resourceVersion=id%3A285"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/bf08692a-d281-4c42-ab44-28aad9de594e\/parent?resourceVersion=id%3A285"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/bf08692a-d281-4c42-ab44-28aad9de594e\/relationships\/parent?resourceVersion=id%3A285"}}}}},{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"884982b7-149e-4164-a0e8-59be2da6faaa","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/884982b7-149e-4164-a0e8-59be2da6faaa?resourceVersion=id%3A286"}},"attributes":{"drupal_internal__tid":286,"drupal_internal__revision_id":286,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Avviso e registrazione filiale","description":null,"weight":0,"changed":"2023-01-20T01:22:29+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-di-unimpresa\/avviso-e-registrazione-filiale","pid":286,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"fdedb31a-99d0-4507-806f-23bff78d4c5b","meta":{"drupal_internal__target_id":"eventi_della_vita_di_un_impresa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/884982b7-149e-4164-a0e8-59be2da6faaa\/vid?resourceVersion=id%3A286"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/884982b7-149e-4164-a0e8-59be2da6faaa\/relationships\/vid?resourceVersion=id%3A286"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/884982b7-149e-4164-a0e8-59be2da6faaa\/revision_user?resourceVersion=id%3A286"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/884982b7-149e-4164-a0e8-59be2da6faaa\/relationships\/revision_user?resourceVersion=id%3A286"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/884982b7-149e-4164-a0e8-59be2da6faaa\/parent?resourceVersion=id%3A286"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/884982b7-149e-4164-a0e8-59be2da6faaa\/relationships\/parent?resourceVersion=id%3A286"}}}}},{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"50022161-d16a-44af-8f8b-de7a434ae8d0","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/50022161-d16a-44af-8f8b-de7a434ae8d0?resourceVersion=id%3A287"}},"attributes":{"drupal_internal__tid":287,"drupal_internal__revision_id":287,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Finanziamento impresa","description":null,"weight":0,"changed":"2023-01-20T01:22:39+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-di-unimpresa\/finanziamento-impresa","pid":287,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"fdedb31a-99d0-4507-806f-23bff78d4c5b","meta":{"drupal_internal__target_id":"eventi_della_vita_di_un_impresa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/50022161-d16a-44af-8f8b-de7a434ae8d0\/vid?resourceVersion=id%3A287"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/50022161-d16a-44af-8f8b-de7a434ae8d0\/relationships\/vid?resourceVersion=id%3A287"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/50022161-d16a-44af-8f8b-de7a434ae8d0\/revision_user?resourceVersion=id%3A287"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/50022161-d16a-44af-8f8b-de7a434ae8d0\/relationships\/revision_user?resourceVersion=id%3A287"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/50022161-d16a-44af-8f8b-de7a434ae8d0\/parent?resourceVersion=id%3A287"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/50022161-d16a-44af-8f8b-de7a434ae8d0\/relationships\/parent?resourceVersion=id%3A287"}}}}},{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"2877772b-49e6-4976-9cab-ee7f71199094","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/2877772b-49e6-4976-9cab-ee7f71199094?resourceVersion=id%3A288"}},"attributes":{"drupal_internal__tid":288,"drupal_internal__revision_id":288,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Gestione personale","description":null,"weight":0,"changed":"2023-01-20T01:22:42+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-di-unimpresa\/gestione-personale","pid":288,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"fdedb31a-99d0-4507-806f-23bff78d4c5b","meta":{"drupal_internal__target_id":"eventi_della_vita_di_un_impresa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/2877772b-49e6-4976-9cab-ee7f71199094\/vid?resourceVersion=id%3A288"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/2877772b-49e6-4976-9cab-ee7f71199094\/relationships\/vid?resourceVersion=id%3A288"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/2877772b-49e6-4976-9cab-ee7f71199094\/revision_user?resourceVersion=id%3A288"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/2877772b-49e6-4976-9cab-ee7f71199094\/relationships\/revision_user?resourceVersion=id%3A288"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/2877772b-49e6-4976-9cab-ee7f71199094\/parent?resourceVersion=id%3A288"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/2877772b-49e6-4976-9cab-ee7f71199094\/relationships\/parent?resourceVersion=id%3A288"}}}}},{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"f0ee8571-5e9e-4897-bca7-745a1bb22721","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/f0ee8571-5e9e-4897-bca7-745a1bb22721?resourceVersion=id%3A290"}},"attributes":{"drupal_internal__tid":290,"drupal_internal__revision_id":290,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Pagamento iva, tasse e dogane","description":null,"weight":0,"changed":"2023-01-20T01:22:47+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-di-unimpresa\/pagamento-iva-tasse-e-dogane","pid":290,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"fdedb31a-99d0-4507-806f-23bff78d4c5b","meta":{"drupal_internal__target_id":"eventi_della_vita_di_un_impresa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/f0ee8571-5e9e-4897-bca7-745a1bb22721\/vid?resourceVersion=id%3A290"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/f0ee8571-5e9e-4897-bca7-745a1bb22721\/relationships\/vid?resourceVersion=id%3A290"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/f0ee8571-5e9e-4897-bca7-745a1bb22721\/revision_user?resourceVersion=id%3A290"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/f0ee8571-5e9e-4897-bca7-745a1bb22721\/relationships\/revision_user?resourceVersion=id%3A290"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/f0ee8571-5e9e-4897-bca7-745a1bb22721\/parent?resourceVersion=id%3A290"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/f0ee8571-5e9e-4897-bca7-745a1bb22721\/relationships\/parent?resourceVersion=id%3A290"}}}}},{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"675a4a73-85fd-4e91-8c5b-82e723afac1c","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/675a4a73-85fd-4e91-8c5b-82e723afac1c?resourceVersion=id%3A293"}},"attributes":{"drupal_internal__tid":293,"drupal_internal__revision_id":293,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Notifiche autorit\u00e0","description":null,"weight":0,"changed":"2023-01-20T01:22:44+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-di-unimpresa\/notifiche-autorita","pid":293,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"fdedb31a-99d0-4507-806f-23bff78d4c5b","meta":{"drupal_internal__target_id":"eventi_della_vita_di_un_impresa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/675a4a73-85fd-4e91-8c5b-82e723afac1c\/vid?resourceVersion=id%3A293"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/675a4a73-85fd-4e91-8c5b-82e723afac1c\/relationships\/vid?resourceVersion=id%3A293"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/675a4a73-85fd-4e91-8c5b-82e723afac1c\/revision_user?resourceVersion=id%3A293"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/675a4a73-85fd-4e91-8c5b-82e723afac1c\/relationships\/revision_user?resourceVersion=id%3A293"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/675a4a73-85fd-4e91-8c5b-82e723afac1c\/parent?resourceVersion=id%3A293"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/675a4a73-85fd-4e91-8c5b-82e723afac1c\/relationships\/parent?resourceVersion=id%3A293"}}}}},{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"1423b048-1008-40a3-a0d4-36d82641e301","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/1423b048-1008-40a3-a0d4-36d82641e301?resourceVersion=id%3A294"}},"attributes":{"drupal_internal__tid":294,"drupal_internal__revision_id":294,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Chiusura impresa e attivit\u00e0 professionale","description":null,"weight":0,"changed":"2023-01-20T01:22:37+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-di-unimpresa\/chiusura-impresa-e-attivita-professionale","pid":294,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"fdedb31a-99d0-4507-806f-23bff78d4c5b","meta":{"drupal_internal__target_id":"eventi_della_vita_di_un_impresa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/1423b048-1008-40a3-a0d4-36d82641e301\/vid?resourceVersion=id%3A294"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/1423b048-1008-40a3-a0d4-36d82641e301\/relationships\/vid?resourceVersion=id%3A294"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/1423b048-1008-40a3-a0d4-36d82641e301\/revision_user?resourceVersion=id%3A294"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/1423b048-1008-40a3-a0d4-36d82641e301\/relationships\/revision_user?resourceVersion=id%3A294"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/1423b048-1008-40a3-a0d4-36d82641e301\/parent?resourceVersion=id%3A294"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/1423b048-1008-40a3-a0d4-36d82641e301\/relationships\/parent?resourceVersion=id%3A294"}}}}},{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"9ba3ffb1-b883-429a-aa74-0c811fe67b30","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/9ba3ffb1-b883-429a-aa74-0c811fe67b30?resourceVersion=id%3A295"}},"attributes":{"drupal_internal__tid":295,"drupal_internal__revision_id":295,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Chiusura filiale","description":null,"weight":0,"changed":"2023-01-20T01:22:34+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-di-unimpresa\/chiusura-filiale","pid":295,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"fdedb31a-99d0-4507-806f-23bff78d4c5b","meta":{"drupal_internal__target_id":"eventi_della_vita_di_un_impresa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/9ba3ffb1-b883-429a-aa74-0c811fe67b30\/vid?resourceVersion=id%3A295"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/9ba3ffb1-b883-429a-aa74-0c811fe67b30\/relationships\/vid?resourceVersion=id%3A295"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/9ba3ffb1-b883-429a-aa74-0c811fe67b30\/revision_user?resourceVersion=id%3A295"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/9ba3ffb1-b883-429a-aa74-0c811fe67b30\/relationships\/revision_user?resourceVersion=id%3A295"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/9ba3ffb1-b883-429a-aa74-0c811fe67b30\/parent?resourceVersion=id%3A295"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/9ba3ffb1-b883-429a-aa74-0c811fe67b30\/relationships\/parent?resourceVersion=id%3A295"}}}}},{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"b6b842ae-6e94-4ee8-90cd-be5b77a7ee08","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/b6b842ae-6e94-4ee8-90cd-be5b77a7ee08?resourceVersion=id%3A296"}},"attributes":{"drupal_internal__tid":296,"drupal_internal__revision_id":296,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Ristrutturazione impresa","description":null,"weight":0,"changed":"2023-01-20T01:22:58+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-di-unimpresa\/ristrutturazione-impresa","pid":296,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"fdedb31a-99d0-4507-806f-23bff78d4c5b","meta":{"drupal_internal__target_id":"eventi_della_vita_di_un_impresa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/b6b842ae-6e94-4ee8-90cd-be5b77a7ee08\/vid?resourceVersion=id%3A296"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/b6b842ae-6e94-4ee8-90cd-be5b77a7ee08\/relationships\/vid?resourceVersion=id%3A296"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/b6b842ae-6e94-4ee8-90cd-be5b77a7ee08\/revision_user?resourceVersion=id%3A296"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/b6b842ae-6e94-4ee8-90cd-be5b77a7ee08\/relationships\/revision_user?resourceVersion=id%3A296"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/b6b842ae-6e94-4ee8-90cd-be5b77a7ee08\/parent?resourceVersion=id%3A296"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/b6b842ae-6e94-4ee8-90cd-be5b77a7ee08\/relationships\/parent?resourceVersion=id%3A296"}}}}},{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"fc1a2b79-933b-4654-94b9-e8ea2be89960","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/fc1a2b79-933b-4654-94b9-e8ea2be89960?resourceVersion=id%3A297"}},"attributes":{"drupal_internal__tid":297,"drupal_internal__revision_id":297,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Vendita impresa","description":null,"weight":0,"changed":"2023-01-20T01:23:02+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-di-unimpresa\/vendita-impresa","pid":297,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"fdedb31a-99d0-4507-806f-23bff78d4c5b","meta":{"drupal_internal__target_id":"eventi_della_vita_di_un_impresa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/fc1a2b79-933b-4654-94b9-e8ea2be89960\/vid?resourceVersion=id%3A297"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/fc1a2b79-933b-4654-94b9-e8ea2be89960\/relationships\/vid?resourceVersion=id%3A297"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/fc1a2b79-933b-4654-94b9-e8ea2be89960\/revision_user?resourceVersion=id%3A297"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/fc1a2b79-933b-4654-94b9-e8ea2be89960\/relationships\/revision_user?resourceVersion=id%3A297"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/fc1a2b79-933b-4654-94b9-e8ea2be89960\/parent?resourceVersion=id%3A297"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/fc1a2b79-933b-4654-94b9-e8ea2be89960\/relationships\/parent?resourceVersion=id%3A297"}}}}},{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"6ba009ec-a314-4fcc-9ecc-ec955c3c2445","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/6ba009ec-a314-4fcc-9ecc-ec955c3c2445?resourceVersion=id%3A298"}},"attributes":{"drupal_internal__tid":298,"drupal_internal__revision_id":298,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Bancarotta","description":null,"weight":0,"changed":"2023-01-20T01:22:31+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-di-unimpresa\/bancarotta","pid":298,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"fdedb31a-99d0-4507-806f-23bff78d4c5b","meta":{"drupal_internal__target_id":"eventi_della_vita_di_un_impresa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/6ba009ec-a314-4fcc-9ecc-ec955c3c2445\/vid?resourceVersion=id%3A298"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/6ba009ec-a314-4fcc-9ecc-ec955c3c2445\/relationships\/vid?resourceVersion=id%3A298"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/6ba009ec-a314-4fcc-9ecc-ec955c3c2445\/revision_user?resourceVersion=id%3A298"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/6ba009ec-a314-4fcc-9ecc-ec955c3c2445\/relationships\/revision_user?resourceVersion=id%3A298"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/6ba009ec-a314-4fcc-9ecc-ec955c3c2445\/parent?resourceVersion=id%3A298"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/6ba009ec-a314-4fcc-9ecc-ec955c3c2445\/relationships\/parent?resourceVersion=id%3A298"}}}}},{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"da2e0953-46e1-4005-baa8-c134a3d27823","links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/da2e0953-46e1-4005-baa8-c134a3d27823?resourceVersion=id%3A299"}},"attributes":{"drupal_internal__tid":299,"drupal_internal__revision_id":299,"langcode":"it","revision_created":"2022-05-10T10:38:15+00:00","revision_log_message":null,"status":true,"name":"Partecipazione ad appalti pubblici nazionali e transfrontalieri","description":null,"weight":0,"changed":"2023-01-20T01:22:50+00:00","default_langcode":true,"revision_translation_affected":true,"path":{"alias":"\/eventi-della-vita-di-unimpresa\/partecipazione-ad-appalti-pubblici-nazionali-e-transfrontalieri","pid":299,"langcode":"it"}},"relationships":{"vid":{"data":{"type":"taxonomy_vocabulary--taxonomy_vocabulary","id":"fdedb31a-99d0-4507-806f-23bff78d4c5b","meta":{"drupal_internal__target_id":"eventi_della_vita_di_un_impresa"}},"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/da2e0953-46e1-4005-baa8-c134a3d27823\/vid?resourceVersion=id%3A299"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/da2e0953-46e1-4005-baa8-c134a3d27823\/relationships\/vid?resourceVersion=id%3A299"}}},"revision_user":{"data":null,"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/da2e0953-46e1-4005-baa8-c134a3d27823\/revision_user?resourceVersion=id%3A299"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/da2e0953-46e1-4005-baa8-c134a3d27823\/relationships\/revision_user?resourceVersion=id%3A299"}}},"parent":{"data":[{"type":"taxonomy_term--eventi_della_vita_di_un_impresa","id":"virtual","meta":{"links":{"help":{"href":"https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual","meta":{"about":"Usage and meaning of the \u0027virtual\u0027 resource identifier."}}}}}],"links":{"related":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/da2e0953-46e1-4005-baa8-c134a3d27823\/parent?resourceVersion=id%3A299"},"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/da2e0953-46e1-4005-baa8-c134a3d27823\/relationships\/parent?resourceVersion=id%3A299"}}}}}],"links":{"self":{"href":"https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa"}}}
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http:\/\/jsonapi.org\/format\/1.0\/"
+        }
+      }
+    }
+  },
+  "data": [
+    {
+      "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+      "id": "c63dd491-a96d-4a90-b9b6-d38432c61244",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/c63dd491-a96d-4a90-b9b6-d38432c61244?resourceVersion=id%3A282"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 282,
+        "drupal_internal__revision_id": 282,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Avvio impresa",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:22:23+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-di-unimpresa\/avvio-impresa",
+          "pid": 282,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "fdedb31a-99d0-4507-806f-23bff78d4c5b",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_di_un_impresa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/c63dd491-a96d-4a90-b9b6-d38432c61244\/vid?resourceVersion=id%3A282"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/c63dd491-a96d-4a90-b9b6-d38432c61244\/relationships\/vid?resourceVersion=id%3A282"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/c63dd491-a96d-4a90-b9b6-d38432c61244\/revision_user?resourceVersion=id%3A282"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/c63dd491-a96d-4a90-b9b6-d38432c61244\/relationships\/revision_user?resourceVersion=id%3A282"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/c63dd491-a96d-4a90-b9b6-d38432c61244\/parent?resourceVersion=id%3A282"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/c63dd491-a96d-4a90-b9b6-d38432c61244\/relationships\/parent?resourceVersion=id%3A282"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+      "id": "4ac1964e-ca9c-449a-a06d-d0b2765eae5a",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/4ac1964e-ca9c-449a-a06d-d0b2765eae5a?resourceVersion=id%3A283"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 283,
+        "drupal_internal__revision_id": 283,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Avvio nuova attivit\u00e0 professionale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:22:26+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-di-unimpresa\/avvio-nuova-attivita-professionale",
+          "pid": 283,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "fdedb31a-99d0-4507-806f-23bff78d4c5b",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_di_un_impresa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/4ac1964e-ca9c-449a-a06d-d0b2765eae5a\/vid?resourceVersion=id%3A283"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/4ac1964e-ca9c-449a-a06d-d0b2765eae5a\/relationships\/vid?resourceVersion=id%3A283"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/4ac1964e-ca9c-449a-a06d-d0b2765eae5a\/revision_user?resourceVersion=id%3A283"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/4ac1964e-ca9c-449a-a06d-d0b2765eae5a\/relationships\/revision_user?resourceVersion=id%3A283"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/4ac1964e-ca9c-449a-a06d-d0b2765eae5a\/parent?resourceVersion=id%3A283"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/4ac1964e-ca9c-449a-a06d-d0b2765eae5a\/relationships\/parent?resourceVersion=id%3A283"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+      "id": "efb39638-410f-47e2-91ad-af4c6c658d6c",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/efb39638-410f-47e2-91ad-af4c6c658d6c?resourceVersion=id%3A284"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 284,
+        "drupal_internal__revision_id": 284,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Richiesta licenze, permessi e certificati",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:22:55+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-di-unimpresa\/richiesta-licenze-permessi-e-certificati",
+          "pid": 284,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "fdedb31a-99d0-4507-806f-23bff78d4c5b",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_di_un_impresa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/efb39638-410f-47e2-91ad-af4c6c658d6c\/vid?resourceVersion=id%3A284"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/efb39638-410f-47e2-91ad-af4c6c658d6c\/relationships\/vid?resourceVersion=id%3A284"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/efb39638-410f-47e2-91ad-af4c6c658d6c\/revision_user?resourceVersion=id%3A284"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/efb39638-410f-47e2-91ad-af4c6c658d6c\/relationships\/revision_user?resourceVersion=id%3A284"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/efb39638-410f-47e2-91ad-af4c6c658d6c\/parent?resourceVersion=id%3A284"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/efb39638-410f-47e2-91ad-af4c6c658d6c\/relationships\/parent?resourceVersion=id%3A284"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+      "id": "bf08692a-d281-4c42-ab44-28aad9de594e",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/bf08692a-d281-4c42-ab44-28aad9de594e?resourceVersion=id%3A285"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 285,
+        "drupal_internal__revision_id": 285,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Registrazione impresa transfrontaliera",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:22:52+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-di-unimpresa\/registrazione-impresa-transfrontaliera",
+          "pid": 285,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "fdedb31a-99d0-4507-806f-23bff78d4c5b",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_di_un_impresa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/bf08692a-d281-4c42-ab44-28aad9de594e\/vid?resourceVersion=id%3A285"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/bf08692a-d281-4c42-ab44-28aad9de594e\/relationships\/vid?resourceVersion=id%3A285"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/bf08692a-d281-4c42-ab44-28aad9de594e\/revision_user?resourceVersion=id%3A285"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/bf08692a-d281-4c42-ab44-28aad9de594e\/relationships\/revision_user?resourceVersion=id%3A285"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/bf08692a-d281-4c42-ab44-28aad9de594e\/parent?resourceVersion=id%3A285"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/bf08692a-d281-4c42-ab44-28aad9de594e\/relationships\/parent?resourceVersion=id%3A285"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+      "id": "884982b7-149e-4164-a0e8-59be2da6faaa",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/884982b7-149e-4164-a0e8-59be2da6faaa?resourceVersion=id%3A286"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 286,
+        "drupal_internal__revision_id": 286,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Avviso e registrazione filiale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:22:29+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-di-unimpresa\/avviso-e-registrazione-filiale",
+          "pid": 286,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "fdedb31a-99d0-4507-806f-23bff78d4c5b",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_di_un_impresa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/884982b7-149e-4164-a0e8-59be2da6faaa\/vid?resourceVersion=id%3A286"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/884982b7-149e-4164-a0e8-59be2da6faaa\/relationships\/vid?resourceVersion=id%3A286"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/884982b7-149e-4164-a0e8-59be2da6faaa\/revision_user?resourceVersion=id%3A286"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/884982b7-149e-4164-a0e8-59be2da6faaa\/relationships\/revision_user?resourceVersion=id%3A286"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/884982b7-149e-4164-a0e8-59be2da6faaa\/parent?resourceVersion=id%3A286"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/884982b7-149e-4164-a0e8-59be2da6faaa\/relationships\/parent?resourceVersion=id%3A286"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+      "id": "50022161-d16a-44af-8f8b-de7a434ae8d0",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/50022161-d16a-44af-8f8b-de7a434ae8d0?resourceVersion=id%3A287"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 287,
+        "drupal_internal__revision_id": 287,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Finanziamento impresa",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:22:39+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-di-unimpresa\/finanziamento-impresa",
+          "pid": 287,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "fdedb31a-99d0-4507-806f-23bff78d4c5b",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_di_un_impresa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/50022161-d16a-44af-8f8b-de7a434ae8d0\/vid?resourceVersion=id%3A287"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/50022161-d16a-44af-8f8b-de7a434ae8d0\/relationships\/vid?resourceVersion=id%3A287"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/50022161-d16a-44af-8f8b-de7a434ae8d0\/revision_user?resourceVersion=id%3A287"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/50022161-d16a-44af-8f8b-de7a434ae8d0\/relationships\/revision_user?resourceVersion=id%3A287"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/50022161-d16a-44af-8f8b-de7a434ae8d0\/parent?resourceVersion=id%3A287"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/50022161-d16a-44af-8f8b-de7a434ae8d0\/relationships\/parent?resourceVersion=id%3A287"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+      "id": "2877772b-49e6-4976-9cab-ee7f71199094",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/2877772b-49e6-4976-9cab-ee7f71199094?resourceVersion=id%3A288"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 288,
+        "drupal_internal__revision_id": 288,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Gestione personale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:22:42+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-di-unimpresa\/gestione-personale",
+          "pid": 288,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "fdedb31a-99d0-4507-806f-23bff78d4c5b",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_di_un_impresa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/2877772b-49e6-4976-9cab-ee7f71199094\/vid?resourceVersion=id%3A288"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/2877772b-49e6-4976-9cab-ee7f71199094\/relationships\/vid?resourceVersion=id%3A288"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/2877772b-49e6-4976-9cab-ee7f71199094\/revision_user?resourceVersion=id%3A288"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/2877772b-49e6-4976-9cab-ee7f71199094\/relationships\/revision_user?resourceVersion=id%3A288"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/2877772b-49e6-4976-9cab-ee7f71199094\/parent?resourceVersion=id%3A288"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/2877772b-49e6-4976-9cab-ee7f71199094\/relationships\/parent?resourceVersion=id%3A288"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+      "id": "f0ee8571-5e9e-4897-bca7-745a1bb22721",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/f0ee8571-5e9e-4897-bca7-745a1bb22721?resourceVersion=id%3A290"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 290,
+        "drupal_internal__revision_id": 290,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Pagamento iva, tasse e dogane",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:22:47+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-di-unimpresa\/pagamento-iva-tasse-e-dogane",
+          "pid": 290,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "fdedb31a-99d0-4507-806f-23bff78d4c5b",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_di_un_impresa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/f0ee8571-5e9e-4897-bca7-745a1bb22721\/vid?resourceVersion=id%3A290"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/f0ee8571-5e9e-4897-bca7-745a1bb22721\/relationships\/vid?resourceVersion=id%3A290"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/f0ee8571-5e9e-4897-bca7-745a1bb22721\/revision_user?resourceVersion=id%3A290"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/f0ee8571-5e9e-4897-bca7-745a1bb22721\/relationships\/revision_user?resourceVersion=id%3A290"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/f0ee8571-5e9e-4897-bca7-745a1bb22721\/parent?resourceVersion=id%3A290"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/f0ee8571-5e9e-4897-bca7-745a1bb22721\/relationships\/parent?resourceVersion=id%3A290"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+      "id": "675a4a73-85fd-4e91-8c5b-82e723afac1c",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/675a4a73-85fd-4e91-8c5b-82e723afac1c?resourceVersion=id%3A293"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 293,
+        "drupal_internal__revision_id": 293,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Notifiche autorit\u00e0",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:22:44+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-di-unimpresa\/notifiche-autorita",
+          "pid": 293,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "fdedb31a-99d0-4507-806f-23bff78d4c5b",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_di_un_impresa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/675a4a73-85fd-4e91-8c5b-82e723afac1c\/vid?resourceVersion=id%3A293"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/675a4a73-85fd-4e91-8c5b-82e723afac1c\/relationships\/vid?resourceVersion=id%3A293"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/675a4a73-85fd-4e91-8c5b-82e723afac1c\/revision_user?resourceVersion=id%3A293"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/675a4a73-85fd-4e91-8c5b-82e723afac1c\/relationships\/revision_user?resourceVersion=id%3A293"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/675a4a73-85fd-4e91-8c5b-82e723afac1c\/parent?resourceVersion=id%3A293"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/675a4a73-85fd-4e91-8c5b-82e723afac1c\/relationships\/parent?resourceVersion=id%3A293"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+      "id": "1423b048-1008-40a3-a0d4-36d82641e301",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/1423b048-1008-40a3-a0d4-36d82641e301?resourceVersion=id%3A294"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 294,
+        "drupal_internal__revision_id": 294,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Chiusura impresa e attivit\u00e0 professionale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:22:37+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-di-unimpresa\/chiusura-impresa-e-attivita-professionale",
+          "pid": 294,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "fdedb31a-99d0-4507-806f-23bff78d4c5b",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_di_un_impresa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/1423b048-1008-40a3-a0d4-36d82641e301\/vid?resourceVersion=id%3A294"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/1423b048-1008-40a3-a0d4-36d82641e301\/relationships\/vid?resourceVersion=id%3A294"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/1423b048-1008-40a3-a0d4-36d82641e301\/revision_user?resourceVersion=id%3A294"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/1423b048-1008-40a3-a0d4-36d82641e301\/relationships\/revision_user?resourceVersion=id%3A294"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/1423b048-1008-40a3-a0d4-36d82641e301\/parent?resourceVersion=id%3A294"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/1423b048-1008-40a3-a0d4-36d82641e301\/relationships\/parent?resourceVersion=id%3A294"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+      "id": "9ba3ffb1-b883-429a-aa74-0c811fe67b30",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/9ba3ffb1-b883-429a-aa74-0c811fe67b30?resourceVersion=id%3A295"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 295,
+        "drupal_internal__revision_id": 295,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Chiusura filiale",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:22:34+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-di-unimpresa\/chiusura-filiale",
+          "pid": 295,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "fdedb31a-99d0-4507-806f-23bff78d4c5b",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_di_un_impresa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/9ba3ffb1-b883-429a-aa74-0c811fe67b30\/vid?resourceVersion=id%3A295"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/9ba3ffb1-b883-429a-aa74-0c811fe67b30\/relationships\/vid?resourceVersion=id%3A295"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/9ba3ffb1-b883-429a-aa74-0c811fe67b30\/revision_user?resourceVersion=id%3A295"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/9ba3ffb1-b883-429a-aa74-0c811fe67b30\/relationships\/revision_user?resourceVersion=id%3A295"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/9ba3ffb1-b883-429a-aa74-0c811fe67b30\/parent?resourceVersion=id%3A295"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/9ba3ffb1-b883-429a-aa74-0c811fe67b30\/relationships\/parent?resourceVersion=id%3A295"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+      "id": "b6b842ae-6e94-4ee8-90cd-be5b77a7ee08",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/b6b842ae-6e94-4ee8-90cd-be5b77a7ee08?resourceVersion=id%3A296"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 296,
+        "drupal_internal__revision_id": 296,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Ristrutturazione impresa",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:22:58+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-di-unimpresa\/ristrutturazione-impresa",
+          "pid": 296,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "fdedb31a-99d0-4507-806f-23bff78d4c5b",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_di_un_impresa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/b6b842ae-6e94-4ee8-90cd-be5b77a7ee08\/vid?resourceVersion=id%3A296"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/b6b842ae-6e94-4ee8-90cd-be5b77a7ee08\/relationships\/vid?resourceVersion=id%3A296"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/b6b842ae-6e94-4ee8-90cd-be5b77a7ee08\/revision_user?resourceVersion=id%3A296"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/b6b842ae-6e94-4ee8-90cd-be5b77a7ee08\/relationships\/revision_user?resourceVersion=id%3A296"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/b6b842ae-6e94-4ee8-90cd-be5b77a7ee08\/parent?resourceVersion=id%3A296"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/b6b842ae-6e94-4ee8-90cd-be5b77a7ee08\/relationships\/parent?resourceVersion=id%3A296"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+      "id": "fc1a2b79-933b-4654-94b9-e8ea2be89960",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/fc1a2b79-933b-4654-94b9-e8ea2be89960?resourceVersion=id%3A297"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 297,
+        "drupal_internal__revision_id": 297,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Vendita impresa",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:23:02+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-di-unimpresa\/vendita-impresa",
+          "pid": 297,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "fdedb31a-99d0-4507-806f-23bff78d4c5b",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_di_un_impresa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/fc1a2b79-933b-4654-94b9-e8ea2be89960\/vid?resourceVersion=id%3A297"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/fc1a2b79-933b-4654-94b9-e8ea2be89960\/relationships\/vid?resourceVersion=id%3A297"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/fc1a2b79-933b-4654-94b9-e8ea2be89960\/revision_user?resourceVersion=id%3A297"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/fc1a2b79-933b-4654-94b9-e8ea2be89960\/relationships\/revision_user?resourceVersion=id%3A297"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/fc1a2b79-933b-4654-94b9-e8ea2be89960\/parent?resourceVersion=id%3A297"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/fc1a2b79-933b-4654-94b9-e8ea2be89960\/relationships\/parent?resourceVersion=id%3A297"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+      "id": "6ba009ec-a314-4fcc-9ecc-ec955c3c2445",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/6ba009ec-a314-4fcc-9ecc-ec955c3c2445?resourceVersion=id%3A298"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 298,
+        "drupal_internal__revision_id": 298,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Bancarotta",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:22:31+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-di-unimpresa\/bancarotta",
+          "pid": 298,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "fdedb31a-99d0-4507-806f-23bff78d4c5b",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_di_un_impresa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/6ba009ec-a314-4fcc-9ecc-ec955c3c2445\/vid?resourceVersion=id%3A298"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/6ba009ec-a314-4fcc-9ecc-ec955c3c2445\/relationships\/vid?resourceVersion=id%3A298"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/6ba009ec-a314-4fcc-9ecc-ec955c3c2445\/revision_user?resourceVersion=id%3A298"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/6ba009ec-a314-4fcc-9ecc-ec955c3c2445\/relationships\/revision_user?resourceVersion=id%3A298"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/6ba009ec-a314-4fcc-9ecc-ec955c3c2445\/parent?resourceVersion=id%3A298"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/6ba009ec-a314-4fcc-9ecc-ec955c3c2445\/relationships\/parent?resourceVersion=id%3A298"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+      "id": "da2e0953-46e1-4005-baa8-c134a3d27823",
+      "links": {
+        "self": {
+          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/da2e0953-46e1-4005-baa8-c134a3d27823?resourceVersion=id%3A299"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 299,
+        "drupal_internal__revision_id": 299,
+        "langcode": "it",
+        "revision_created": "2022-05-10T10:38:15+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Partecipazione ad appalti pubblici nazionali e transfrontalieri",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-01-20T01:22:50+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "\/eventi-della-vita-di-unimpresa\/partecipazione-ad-appalti-pubblici-nazionali-e-transfrontalieri",
+          "pid": 299,
+          "langcode": "it"
+        }
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "fdedb31a-99d0-4507-806f-23bff78d4c5b",
+            "meta": {
+              "drupal_internal__target_id": "eventi_della_vita_di_un_impresa"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/da2e0953-46e1-4005-baa8-c134a3d27823\/vid?resourceVersion=id%3A299"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/da2e0953-46e1-4005-baa8-c134a3d27823\/relationships\/vid?resourceVersion=id%3A299"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/da2e0953-46e1-4005-baa8-c134a3d27823\/revision_user?resourceVersion=id%3A299"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/da2e0953-46e1-4005-baa8-c134a3d27823\/relationships\/revision_user?resourceVersion=id%3A299"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--eventi_della_vita_di_un_impresa",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/da2e0953-46e1-4005-baa8-c134a3d27823\/parent?resourceVersion=id%3A299"
+            },
+            "self": {
+              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa\/da2e0953-46e1-4005-baa8-c134a3d27823\/relationships\/parent?resourceVersion=id%3A299"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "links": {
+    "self": {
+      "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/eventi_della_vita_di_un_impresa"
+    }
+  }
+}
