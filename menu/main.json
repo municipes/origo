@@ -2,7 +2,12 @@
   "data": [
     {"type": "main", "id": 1, "attributes": {"label": "Amministrazione", "uri": "1", "weight": -50}},
     {"type": "main", "id": 2, "attributes": {"label": "Novità", "uri": "2", "weight": -40}},
-    {"type": "main", "id": 3, "attributes": {"label": "Servizi", "uri": "3"}, "weight": -30},
-    {"type": "main", "id": 4, "attributes": {"label": "Vivere il comune", "uri": "4", "weight": -10}}
+    {"type": "main", "id": 3, "attributes": {"label": "Servizi", "uri": "3", "weight": -30}},
+    {"type": "main", "id": 4, "attributes": {"label": "Vivere il comune", "uri": "4", "weight": -10}},
+    {"type": "main", "id": 5, "attributes": {"label": "Notizie", "uri": "3", "weight": 0}, "parent": {"plid": 2, "menu_name": "main"}},
+    {"type": "main", "id": 6, "attributes": {"label": "Comunicati", "uri": "3", "weight": 2}, "parent": {"plid": 2, "menu_name": "main"}},
+    {"type": "main", "id": 7, "attributes": {"label": "Avvisi", "uri": "3", "weight": 4}, "parent": {"plid": 2, "menu_name": "main"}},
+    {"type": "main", "id": 8, "attributes": {"label": "Luoghi", "uri": "3", "weight": 0}, "parent": {"plid": 4, "menu_name": "main"}},
+    {"type": "main", "id": 9, "attributes": {"label": "Eventi", "uri": "3", "weight": 2}, "parent": {"plid": 4, "menu_name": "main"}}
   ]
 }
