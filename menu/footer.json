@@ -1,8 +1,12 @@
 {
   "data": [
-    {"type": "footer", "id": 201, "attributes": {"label": "Argomenti", "uri": "5", "weight": -50}},
-    {"type": "footer", "id": 202, "attributes": {"label": "Note legali", "uri": "6", "weight": -50}},
-    {"type": "footer", "id": 203, "attributes": {"label": "Dichiarazione di accessibilità", "uri": "7", "weight": -50}},
-    {"type": "footer", "id": 204, "attributes": {"label": "Informativa privacy", "uri": "8", "weight": -50}}
+    {"type": "footer", "id": 201, "attributes": {"label": "Leggi le domande frequenti", "uri": "5", "weight": -50}},
+    {"type": "footer", "id": 202, "attributes": {"label": "Prenota appuntamento", "uri": "6", "weight": -50}},
+    {"type": "footer", "id": 203, "attributes": {"label": "Segnala disservizio", "uri": "7", "weight": -50}},
+    {"type": "footer", "id": 204, "attributes": {"label": "Richiedi assistenza", "uri": "8", "weight": -50}},
+    {"type": "footer", "id": 205, "attributes": {"label": "Informativa privacy", "uri": "8", "weight": -50}},
+    {"type": "footer", "id": 206, "attributes": {"label": "Note legali", "uri": "6", "weight": -50}},
+    {"type": "footer", "id": 207, "attributes": {"label": "Amministrazione trasparente", "uri": "7", "weight": -50}},
+    {"type": "footer", "id": 208, "attributes": {"label": "Dichiarazione di accessibilità", "uri": "7", "weight": -50}}
   ]
 }
