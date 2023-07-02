@@ -7,6 +7,11 @@
     {"type": "pagina", "id": 5, "attributes": {"label": "Argomenti", "desc": ""}},
     {"type": "pagina", "id": 6, "attributes": {"label": "Note legali", "desc": ""}},
     {"type": "pagina", "id": 7, "attributes": {"label": "Dichiarazione di accessibilità", "desc": ""}},
-    {"type": "pagina", "id": 8, "attributes": {"label": "Informativa privacy", "desc": ""}}
+    {"type": "pagina", "id": 8, "attributes": {"label": "Informativa privacy", "desc": ""}},
+    {"type": "pagina", "id": 9, "attributes": {"label": "Notizie", "desc": "Gli ultimi aggiornamenti sugli avvenimenti e la vita culturale nel Comune."}},
+    {"type": "pagina", "id": 10, "attributes": {"label": "Comunicati", "desc": "Le comunicazioni ufficiali del Sindaco, degli organi politici e degli uffici comunali."}},
+    {"type": "pagina", "id": 11, "attributes": {"label": "Avvisi", "desc": "Bandi di gara, avvisi di concorso e tutte le opportunità per cittadini e imprese."}},
+    {"type": "pagina", "id": 12, "attributes": {"label": "Luoghi", "desc": "Biblioteche e musei, parchi e impianti sportivi, farmacie, scuole dell’infanzia, sedi per la celebrazione di matrimoni, piattaforme ecologiche, rete fognaria e idrica."}},
+    {"type": "pagina", "id": 13, "attributes": {"label": "Eventi", "desc": "Calendario delle manifestazioni di interesse culturale, turistico e sportivo"}}
   ]
 }
