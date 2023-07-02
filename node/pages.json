@@ -1,0 +1,12 @@
+{
+  "data": [
+    {"type": "pagina", "id": 1, "attributes": {"label": "Amministrazione", "desc": "Tutte le informazioni sulla struttura amministrativa del Comune. Scopri gli organi politici, gli uffici e il personale e consulta i documenti pubblici, le statistiche e i bandi di gara."}},
+    {"type": "pagina", "id": 2, "attributes": {"label": "Novità", "desc": "Le notizie, i comunicati e gli avvisi per restare aggiornati sulle ultime novità, opportunità e cosa succede nel territorio comunale."}},
+    {"type": "pagina", "id": 3, "attributes": {"label": "Servizi", "desc": "Tutti i servizi comunali per i cittadini, disponibili online o a sportello, per richiedere documenti e permessi, iscriversi a graduatorie ed effettuare pagamenti."}},
+    {"type": "pagina", "id": 4, "attributes": {"label": "Vivere il comune", "desc": "Tutti gli eventi, le iniziative e i luoghi d’interesse per scoprire e vivere il territorio comunale."}},
+    {"type": "pagina", "id": 5, "attributes": {"label": "Argomenti", "desc": ""}},
+    {"type": "pagina", "id": 6, "attributes": {"label": "Note legali", "desc": ""}},
+    {"type": "pagina", "id": 7, "attributes": {"label": "Dichiarazione di accessibilità", "desc": ""}},
+    {"type": "pagina", "id": 8, "attributes": {"label": "Informativa privacy", "desc": ""}}
+  ]
+}
