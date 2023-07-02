@@ -1,0 +1,8 @@
+{
+  "data": [
+    {"type": "footer", "id": 1, "attributes": {"label": "Argomenti", "uri": "5", "weight": -50}},
+    {"type": "footer", "id": 2, "attributes": {"label": "Note legali", "uri": "6", "weight": -50}},
+    {"type": "footer", "id": 3, "attributes": {"label": "Dichiarazione di accessibilità", "uri": "7", "weight": -50}},
+    {"type": "footer", "id": 4, "attributes": {"label": "Informativa privacy", "uri": "8", "weight": -50}}
+  ]
+}

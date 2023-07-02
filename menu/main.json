@@ -1,0 +1,8 @@
+{
+  "data": [
+    {"type": "main", "id": 1, "attributes": {"label": "Amministrazione", "uri": "1", "weight": -50}},
+    {"type": "main", "id": 2, "attributes": {"label": "Novità", "uri": "2", "weight": -40}},
+    {"type": "main", "id": 3, "attributes": {"label": "Servizi", "uri": "3"}, "weight": -30},
+    {"type": "main", "id": 4, "attributes": {"label": "Vivere il comune", "uri": "4", "weight": -10}}
+  ]
+}
