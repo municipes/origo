@@ -1,6 +1,6 @@
 {
   "data": [
     {"type": "solo_testo","id": 6, "uuid": "13ded2e7-a845-444c-8c48-f060df24db48", "attributes": {"info": "Contatti del Comune (footer)", "body": "<p class=\"footer-info\">Comune di Nome Comune<br>Via Roma 123 - 00100 Comune<br>Codice fiscale / P. IVA: 00123456789<br><br><a href=\"#\">Ufficio Relazioni con il Pubblico</a><br>Numero verde: 800 016 123<br>SMS e WhatsApp: +39 320 1234567<br>Posta Elettronica Certificata<br>Centralino unico: 012 3456</p>"}},
-    {"type": "con_paragrafi","id": 7, "uuid": "0ff346e1-ad19-431f-9ecd-30e26c8c6aa8", "attributes": {"info": "Argomenti in evidenza (homepage)", "paragraph": 400}}
+    {"type": "con_paragrafi","id": 7, "uuid": "0ff346e1-ad19-431f-9ecd-30e26c8c6aa8", "attributes": {"info": "Argomenti in evidenza (homepage)", "paragraph": [400]}}
   ]
 }
