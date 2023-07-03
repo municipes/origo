@@ -1,5 +1,5 @@
 {
   "data": [
-    {"id": 6, "attributes": {"body": "Documenti e dati"}}
+    {"type": "solo_testo","id": 6, "attributes": {"info": "Contatti del Comune (footer)", "body": "Documenti e dati"}}
   ]
 }
