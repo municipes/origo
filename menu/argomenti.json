@@ -1,5 +1,5 @@
 {
   "data": [
-    {"type": "argomenti", "id": 201, "attributes": {"label": "Argomenti", "uri": "5", "weight": -50}}
+    {"type": "argomenti", "id": 201, "uuid": "3bc1e196-4a38-4e16-bc66-e2a13c1958d6", "attributes": {"label": "Argomenti", "uri": "5", "weight": -50}}
   ]
 }
