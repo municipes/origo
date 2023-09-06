@@ -1,5 +1,5 @@
 {
   "data": [
-    {"type": "argomenti_in_evidenza","id": 400, "uuid": "6c0ee465-fa0f-47bb-97ff-d32529e389ee", "attributes": {"title": "Argomenti in evidenza", "args": [1, 50, 250], "parent_id": "400", "parent_type": "block_content", "parent_field_name": "field_paragrafi"}}
+    {"type": "argomenti_in_evidenza","id": 400, "uuid": "6c0ee465-fa0f-47bb-97ff-d32529e389ee", "attributes": {"title": "Argomenti in evidenza", "args": [1, 50, 250], "parent_id": "7", "parent_type": "block_content", "parent_field_name": "field_paragrafi"}}
   ]
 }
