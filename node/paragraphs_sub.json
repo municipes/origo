@@ -1,8 +1,8 @@
 {
   "data": [
     {"type": "settings","id": 369, "revision_id": 369, "uuid": "516a342c-049d-48ec-86cf-21a216bba019", "attributes": {"full_width": "0", "enable_container": "0", "color": "", "opacity": "", "parent_id": "370", "parent_type": "paragraph", "parent_field_name": "field_settings"}},
-    {"type": "settings","id": 344, "revision_id": 344, "uuid": "c97e9b6f-1395-4a92-b85a-2feb372cbfb9", "attributes": {"full_width": "1", "enable_container": "1", "color": "#F2F7FC", "opacity": "1", "parent_id": "345", "parent_type": "paragraph", "parent_field_name": "field_settings"}},
-    {"type": "settings","id": 354, "revision_id": 354, "uuid": "d62baf07-e013-4e1c-a2e2-81ae753f5cfc", "attributes": {"full_width": "0", "enable_container": "0", "color": "#E6ECF2", "opacity": "1", "parent_id": "355", "parent_type": "paragraph", "parent_field_name": "field_settings"}},
+    {"type": "settings","id": 344, "revision_id": 344, "uuid": "cf49dc51-b471-4d58-98e9-9ecdbdcc47df", "attributes": {"full_width": "1", "enable_container": "1", "color": "#F2F7FC", "opacity": "1", "parent_id": "345", "parent_type": "paragraph", "parent_field_name": "field_settings"}},
+    {"type": "settings","id": 354, "revision_id": 354, "uuid": "c5a2ce68-0c04-43df-a64c-2ad1abaefe33", "attributes": {"full_width": "0", "enable_container": "0", "color": "#E6ECF2", "opacity": "1", "parent_id": "355", "parent_type": "paragraph", "parent_field_name": "field_settings"}},
     {"type": "settings","id": 415, "revision_id": 415, "uuid": "b86b3dcb-a69c-4263-9d8f-19aa71645717", "attributes": {"full_width": "0", "enable_container": "0", "color": "", "opacity": "", "parent_id": "416", "parent_type": "paragraph", "parent_field_name": "field_settings"}}
   ]
 }
