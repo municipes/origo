@@ -6,7 +6,7 @@
       "attributes": {
         "label": "Amministrazione",
         "desc": "Tutte le informazioni sulla struttura amministrativa del Comune. Scopri gli organi politici, gli uffici e il personale e consulta i documenti pubblici, le statistiche e i bandi di gara.",
-        "components": [370]
+        "components": [362,370]
       }
     },
     {
@@ -14,7 +14,8 @@
       "id": 2,
       "attributes": {
         "label": "Novità",
-        "desc": "Le notizie, i comunicati e gli avvisi per restare aggiornati sulle ultime novità, opportunità e cosa succede nel territorio comunale."
+        "desc": "Le notizie, i comunicati e gli avvisi per restare aggiornati sulle ultime novità, opportunità e cosa succede nel territorio comunale.",
+        "components": [345,355,416]
       }
     },
     {
