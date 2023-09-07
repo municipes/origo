@@ -1,0 +1,5 @@
+{
+  "data": [
+    {"type": "in_evidenza","id": 370, "revision_id": 370, "uuid": "dce8d68f-61e3-4eb7-8059-bb64faee5259", "attributes": {"title": "Esplora l'amministrazione", "settings": [369], "args": [17,18,19,20,21,22,23], "parent_id": "12", "parent_type": "node", "parent_field_name": "field_componenti"}}
+  ]
+}

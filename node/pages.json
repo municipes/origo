@@ -1,24 +1,165 @@
 {
   "data": [
-    {"type": "pagina", "id": 1, "attributes": {"label": "Amministrazione", "desc": "Tutte le informazioni sulla struttura amministrativa del Comune. Scopri gli organi politici, gli uffici e il personale e consulta i documenti pubblici, le statistiche e i bandi di gara."}},
-    {"type": "pagina", "id": 2, "attributes": {"label": "Novità", "desc": "Le notizie, i comunicati e gli avvisi per restare aggiornati sulle ultime novità, opportunità e cosa succede nel territorio comunale."}},
-    {"type": "pagina", "id": 3, "attributes": {"label": "Servizi", "desc": "Tutti i servizi comunali per i cittadini, disponibili online o a sportello, per richiedere documenti e permessi, iscriversi a graduatorie ed effettuare pagamenti."}},
-    {"type": "pagina", "id": 4, "attributes": {"label": "Vivere il comune", "desc": "Tutti gli eventi, le iniziative e i luoghi d’interesse per scoprire e vivere il territorio comunale."}},
-    {"type": "pagina", "id": 5, "attributes": {"label": "Argomenti", "desc": ""}},
-    {"type": "pagina", "id": 6, "attributes": {"label": "Note legali", "desc": ""}},
-    {"type": "pagina", "id": 7, "attributes": {"label": "Dichiarazione di accessibilità", "desc": ""}},
-    {"type": "pagina", "id": 8, "attributes": {"label": "Informativa privacy", "desc": ""}},
-    {"type": "pagina", "id": 9, "attributes": {"label": "Notizie", "desc": "Gli ultimi aggiornamenti sugli avvenimenti e la vita culturale nel Comune."}},
-    {"type": "pagina", "id": 10, "attributes": {"label": "Comunicati", "desc": "Le comunicazioni ufficiali del Sindaco, degli organi politici e degli uffici comunali."}},
-    {"type": "pagina", "id": 11, "attributes": {"label": "Avvisi", "desc": "Bandi di gara, avvisi di concorso e tutte le opportunità per cittadini e imprese."}},
-    {"type": "pagina", "id": 12, "attributes": {"label": "Luoghi", "desc": "Biblioteche e musei, parchi e impianti sportivi, farmacie, scuole dell’infanzia, sedi per la celebrazione di matrimoni, piattaforme ecologiche, rete fognaria e idrica."}},
-    {"type": "pagina", "id": 13, "attributes": {"label": "Eventi", "desc": "Calendario delle manifestazioni di interesse culturale, turistico e sportivo"}},
-    {"type": "pagina", "id": 14, "attributes": {"label": "Organi di governo", "desc": "Composizione di Giunta e Consiglio, nomine di rappresentanti del Comune, Organo di revisione, convocazioni, video sedute e verbali, notizie."}},
-    {"type": "pagina", "id": 15, "attributes": {"label": "Aree amministrative", "desc": "La struttura organizzativa dell'ente è suddivisa in base alle competenze e ai servizi erogati alla comunità."}},
-    {"type": "pagina", "id": 16, "attributes": {"label": "Uffici", "desc": "Gli uffici, o unità organizzative, del comune hanno un ruolo di aggregazione funzionale di compiti."}},
-    {"type": "pagina", "id": 17, "attributes": {"label": "Enti e fondazioni", "desc": "Il Comune per svolgere le proprie funzioni e rappresentare al meglio gli interessi della comunità è presente in varie associazioni, consorzi, enti e società partecipate."}},
-    {"type": "pagina", "id": 18, "attributes": {"label": "Politici", "desc": "L'elenco dei politici del comune per trovare recapiti, competenze, orari di ricevimento"}},
-    {"type": "pagina", "id": 19, "attributes": {"label": "Personale amministrativo", "desc": "Rubrica del personale con possibilità di effettuare ricerche per nominativo, ruolo o struttura di appartenenza."}},
-    {"type": "pagina", "id": 20, "attributes": {"label": "Documenti e dati", "desc": "La documentazione prodotta e pubblicata dal Comune come atti, progetti, bandi, concorsi e modulistica."}}
+    {
+      "type": "pagina",
+      "id": 1,
+      "attributes": {
+        "label": "Amministrazione",
+        "desc": "Tutte le informazioni sulla struttura amministrativa del Comune. Scopri gli organi politici, gli uffici e il personale e consulta i documenti pubblici, le statistiche e i bandi di gara.",
+        "components": [370]
+      }
+    },
+    {
+      "type": "pagina",
+      "id": 2,
+      "attributes": {
+        "label": "Novità",
+        "desc": "Le notizie, i comunicati e gli avvisi per restare aggiornati sulle ultime novità, opportunità e cosa succede nel territorio comunale."
+      }
+    },
+    {
+      "type": "pagina",
+      "id": 3,
+      "attributes": {
+        "label": "Servizi",
+        "desc": "Tutti i servizi comunali per i cittadini, disponibili online o a sportello, per richiedere documenti e permessi, iscriversi a graduatorie ed effettuare pagamenti."
+      }
+    },
+    {
+      "type": "pagina",
+      "id": 4,
+      "attributes": {
+        "label": "Vivere il comune",
+        "desc": "Tutti gli eventi, le iniziative e i luoghi d’interesse per scoprire e vivere il territorio comunale."
+      }
+    },
+    {
+      "type": "pagina",
+      "id": 5,
+      "attributes": {
+        "label": "Argomenti",
+        "desc": ""
+      }
+    },
+    {
+      "type": "pagina",
+      "id": 6,
+      "attributes": {
+        "label": "Note legali",
+        "desc": ""
+      }
+    },
+    {
+      "type": "pagina",
+      "id": 7,
+      "attributes": {
+        "label": "Dichiarazione di accessibilità",
+        "desc": ""
+      }
+    },
+    {
+      "type": "pagina",
+      "id": 8,
+      "attributes": {
+        "label": "Informativa privacy",
+        "desc": ""
+      }
+    },
+    {
+      "type": "pagina",
+      "id": 9,
+      "attributes": {
+        "label": "Notizie",
+        "desc": "Gli ultimi aggiornamenti sugli avvenimenti e la vita culturale nel Comune."
+      }
+    },
+    {
+      "type": "pagina",
+      "id": 10,
+      "attributes": {
+        "label": "Comunicati",
+        "desc": "Le comunicazioni ufficiali del Sindaco, degli organi politici e degli uffici comunali."
+      }
+    },
+    {
+      "type": "pagina",
+      "id": 11,
+      "attributes": {
+        "label": "Avvisi",
+        "desc": "Bandi di gara, avvisi di concorso e tutte le opportunità per cittadini e imprese."
+      }
+    },
+    {
+      "type": "pagina",
+      "id": 12,
+      "attributes": {
+        "label": "Luoghi",
+        "desc": "Biblioteche e musei, parchi e impianti sportivi, farmacie, scuole dell’infanzia, sedi per la celebrazione di matrimoni, piattaforme ecologiche, rete fognaria e idrica."
+      }
+    },
+    {
+      "type": "pagina",
+      "id": 13,
+      "attributes": {
+        "label": "Eventi",
+        "desc": "Calendario delle manifestazioni di interesse culturale, turistico e sportivo"
+      }
+    },
+    {
+      "type": "pagina",
+      "id": 14,
+      "attributes": {
+        "label": "Organi di governo",
+        "desc": "Composizione di Giunta e Consiglio, nomine di rappresentanti del Comune, Organo di revisione, convocazioni, video sedute e verbali, notizie."
+      }
+    },
+    {
+      "type": "pagina",
+      "id": 15,
+      "attributes": {
+        "label": "Aree amministrative",
+        "desc": "La struttura organizzativa dell'ente è suddivisa in base alle competenze e ai servizi erogati alla comunità."
+      }
+    },
+    {
+      "type": "pagina",
+      "id": 16,
+      "attributes": {
+        "label": "Uffici",
+        "desc": "Gli uffici, o unità organizzative, del comune hanno un ruolo di aggregazione funzionale di compiti."
+      }
+    },
+    {
+      "type": "pagina",
+      "id": 17,
+      "attributes": {
+        "label": "Enti e fondazioni",
+        "desc": "Il Comune per svolgere le proprie funzioni e rappresentare al meglio gli interessi della comunità è presente in varie associazioni, consorzi, enti e società partecipate."
+      }
+    },
+    {
+      "type": "pagina",
+      "id": 18,
+      "attributes": {
+        "label": "Politici",
+        "desc": "L'elenco dei politici del comune per trovare recapiti, competenze, orari di ricevimento"
+      }
+    },
+    {
+      "type": "pagina",
+      "id": 19,
+      "attributes": {
+        "label": "Personale amministrativo",
+        "desc": "Rubrica del personale con possibilità di effettuare ricerche per nominativo, ruolo o struttura di appartenenza."
+      }
+    },
+    {
+      "type": "pagina",
+      "id": 20,
+      "attributes": {
+        "label": "Documenti e dati",
+        "desc": "La documentazione prodotta e pubblicata dal Comune come atti, progetti, bandi, concorsi e modulistica."
+      }
+    }
   ]
 }
