@@ -28,7 +28,7 @@
         "name": "Anagrafe e stato civile",
         "description": {
           "value": "Documenti d\u2019identit\u00e0, cambio di residenza, servizi elettorali, cimiteriali e certificati per nascita, matrimoni e unioni civili.",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "Documenti d\u2019identit\u00e0, cambio di residenza, servizi elettorali, cimiteriali e certificati per nascita, matrimoni e unioni civili."
         },
         "weight": 0,
@@ -116,7 +116,7 @@
         "name": "Cultura e tempo libero",
         "description": {
           "value": "Luoghi della cultura e dell\u2019arte, impianti sportivi e richieste di contributi per la cultura, lo spettacolo e lo sport.",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "Luoghi della cultura e dell\u2019arte, impianti sportivi e richieste di contributi per la cultura, lo spettacolo e lo sport."
         },
         "weight": 0,
@@ -204,7 +204,7 @@
         "name": "Vita lavorativa",
         "description": {
           "value": "Lavoro, concorsi e selezioni, licenze, abilitazioni professionali e sicurezza sul lavoro.",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "Lavoro, concorsi e selezioni, licenze, abilitazioni professionali e sicurezza sul lavoro."
         },
         "weight": 0,
@@ -292,7 +292,7 @@
         "name": "Appalti pubblici",
         "description": {
           "value": "Gare d\u2019appalto e avvisi per lavori, servizi e forniture al Comune.",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "Gare d\u2019appalto e avvisi per lavori, servizi e forniture al Comune."
         },
         "weight": 0,
@@ -380,7 +380,7 @@
         "name": "Catasto e urbanistica",
         "description": {
           "value": "Piani urbanistici, piani paesaggistici e tutti i certificati per immobili, case, terreni ed edifici. ",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "Piani urbanistici, piani paesaggistici e tutti i certificati per immobili, case, terreni ed edifici."
         },
         "weight": 0,
@@ -468,7 +468,7 @@
         "name": "Turismo",
         "description": {
           "value": "Sostegno e sviluppo del turismo, strutture ricettive e informazioni turistiche.",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "Sostegno e sviluppo del turismo, strutture ricettive e informazioni turistiche."
         },
         "weight": 0,
@@ -556,7 +556,7 @@
         "name": "Mobilit\u00e0 e trasporti",
         "description": {
           "value": "Parcheggi, viabilit\u00e0, automobili e trasporto pubblico.",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "Parcheggi, viabilit\u00e0, automobili e trasporto pubblico."
         },
         "weight": 0,
@@ -644,7 +644,7 @@
         "name": "Educazione e formazione",
         "description": {
           "value": "Iscrizioni, agevolazioni e servizi per nidi, scuole e universit\u00e0.",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "Iscrizioni, agevolazioni e servizi per nidi, scuole e universit\u00e0."
         },
         "weight": 0,
@@ -732,7 +732,7 @@
         "name": "Giustizia e sicurezza pubblica",
         "description": {
           "value": "Polizia municipale, tribunale e Protezione civile.",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "Polizia municipale, tribunale e Protezione civile."
         },
         "weight": 0,
@@ -820,7 +820,7 @@
         "name": "Tributi, finanze e contravvenzioni",
         "description": {
           "value": "\u003Cp\u003ETasse e tributi su immobili, rifiuti, affissioni e pubblicit\u00e0.\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003ETasse e tributi su immobili, rifiuti, affissioni e pubblicit\u00e0.\u003C\/p\u003E"
         },
         "weight": 0,
@@ -908,7 +908,7 @@
         "name": "Ambiente",
         "description": {
           "value": "Aree verdi e parchi, inquinamento, igiene urbana e rifiuti.",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "Aree verdi e parchi, inquinamento, igiene urbana e rifiuti."
         },
         "weight": 0,
@@ -996,7 +996,7 @@
         "name": "Salute, benessere e assistenza",
         "description": {
           "value": "Servizi santirari e di sostegno per minori, famiglie, anziani e persone con disabilit\u00e0.",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "Servizi santirari e di sostegno per minori, famiglie, anziani e persone con disabilit\u00e0."
         },
         "weight": 0,
@@ -1084,7 +1084,7 @@
         "name": "Autorizzazioni",
         "description": {
           "value": "Autorizzazioni, permessi, licenze, concessioni di suolo, passi carrabili e prestito di beni del Comune.",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "Autorizzazioni, permessi, licenze, concessioni di suolo, passi carrabili e prestito di beni del Comune."
         },
         "weight": 0,
@@ -1172,7 +1172,7 @@
         "name": "Agricoltura e pesca",
         "description": {
           "value": "Autorizzazioni e politiche alimentari per agricoltura e pesca",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "Autorizzazioni e politiche alimentari per agricoltura e pesca"
         },
         "weight": 0,
@@ -1260,7 +1260,7 @@
         "name": "Imprese e commercio",
         "description": {
           "value": "Avvio di un\u2019attivit\u00e0, commercio, autorizzazioni e concessioni per attivit\u00e0 produttive, mercati, incentivi e supporto alle imprese.",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "Avvio di un\u2019attivit\u00e0, commercio, autorizzazioni e concessioni per attivit\u00e0 produttive, mercati, incentivi e supporto alle imprese."
         },
         "weight": 0,

@@ -28,7 +28,7 @@
         "name": "Avviso",
         "description": {
           "value": "Bandi di gara, avvisi di concorso e tutte le opportunit\u00e0 per cittadini e imprese.",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "Bandi di gara, avvisi di concorso e tutte le opportunit\u00e0 per cittadini e imprese."
         },
         "weight": 0,
@@ -116,7 +116,7 @@
         "name": "Comunicato stampa",
         "description": {
           "value": "Le comunicazioni ufficiali del Sindaco, degli organi politici e degli uffici comunali.",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "Le comunicazioni ufficiali del Sindaco, degli organi politici e degli uffici comunali."
         },
         "weight": 0,
@@ -204,7 +204,7 @@
         "name": "Notizia",
         "description": {
           "value": "Gli ultimi aggiornamenti sugli avvenimenti e la vita culturale nel Comune.",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "Gli ultimi aggiornamenti sugli avvenimenti e la vita culturale nel Comune."
         },
         "weight": 0,

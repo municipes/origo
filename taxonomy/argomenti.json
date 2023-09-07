@@ -28,7 +28,7 @@
         "name": "Accesso all\u0027informazione",
         "description": {
           "value": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\u003C\/p\u003E"
         },
         "weight": 0,
@@ -412,7 +412,7 @@
         "name": "Agricoltura",
         "description": {
           "value": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\u003C\/p\u003E"
         },
         "weight": 0,
@@ -992,7 +992,7 @@
         "name": "Acqua",
         "description": {
           "value": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\u003C\/p\u003E"
         },
         "weight": 0,
@@ -1762,7 +1762,7 @@
         "name": "Animale domestico",
         "description": {
           "value": "\u003Cp\u003EInformazioni sui servizi e le norme previste dal comune per gli animali domestici.\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003EInformazioni sui servizi e le norme previste dal comune per gli animali domestici.\u003C\/p\u003E"
         },
         "weight": 0,
@@ -2437,7 +2437,7 @@
         "name": "Cantieri in citt\u00e0",
         "description": {
           "value": "\u003Cp\u003EUn ricco programma di appuntamenti: eventi culturali, ricreativi, concerti, mostre, cinema, ed altro ancora in diversi luoghi della citt\u00e0.\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003EUn ricco programma di appuntamenti: eventi culturali, ricreativi, concerti, mostre, cinema, ed altro ancora in diversi luoghi della citt\u00e0.\u003C\/p\u003E"
         },
         "weight": 0,
@@ -2631,7 +2631,7 @@
         "name": "Estate in citt\u00e0",
         "description": {
           "value": "\u003Cp\u003EUn ricco programma di appuntamenti: eventi culturali, ricreativi, concerti, mostre, cinema, ed altro ancora in diversi luoghi della citt\u00e0.\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003EUn ricco programma di appuntamenti: eventi culturali, ricreativi, concerti, mostre, cinema, ed altro ancora in diversi luoghi della citt\u00e0.\u003C\/p\u003E"
         },
         "weight": 0,
@@ -2730,7 +2730,7 @@
         "name": "Sport",
         "description": {
           "value": "\u003Cp\u003ETutto quello che c\u0027\u00e8 da sapere sulle strutture sportive comunali a disposizione del pubblico e delle Associazioni, le iniziative a sostegno dello sport e gli eventi che coinvolgono la citt\u00e0.\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003ETutto quello che c\u0027\u00e8 da sapere sulle strutture sportive comunali a disposizione del pubblico e delle Associazioni, le iniziative a sostegno dello sport e gli eventi che coinvolgono la citt\u00e0.\u003C\/p\u003E"
         },
         "weight": 0,
@@ -3304,7 +3304,7 @@
         "name": "Aria",
         "description": {
           "value": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\u003C\/p\u003E"
         },
         "weight": 0,
@@ -4074,7 +4074,7 @@
         "name": "Trasporto pubblico",
         "description": {
           "value": "\u003Cp\u003EInformazioni sui servizi di trasporto pubblico e servizi taxi\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003EInformazioni sui servizi di trasporto pubblico e servizi taxi\u003C\/p\u003E"
         },
         "weight": 0,
@@ -4363,7 +4363,7 @@
         "name": "Assistenza agli invalidi",
         "description": {
           "value": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\u003C\/p\u003E"
         },
         "weight": 0,
@@ -4753,7 +4753,7 @@
         "name": "Assistenza sociale",
         "description": {
           "value": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\u003C\/p\u003E"
         },
         "weight": 0,

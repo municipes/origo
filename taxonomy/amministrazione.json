@@ -28,7 +28,7 @@
         "name": "Organi di governo",
         "description": {
           "value": "Le informazioni sulla Giunta e il Consiglio comunale, incluse le convocazioni, le registrazioni delle sedute e i verbali.",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "Le informazioni sulla Giunta e il Consiglio comunale, incluse le convocazioni, le registrazioni delle sedute e i verbali."
         },
         "weight": 0,
@@ -116,7 +116,7 @@
         "name": "Aree amministrative",
         "description": {
           "value": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003ELa struttura organizzativa \u00e8 suddivisa in aree di competenze che gestiscono i servizi erogati alla comunit\u00e0.\u003C\/p\u003E"
         },
         "weight": 0,
@@ -204,7 +204,7 @@
         "name": "Uffici",
         "description": {
           "value": "Le informazioni e i contatti degli Uffici di Citt\u00e0, gli uffici aperti al pubblico e gli uffici assistenziali.",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "Le informazioni e i contatti degli Uffici di Citt\u00e0, gli uffici aperti al pubblico e gli uffici assistenziali."
         },
         "weight": 0,
@@ -292,7 +292,7 @@
         "name": "Enti e fondazioni",
         "description": {
           "value": "I consorzi, gli enti e le societ\u00e0 partecipate di cui il Comune fa parte per rappresentare al meglio gli interessi della comunit\u00e0.",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "I consorzi, gli enti e le societ\u00e0 partecipate di cui il Comune fa parte per rappresentare al meglio gli interessi della comunit\u00e0."
         },
         "weight": 0,
@@ -380,7 +380,7 @@
         "name": "Politici",
         "description": {
           "value": "Tutti i rappresentanti dei cittadini che compongono gli organi di indirizzo politico del Comune.",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "Tutti i rappresentanti dei cittadini che compongono gli organi di indirizzo politico del Comune."
         },
         "weight": 0,
@@ -468,7 +468,7 @@
         "name": "Personale amministrativo",
         "description": {
           "value": "Personale da contattare per informazioni e supporto ai servizi erogati dagli uffici.",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "Personale da contattare per informazioni e supporto ai servizi erogati dagli uffici."
         },
         "weight": 0,
@@ -556,7 +556,7 @@
         "name": "Documenti e dati",
         "description": {
           "value": "Bandi di concorso, avvisi, graduatorie, statistiche e documenti pubblici.",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "Bandi di concorso, avvisi, graduatorie, statistiche e documenti pubblici."
         },
         "weight": 0,

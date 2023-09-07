@@ -28,7 +28,7 @@
         "name": "Documento albo Pretorio",
         "description": {
           "value": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\u003C\/p\u003E"
         },
         "weight": 0,
@@ -116,7 +116,7 @@
         "name": "Modulistica",
         "description": {
           "value": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\u003C\/p\u003E"
         },
         "weight": 0,
@@ -204,7 +204,7 @@
         "name": "Documento funzionamento interno",
         "description": {
           "value": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\u003C\/p\u003E"
         },
         "weight": 0,
@@ -292,7 +292,7 @@
         "name": "Atto normativo",
         "description": {
           "value": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\u003C\/p\u003E"
         },
         "weight": 0,
@@ -380,7 +380,7 @@
         "name": "Accordo tra enti",
         "description": {
           "value": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\u003C\/p\u003E"
         },
         "weight": 0,
@@ -468,7 +468,7 @@
         "name": "Documento attivit\u00e0 politica",
         "description": {
           "value": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\u003C\/p\u003E"
         },
         "weight": 0,
@@ -556,7 +556,7 @@
         "name": "Documento (tecnico) di supporto",
         "description": {
           "value": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\u003C\/p\u003E"
         },
         "weight": 0,
@@ -644,7 +644,7 @@
         "name": "Istanza",
         "description": {
           "value": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\u003C\/p\u003E"
         },
         "weight": 0,
@@ -732,7 +732,7 @@
         "name": "Documento di programmazione e rendicontazione",
         "description": {
           "value": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\u003C\/p\u003E"
         },
         "weight": 0,
@@ -820,7 +820,7 @@
         "name": "Dataset",
         "description": {
           "value": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\u003C\/p\u003E\r\n",
-          "format": "basic_html",
+          "format": "bootstrap_italia_2",
           "processed": "\u003Cp\u003ELorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\u003C\/p\u003E"
         },
         "weight": 0,
