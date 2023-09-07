@@ -109,29 +109,21 @@
       "type": "pagina",
       "id": 14,
       "attributes": {
-        "label": "Organi di governo",
-        "desc": "Composizione di Giunta e Consiglio, nomine di rappresentanti del Comune, Organo di revisione, convocazioni, video sedute e verbali, notizie."
-      }
-    },
-    {
-      "type": "pagina",
-      "id": 15,
-      "attributes": {
         "label": "Aree amministrative",
         "desc": "La struttura organizzativa dell'ente è suddivisa in base alle competenze e ai servizi erogati alla comunità."
       }
     },
     {
       "type": "pagina",
-      "id": 16,
+      "id": 15,
       "attributes": {
-        "label": "Uffici",
-        "desc": "Gli uffici, o unità organizzative, del comune hanno un ruolo di aggregazione funzionale di compiti."
+        "label": "Documenti e dati",
+        "desc": "La documentazione prodotta e pubblicata dal Comune come atti, progetti, bandi, concorsi e modulistica."
       }
     },
     {
       "type": "pagina",
-      "id": 17,
+      "id": 16,
       "attributes": {
         "label": "Enti e fondazioni",
         "desc": "Il Comune per svolgere le proprie funzioni e rappresentare al meglio gli interessi della comunità è presente in varie associazioni, consorzi, enti e società partecipate."
@@ -139,15 +131,15 @@
     },
     {
       "type": "pagina",
-      "id": 18,
+      "id": 17,
       "attributes": {
-        "label": "Politici",
-        "desc": "L'elenco dei politici del comune per trovare recapiti, competenze, orari di ricevimento"
+        "label": "Organi di governo",
+        "desc": "Composizione di Giunta e Consiglio, nomine di rappresentanti del Comune, Organo di revisione, convocazioni, video sedute e verbali, notizie."
       }
     },
     {
       "type": "pagina",
-      "id": 19,
+      "id": 18,
       "attributes": {
         "label": "Personale amministrativo",
         "desc": "Rubrica del personale con possibilità di effettuare ricerche per nominativo, ruolo o struttura di appartenenza."
@@ -155,10 +147,18 @@
     },
     {
       "type": "pagina",
+      "id": 19,
+      "attributes": {
+        "label": "Politici",
+        "desc": "L'elenco dei politici del comune per trovare recapiti, competenze, orari di ricevimento"
+      }
+    },
+    {
+      "type": "pagina",
       "id": 20,
       "attributes": {
-        "label": "Documenti e dati",
-        "desc": "La documentazione prodotta e pubblicata dal Comune come atti, progetti, bandi, concorsi e modulistica."
+        "label": "Uffici",
+        "desc": "Gli uffici, o unità organizzative, del comune hanno un ruolo di aggregazione funzionale di compiti."
       }
     }
   ]
