@@ -1,9 +1,9 @@
 {
   "data": [
-    {"type": "in_evidenza","id": 362, "revision_id": 362, "uuid": "2e5fc316-40e6-4250-9631-253ab609c3f6", "attributes": {"title": "In evidenza", "settings": [], "args": [], "parent_id": "12", "parent_type": "node", "parent_field_name": "field_componenti"}},
-    {"type": "in_evidenza","id": 370, "revision_id": 370, "uuid": "dce8d68f-61e3-4eb7-8059-bb64faee5259", "attributes": {"title": "Esplora l'amministrazione", "settings": [369], "args": [14,15,16,17,18,19,20], "parent_id": "12", "parent_type": "node", "parent_field_name": "field_componenti"}},
-    {"type": "in_evidenza","id": 345, "revision_id": 345, "uuid": "c97e9b6f-1395-4a92-b85a-2feb372cbfb9", "attributes": {"title": "In evidenza", "settings": [344], "args": [], "parent_id": "6", "parent_type": "node", "parent_field_name": "field_componenti"}},
-    {"type": "vista","id": 355, "revision_id": 355, "uuid": "d62baf07-e013-4e1c-a2e2-81ae753f5cfc", "attributes": {"title": "Esplora tutte le novità", "settings": [354], "view_id": ["bi_tutte_le_novita"], "view_display": ["tutte_le_novita"], "parent_id": "6", "parent_type": "node", "parent_field_name": "field_componenti"}},
-    {"type": "vista","id": 416, "revision_id": 416, "uuid": "187fe0d9-208a-4f11-bbff-cd01af734502", "attributes": {"title": "Esplora per categoria", "settings": [415], "view_id": ["bi_categorie_news"], "view_display": ["block_1"], "parent_id": "6", "parent_type": "node", "parent_field_name": "field_componenti"}}
+    {"type": "in_evidenza","id": 362, "revision_id": 362, "uuid": "2e5fc316-40e6-4250-9631-253ab609c3f6", "attributes": {"title": "In evidenza", "settings": [], "args": [], "parent_id": "1", "parent_type": "node", "parent_field_name": "field_componenti"}},
+    {"type": "in_evidenza","id": 370, "revision_id": 370, "uuid": "dce8d68f-61e3-4eb7-8059-bb64faee5259", "attributes": {"title": "Esplora l'amministrazione", "settings": [369], "args": [14,15,16,17,18,19,20], "parent_id": "1", "parent_type": "node", "parent_field_name": "field_componenti"}},
+    {"type": "in_evidenza","id": 345, "revision_id": 345, "uuid": "c97e9b6f-1395-4a92-b85a-2feb372cbfb9", "attributes": {"title": "In evidenza", "settings": [344], "args": [], "parent_id": "2", "parent_type": "node", "parent_field_name": "field_componenti"}},
+    {"type": "vista","id": 355, "revision_id": 355, "uuid": "d62baf07-e013-4e1c-a2e2-81ae753f5cfc", "attributes": {"title": "Esplora tutte le novità", "settings": [354], "view_id": ["bi_tutte_le_novita"], "view_display": ["tutte_le_novita"], "parent_id": "2", "parent_type": "node", "parent_field_name": "field_componenti"}},
+    {"type": "vista","id": 416, "revision_id": 416, "uuid": "187fe0d9-208a-4f11-bbff-cd01af734502", "attributes": {"title": "Esplora per categoria", "settings": [415], "view_id": ["bi_categorie_news"], "view_display": ["block_1"], "parent_id": "2", "parent_type": "node", "parent_field_name": "field_componenti"}}
   ]
 }
