@@ -6,7 +6,7 @@
       "attributes": {
         "label": "Amministrazione",
         "desc": "Tutte le informazioni sulla struttura amministrativa del Comune. Scopri gli organi politici, gli uffici e il personale e consulta i documenti pubblici, le statistiche e i bandi di gara.",
-        "components": [362,370]
+        "components": [101,102]
       }
     },
     {
@@ -15,7 +15,7 @@
       "attributes": {
         "label": "Novità",
         "desc": "Le notizie, i comunicati e gli avvisi per restare aggiornati sulle ultime novità, opportunità e cosa succede nel territorio comunale.",
-        "components": [345,355,416]
+        "components": [103,104,105]
       }
     },
     {
@@ -23,7 +23,8 @@
       "id": 3,
       "attributes": {
         "label": "Servizi",
-        "desc": "Tutti i servizi comunali per i cittadini, disponibili online o a sportello, per richiedere documenti e permessi, iscriversi a graduatorie ed effettuare pagamenti."
+        "desc": "Tutti i servizi comunali per i cittadini, disponibili online o a sportello, per richiedere documenti e permessi, iscriversi a graduatorie ed effettuare pagamenti.",
+        "components": [106,107]
       }
     },
     {
