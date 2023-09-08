@@ -5,6 +5,8 @@
     {"type": "settings","id": 3, "revision_id": 3, "uuid": "c5a2ce68-0c04-43df-a64c-2ad1abaefe33", "attributes": {"full_width": "0", "enable_container": "0", "color": "#E6ECF2", "opacity": "1", "parent_id": "104", "parent_type": "paragraph", "parent_field_name": "field_settings"}},
     {"type": "settings","id": 4, "revision_id": 4, "uuid": "b86b3dcb-a69c-4263-9d8f-19aa71645717", "attributes": {"full_width": "0", "enable_container": "0", "color": "", "opacity": "", "parent_id": "105", "parent_type": "paragraph", "parent_field_name": "field_settings"}},
     {"type": "settings","id": 5, "revision_id": 5, "uuid": "fe7b9a70-ed3b-4868-bf0b-df2ab7a707d9", "attributes": {"full_width": "0", "enable_container": "0", "color": "#E6ECF2", "opacity": "1", "parent_id": "106", "parent_type": "paragraph", "parent_field_name": "field_settings"}},
-    {"type": "settings","id": 6, "revision_id": 6, "uuid": "52f60aca-d5a8-4972-8dbf-c33f49fd56f4", "attributes": {"full_width": "0", "enable_container": "0", "color": "#E6ECF2", "opacity": "1", "parent_id": "107", "parent_type": "paragraph", "parent_field_name": "field_settings"}}
+    {"type": "settings","id": 6, "revision_id": 6, "uuid": "52f60aca-d5a8-4972-8dbf-c33f49fd56f4", "attributes": {"full_width": "0", "enable_container": "0", "color": "", "opacity": "0", "parent_id": "107", "parent_type": "paragraph", "parent_field_name": "field_settings"}},
+    {"type": "settings","id": 7, "revision_id": 7, "uuid": "5cdfc997-f3ea-44ad-9022-2095df2b9f04", "attributes": {"full_width": "1", "enable_container": "1", "color": "#E6ECF2", "opacity": "1", "parent_id": "108", "parent_type": "paragraph", "parent_field_name": "field_settings"}},
+    {"type": "settings","id": 8, "revision_id": 8, "uuid": "9bfb684f-b233-455a-8957-84a48e671503", "attributes": {"full_width": "0", "enable_container": "0", "color": "", "opacity": "0", "parent_id": "109", "parent_type": "paragraph", "parent_field_name": "field_settings"}}
   ]
 }
