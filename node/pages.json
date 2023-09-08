@@ -32,7 +32,8 @@
       "id": 4,
       "attributes": {
         "label": "Vivere il comune",
-        "desc": "Tutti gli eventi, le iniziative e i luoghi d’interesse per scoprire e vivere il territorio comunale."
+        "desc": "Tutti gli eventi, le iniziative e i luoghi d’interesse per scoprire e vivere il territorio comunale.",
+        "components": [106,107]
       }
     },
     {
