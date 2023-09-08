@@ -41,7 +41,10 @@
       "id": 5,
       "attributes": {
         "label": "Argomenti",
-        "desc": ""
+        "desc": "",
+        "components": []
+      }
+    }
       }
     },
     {
@@ -49,7 +52,10 @@
       "id": 6,
       "attributes": {
         "label": "Note legali",
-        "desc": ""
+        "desc": "",
+        "components": []
+      }
+    }
       }
     },
     {
@@ -57,7 +63,10 @@
       "id": 7,
       "attributes": {
         "label": "Dichiarazione di accessibilità",
-        "desc": ""
+        "desc": "",
+        "components": []
+      }
+    }
       }
     },
     {
@@ -65,7 +74,10 @@
       "id": 8,
       "attributes": {
         "label": "Informativa privacy",
-        "desc": ""
+        "desc": "",
+        "components": []
+      }
+    }
       }
     },
     {
@@ -73,7 +85,10 @@
       "id": 9,
       "attributes": {
         "label": "Notizie",
-        "desc": "Gli ultimi aggiornamenti sugli avvenimenti e la vita culturale nel Comune."
+        "desc": "Gli ultimi aggiornamenti sugli avvenimenti e la vita culturale nel Comune.",
+        "components": []
+      }
+    }
       }
     },
     {
@@ -81,7 +96,10 @@
       "id": 10,
       "attributes": {
         "label": "Comunicati",
-        "desc": "Le comunicazioni ufficiali del Sindaco, degli organi politici e degli uffici comunali."
+        "desc": "Le comunicazioni ufficiali del Sindaco, degli organi politici e degli uffici comunali.",
+        "components": []
+      }
+    }
       }
     },
     {
@@ -89,7 +107,10 @@
       "id": 11,
       "attributes": {
         "label": "Avvisi",
-        "desc": "Bandi di gara, avvisi di concorso e tutte le opportunità per cittadini e imprese."
+        "desc": "Bandi di gara, avvisi di concorso e tutte le opportunità per cittadini e imprese.",
+        "components": []
+      }
+    }
       }
     },
     {
@@ -97,7 +118,10 @@
       "id": 12,
       "attributes": {
         "label": "Luoghi",
-        "desc": "Biblioteche e musei, parchi e impianti sportivi, farmacie, scuole dell’infanzia, sedi per la celebrazione di matrimoni, piattaforme ecologiche, rete fognaria e idrica."
+        "desc": "Biblioteche e musei, parchi e impianti sportivi, farmacie, scuole dell’infanzia, sedi per la celebrazione di matrimoni, piattaforme ecologiche, rete fognaria e idrica.",
+        "components": []
+      }
+    }
       }
     },
     {
@@ -105,7 +129,10 @@
       "id": 13,
       "attributes": {
         "label": "Eventi",
-        "desc": "Calendario delle manifestazioni di interesse culturale, turistico e sportivo"
+        "desc": "Calendario delle manifestazioni di interesse culturale, turistico e sportivo",
+        "components": []
+      }
+    }
       }
     },
     {
@@ -113,7 +140,10 @@
       "id": 14,
       "attributes": {
         "label": "Aree amministrative",
-        "desc": "La struttura organizzativa dell'ente è suddivisa in base alle competenze e ai servizi erogati alla comunità."
+        "desc": "La struttura organizzativa dell'ente è suddivisa in base alle competenze e ai servizi erogati alla comunità.",
+        "components": [110]
+      }
+    }
       }
     },
     {
@@ -121,7 +151,10 @@
       "id": 15,
       "attributes": {
         "label": "Documenti e dati",
-        "desc": "La documentazione prodotta e pubblicata dal Comune come atti, progetti, bandi, concorsi e modulistica."
+        "desc": "La documentazione prodotta e pubblicata dal Comune come atti, progetti, bandi, concorsi e modulistica.",
+        "components": [111]
+      }
+    }
       }
     },
     {
@@ -129,7 +162,10 @@
       "id": 16,
       "attributes": {
         "label": "Enti e fondazioni",
-        "desc": "Il Comune per svolgere le proprie funzioni e rappresentare al meglio gli interessi della comunità è presente in varie associazioni, consorzi, enti e società partecipate."
+        "desc": "Il Comune per svolgere le proprie funzioni e rappresentare al meglio gli interessi della comunità è presente in varie associazioni, consorzi, enti e società partecipate.",
+        "components": [112]
+      }
+    }
       }
     },
     {
@@ -137,7 +173,10 @@
       "id": 17,
       "attributes": {
         "label": "Organi di governo",
-        "desc": "Composizione di Giunta e Consiglio, nomine di rappresentanti del Comune, Organo di revisione, convocazioni, video sedute e verbali, notizie."
+        "desc": "Composizione di Giunta e Consiglio, nomine di rappresentanti del Comune, Organo di revisione, convocazioni, video sedute e verbali, notizie.",
+        "components": [113]
+      }
+    }
       }
     },
     {
@@ -145,7 +184,10 @@
       "id": 18,
       "attributes": {
         "label": "Personale amministrativo",
-        "desc": "Rubrica del personale con possibilità di effettuare ricerche per nominativo, ruolo o struttura di appartenenza."
+        "desc": "Rubrica del personale con possibilità di effettuare ricerche per nominativo, ruolo o struttura di appartenenza.",
+        "components": [114]
+      }
+    }
       }
     },
     {
@@ -153,7 +195,10 @@
       "id": 19,
       "attributes": {
         "label": "Politici",
-        "desc": "L'elenco dei politici del comune per trovare recapiti, competenze, orari di ricevimento"
+        "desc": "L'elenco dei politici del comune per trovare recapiti, competenze, orari di ricevimento",
+        "components": [115]
+      }
+    }
       }
     },
     {
@@ -161,7 +206,10 @@
       "id": 20,
       "attributes": {
         "label": "Uffici",
-        "desc": "Gli uffici, o unità organizzative, del comune hanno un ruolo di aggregazione funzionale di compiti."
+        "desc": "Gli uffici, o unità organizzative, del comune hanno un ruolo di aggregazione funzionale di compiti.",
+        "components": [116]
+      }
+    }
       }
     }
   ]
