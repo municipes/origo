@@ -44,8 +44,6 @@
         "desc": "",
         "components": []
       }
-    }
-      }
     },
     {
       "type": "pagina",
@@ -54,8 +52,6 @@
         "label": "Note legali",
         "desc": "",
         "components": []
-      }
-    }
       }
     },
     {
@@ -66,8 +62,6 @@
         "desc": "",
         "components": []
       }
-    }
-      }
     },
     {
       "type": "pagina",
@@ -76,8 +70,6 @@
         "label": "Informativa privacy",
         "desc": "",
         "components": []
-      }
-    }
       }
     },
     {
@@ -88,8 +80,6 @@
         "desc": "Gli ultimi aggiornamenti sugli avvenimenti e la vita culturale nel Comune.",
         "components": []
       }
-    }
-      }
     },
     {
       "type": "pagina",
@@ -98,8 +88,6 @@
         "label": "Comunicati",
         "desc": "Le comunicazioni ufficiali del Sindaco, degli organi politici e degli uffici comunali.",
         "components": []
-      }
-    }
       }
     },
     {
@@ -110,8 +98,6 @@
         "desc": "Bandi di gara, avvisi di concorso e tutte le opportunità per cittadini e imprese.",
         "components": []
       }
-    }
-      }
     },
     {
       "type": "pagina",
@@ -120,8 +106,6 @@
         "label": "Luoghi",
         "desc": "Biblioteche e musei, parchi e impianti sportivi, farmacie, scuole dell’infanzia, sedi per la celebrazione di matrimoni, piattaforme ecologiche, rete fognaria e idrica.",
         "components": []
-      }
-    }
       }
     },
     {
@@ -132,8 +116,6 @@
         "desc": "Calendario delle manifestazioni di interesse culturale, turistico e sportivo",
         "components": []
       }
-    }
-      }
     },
     {
       "type": "pagina",
@@ -142,8 +124,6 @@
         "label": "Aree amministrative",
         "desc": "La struttura organizzativa dell'ente è suddivisa in base alle competenze e ai servizi erogati alla comunità.",
         "components": [110]
-      }
-    }
       }
     },
     {
@@ -154,8 +134,6 @@
         "desc": "La documentazione prodotta e pubblicata dal Comune come atti, progetti, bandi, concorsi e modulistica.",
         "components": [111]
       }
-    }
-      }
     },
     {
       "type": "pagina",
@@ -164,8 +142,6 @@
         "label": "Enti e fondazioni",
         "desc": "Il Comune per svolgere le proprie funzioni e rappresentare al meglio gli interessi della comunità è presente in varie associazioni, consorzi, enti e società partecipate.",
         "components": [112]
-      }
-    }
       }
     },
     {
@@ -176,8 +152,6 @@
         "desc": "Composizione di Giunta e Consiglio, nomine di rappresentanti del Comune, Organo di revisione, convocazioni, video sedute e verbali, notizie.",
         "components": [113]
       }
-    }
-      }
     },
     {
       "type": "pagina",
@@ -186,8 +160,6 @@
         "label": "Personale amministrativo",
         "desc": "Rubrica del personale con possibilità di effettuare ricerche per nominativo, ruolo o struttura di appartenenza.",
         "components": [114]
-      }
-    }
       }
     },
     {
@@ -198,8 +170,6 @@
         "desc": "L'elenco dei politici del comune per trovare recapiti, competenze, orari di ricevimento",
         "components": [115]
       }
-    }
-      }
     },
     {
       "type": "pagina",
@@ -208,8 +178,6 @@
         "label": "Uffici",
         "desc": "Gli uffici, o unità organizzative, del comune hanno un ruolo di aggregazione funzionale di compiti.",
         "components": [116]
-      }
-    }
       }
     }
   ]
