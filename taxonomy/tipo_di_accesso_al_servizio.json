@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "type": "tipo_di_accesso_al_servizio",
+      "tid": 20001,
+      "attributes": {
+        "name": "On line",
+        "description": "",
+        "weight": 0
+      }
+    },
+    {
+      "type": "tipo_di_accesso_al_servizio",
+      "tid": 20002,
+      "attributes": {
+        "name": "Per appuntamento",
+        "description": "#26A269",
+        "weight": 0
+      }
+    }
+  ]
+}
