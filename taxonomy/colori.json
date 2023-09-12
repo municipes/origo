@@ -6,7 +6,9 @@
       "attributes": {
         "name": "Arancione scuro",
         "description": "",
-        "weight": 0
+        "weight": 0,
+        "color": "#C64600",
+        "opacity": 0
       }
     },
     {
@@ -15,7 +17,9 @@
       "attributes": {
         "name": "Blu",
         "description": "",
-        "weight": 0
+        "weight": 0,
+        "color": "#1A5FB4",
+        "opacity": 0
       }
     },
     {
@@ -24,7 +28,9 @@
       "attributes": {
         "name": "Grigio scuro",
         "description": "",
-        "weight": 0
+        "weight": 0,
+        "color": "#241F31",
+        "opacity": 0
       }
     },
     {
@@ -33,7 +39,9 @@
       "attributes": {
         "name": "Marrone",
         "description": "",
-        "weight": 0
+        "weight": 0,
+        "color": "#63452C",
+        "opacity": 0
       }
     },
     {
@@ -42,7 +50,9 @@
       "attributes": {
         "name": "Prugna",
         "description": "",
-        "weight": 0
+        "weight": 0,
+        "color": "#613583",
+        "opacity": 0
       }
     },
     {
@@ -50,8 +60,10 @@
       "tid": 435,
       "attributes": {
         "name": "Rosso",
-        "description": "",
-        "weight": 0
+        "description": "#A51D2D",
+        "weight": 0,
+        "color": "",
+        "opacity": 0
       }
     },
     {
@@ -59,8 +71,10 @@
       "tid": 436,
       "attributes": {
         "name": "Verde",
-        "description": "",
-        "weight": 0
+        "description": "#26A269",
+        "weight": 0,
+        "color": "",
+        "opacity": 0
       }
     }
   ]
