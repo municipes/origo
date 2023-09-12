@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "type": "colore",
+      "tid": 430,
+      "attributes": {
+        "name": "Arancione scuro",
+        "description": "",
+        "weight": 0
+      }
+    },
+    {
+      "type": "colore",
+      "tid": 431,
+      "attributes": {
+        "name": "Blu",
+        "description": "",
+        "weight": 0
+      }
+    },
+    {
+      "type": "colore",
+      "tid": 432,
+      "attributes": {
+        "name": "Grigio scuro",
+        "description": "",
+        "weight": 0
+      }
+    },
+    {
+      "type": "colore",
+      "tid": 433,
+      "attributes": {
+        "name": "Marrone",
+        "description": "",
+        "weight": 0
+      }
+    },
+    {
+      "type": "colore",
+      "tid": 434,
+      "attributes": {
+        "name": "Prugna",
+        "description": "",
+        "weight": 0
+      }
+    },
+    {
+      "type": "colore",
+      "tid": 435,
+      "attributes": {
+        "name": "Rosso",
+        "description": "",
+        "weight": 0
+      }
+    },
+    {
+      "type": "colore",
+      "tid": 436,
+      "attributes": {
+        "name": "Verde",
+        "description": "",
+        "weight": 0
+      }
+    }
+  ]
+}
