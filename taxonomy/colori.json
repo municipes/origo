@@ -60,9 +60,9 @@
       "tid": 435,
       "attributes": {
         "name": "Rosso",
-        "description": "#A51D2D",
+        "description": "",
         "weight": 0,
-        "color": "",
+        "color": "#A51D2D",
         "opacity": 0
       }
     },
@@ -71,9 +71,9 @@
       "tid": 436,
       "attributes": {
         "name": "Verde",
-        "description": "#26A269",
+        "description": "",
         "weight": 0,
-        "color": "",
+        "color": "#26A269",
         "opacity": 0
       }
     }
