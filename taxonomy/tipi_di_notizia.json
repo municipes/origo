@@ -1,283 +1,34 @@
 {
-  "jsonapi": {
-    "version": "1.0",
-    "meta": {
-      "links": {
-        "self": {
-          "href": "http:\/\/jsonapi.org\/format\/1.0\/"
-        }
-      }
-    }
-  },
   "data": [
     {
-      "type": "taxonomy_term--tipi_di_notizia",
-      "id": "fed68626-6803-4b70-9cc4-10afee40dd4f",
-      "links": {
-        "self": {
-          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_di_notizia\/fed68626-6803-4b70-9cc4-10afee40dd4f?resourceVersion=id%3A9"
-        }
-      },
+      "type": "tipi_di_notizia",
+      "tid": 9,
       "attributes": {
-        "drupal_internal__tid": 9,
-        "drupal_internal__revision_id": 9,
-        "langcode": "it",
-        "revision_created": "2022-05-10T10:38:15+00:00",
-        "revision_log_message": null,
-        "status": true,
         "name": "Avviso",
-        "description": {
-          "value": "Bandi di gara, avvisi di concorso e tutte le opportunit\u00e0 per cittadini e imprese.",
-          "format": "bootstrap_italia_2",
-          "processed": "Bandi di gara, avvisi di concorso e tutte le opportunit\u00e0 per cittadini e imprese."
-        },
-        "weight": 0,
-        "changed": "2023-06-14T13:06:17+00:00",
-        "default_langcode": true,
-        "revision_translation_affected": true,
-        "path": {
-          "alias": "\/tipi-di-notizia\/avviso",
-          "pid": 9,
-          "langcode": "it"
-        }
-      },
-      "relationships": {
-        "vid": {
-          "data": {
-            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
-            "id": "cf9e2537-b0f2-4ecd-80fe-60fcc8196249",
-            "meta": {
-              "drupal_internal__target_id": "tipi_di_notizia"
-            }
-          },
-          "links": {
-            "related": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_di_notizia\/fed68626-6803-4b70-9cc4-10afee40dd4f\/vid?resourceVersion=id%3A9"
-            },
-            "self": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_di_notizia\/fed68626-6803-4b70-9cc4-10afee40dd4f\/relationships\/vid?resourceVersion=id%3A9"
-            }
-          }
-        },
-        "revision_user": {
-          "data": null,
-          "links": {
-            "related": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_di_notizia\/fed68626-6803-4b70-9cc4-10afee40dd4f\/revision_user?resourceVersion=id%3A9"
-            },
-            "self": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_di_notizia\/fed68626-6803-4b70-9cc4-10afee40dd4f\/relationships\/revision_user?resourceVersion=id%3A9"
-            }
-          }
-        },
-        "parent": {
-          "data": [
-            {
-              "type": "taxonomy_term--tipi_di_notizia",
-              "id": "virtual",
-              "meta": {
-                "links": {
-                  "help": {
-                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
-                    "meta": {
-                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
-                    }
-                  }
-                }
-              }
-            }
-          ],
-          "links": {
-            "related": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_di_notizia\/fed68626-6803-4b70-9cc4-10afee40dd4f\/parent?resourceVersion=id%3A9"
-            },
-            "self": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_di_notizia\/fed68626-6803-4b70-9cc4-10afee40dd4f\/relationships\/parent?resourceVersion=id%3A9"
-            }
-          }
-        }
+        "description": "Bandi di gara, avvisi di concorso e tutte le opportunità per cittadini e imprese.",
+        "plural": "Avvisi",
+        "weight": -1
       }
     },
     {
-      "type": "taxonomy_term--tipi_di_notizia",
-      "id": "81d3bc4e-424c-49ee-b3bc-4a5930165283",
-      "links": {
-        "self": {
-          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_di_notizia\/81d3bc4e-424c-49ee-b3bc-4a5930165283?resourceVersion=id%3A21"
-        }
-      },
+      "type": "tipi_di_notizia",
+      "tid": 21,
       "attributes": {
-        "drupal_internal__tid": 21,
-        "drupal_internal__revision_id": 21,
-        "langcode": "it",
-        "revision_created": "2022-05-10T10:38:15+00:00",
-        "revision_log_message": null,
-        "status": true,
-        "name": "Comunicato stampa",
-        "description": {
-          "value": "Le comunicazioni ufficiali del Sindaco, degli organi politici e degli uffici comunali.",
-          "format": "bootstrap_italia_2",
-          "processed": "Le comunicazioni ufficiali del Sindaco, degli organi politici e degli uffici comunali."
-        },
-        "weight": 0,
-        "changed": "2023-06-14T13:05:17+00:00",
-        "default_langcode": true,
-        "revision_translation_affected": true,
-        "path": {
-          "alias": "\/tipi-di-notizia\/comunicato-stampa",
-          "pid": 21,
-          "langcode": "it"
-        }
-      },
-      "relationships": {
-        "vid": {
-          "data": {
-            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
-            "id": "cf9e2537-b0f2-4ecd-80fe-60fcc8196249",
-            "meta": {
-              "drupal_internal__target_id": "tipi_di_notizia"
-            }
-          },
-          "links": {
-            "related": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_di_notizia\/81d3bc4e-424c-49ee-b3bc-4a5930165283\/vid?resourceVersion=id%3A21"
-            },
-            "self": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_di_notizia\/81d3bc4e-424c-49ee-b3bc-4a5930165283\/relationships\/vid?resourceVersion=id%3A21"
-            }
-          }
-        },
-        "revision_user": {
-          "data": null,
-          "links": {
-            "related": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_di_notizia\/81d3bc4e-424c-49ee-b3bc-4a5930165283\/revision_user?resourceVersion=id%3A21"
-            },
-            "self": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_di_notizia\/81d3bc4e-424c-49ee-b3bc-4a5930165283\/relationships\/revision_user?resourceVersion=id%3A21"
-            }
-          }
-        },
-        "parent": {
-          "data": [
-            {
-              "type": "taxonomy_term--tipi_di_notizia",
-              "id": "virtual",
-              "meta": {
-                "links": {
-                  "help": {
-                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
-                    "meta": {
-                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
-                    }
-                  }
-                }
-              }
-            }
-          ],
-          "links": {
-            "related": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_di_notizia\/81d3bc4e-424c-49ee-b3bc-4a5930165283\/parent?resourceVersion=id%3A21"
-            },
-            "self": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_di_notizia\/81d3bc4e-424c-49ee-b3bc-4a5930165283\/relationships\/parent?resourceVersion=id%3A21"
-            }
-          }
-        }
+        "name": "Comunicato (stampa)",
+        "description": "Le comunicazioni ufficiali del Sindaco, degli organi politici e degli uffici comunali.",
+        "plural": "Comunicati",
+        "weight": 0
       }
     },
     {
-      "type": "taxonomy_term--tipi_di_notizia",
-      "id": "3a17cf91-0d4f-45fa-b9a0-2c3c3a054d63",
-      "links": {
-        "self": {
-          "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_di_notizia\/3a17cf91-0d4f-45fa-b9a0-2c3c3a054d63?resourceVersion=id%3A32"
-        }
-      },
+      "type": "tipi_di_notizia",
+      "tid": 32,
       "attributes": {
-        "drupal_internal__tid": 32,
-        "drupal_internal__revision_id": 32,
-        "langcode": "it",
-        "revision_created": "2022-05-10T10:38:15+00:00",
-        "revision_log_message": null,
-        "status": true,
         "name": "Notizia",
-        "description": {
-          "value": "Gli ultimi aggiornamenti sugli avvenimenti e la vita culturale nel Comune.",
-          "format": "bootstrap_italia_2",
-          "processed": "Gli ultimi aggiornamenti sugli avvenimenti e la vita culturale nel Comune."
-        },
-        "weight": 0,
-        "changed": "2023-06-14T13:07:34+00:00",
-        "default_langcode": true,
-        "revision_translation_affected": true,
-        "path": {
-          "alias": "\/tipi-di-notizia\/notizia",
-          "pid": 32,
-          "langcode": "it"
-        }
-      },
-      "relationships": {
-        "vid": {
-          "data": {
-            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
-            "id": "cf9e2537-b0f2-4ecd-80fe-60fcc8196249",
-            "meta": {
-              "drupal_internal__target_id": "tipi_di_notizia"
-            }
-          },
-          "links": {
-            "related": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_di_notizia\/3a17cf91-0d4f-45fa-b9a0-2c3c3a054d63\/vid?resourceVersion=id%3A32"
-            },
-            "self": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_di_notizia\/3a17cf91-0d4f-45fa-b9a0-2c3c3a054d63\/relationships\/vid?resourceVersion=id%3A32"
-            }
-          }
-        },
-        "revision_user": {
-          "data": null,
-          "links": {
-            "related": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_di_notizia\/3a17cf91-0d4f-45fa-b9a0-2c3c3a054d63\/revision_user?resourceVersion=id%3A32"
-            },
-            "self": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_di_notizia\/3a17cf91-0d4f-45fa-b9a0-2c3c3a054d63\/relationships\/revision_user?resourceVersion=id%3A32"
-            }
-          }
-        },
-        "parent": {
-          "data": [
-            {
-              "type": "taxonomy_term--tipi_di_notizia",
-              "id": "virtual",
-              "meta": {
-                "links": {
-                  "help": {
-                    "href": "https:\/\/www.drupal.org\/docs\/8\/modules\/json-api\/core-concepts#virtual",
-                    "meta": {
-                      "about": "Usage and meaning of the \u0027virtual\u0027 resource identifier."
-                    }
-                  }
-                }
-              }
-            }
-          ],
-          "links": {
-            "related": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_di_notizia\/3a17cf91-0d4f-45fa-b9a0-2c3c3a054d63\/parent?resourceVersion=id%3A32"
-            },
-            "self": {
-              "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_di_notizia\/3a17cf91-0d4f-45fa-b9a0-2c3c3a054d63\/relationships\/parent?resourceVersion=id%3A32"
-            }
-          }
-        }
+        "description": "Gli ultimi aggiornamenti sugli avvenimenti e la vita culturale nel Comune.",
+        "plural": "Notizie",
+        "weight": 1
       }
     }
-  ],
-  "links": {
-    "self": {
-      "href": "https:\/\/comune-agid.ddev.site\/jsonapi\/taxonomy_term\/tipi_di_notizia"
-    }
-  }
+  ]
 }
