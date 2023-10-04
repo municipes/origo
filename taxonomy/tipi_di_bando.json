@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "type": "tipi_di_bando",
+      "tid": 1001,
+      "attributes": {
+        "name": "Avvisi gare-appalti aggiudicati",
+        "description": "",
+        "weight": -1
+      }
+    },
+    {
+      "type": "tipi_di_bando",
+      "tid": 1002,
+      "attributes": {
+        "name": "Bando",
+        "description": "",
+        "weight": 0
+      }
+    },
+    {
+      "type": "tipi_di_bando",
+      "tid": 1003,
+      "attributes": {
+        "name": "Concorso",
+        "description": "",
+        "weight": 1
+      }
+    }
+  ]
+}
