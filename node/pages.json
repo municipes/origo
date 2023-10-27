@@ -132,7 +132,7 @@
       "attributes": {
         "label": "Documenti e dati",
         "desc": "La documentazione prodotta e pubblicata dal Comune come atti, progetti, bandi, concorsi e modulistica.",
-        "components": [111]
+        "components": [111, 118]
       }
     },
     {
