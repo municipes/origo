@@ -16,6 +16,6 @@
     {"type": "settings","id": 14, "revision_id": 14, "uuid": "dcc92475-3d16-48f5-86d6-36e824cbc9a2", "attributes": {"full_width": "0", "enable_container": "0", "color": "", "opacity": "0", "parent_id": "115", "parent_type": "paragraph", "parent_field_name": "field_settings"}},
     {"type": "settings","id": 15, "revision_id": 15, "uuid": "e301c2d3-d049-46ec-8b3d-acb7cba071a4", "attributes": {"full_width": "0", "enable_container": "0", "color": "", "opacity": "0", "parent_id": "116", "parent_type": "paragraph", "parent_field_name": "field_settings"}},
     {"type": "settings","id": 16, "revision_id": 16, "uuid": "308c0eaf-029a-4ed1-b2d8-7d0943f9970d", "attributes": {"full_width": "0", "enable_container": "0", "color": "", "opacity": "0", "parent_id": "117", "parent_type": "paragraph", "parent_field_name": "field_settings"}},
-    {"type": "settings","id": 17, "revision_id": 17, "uuid": "bd97600b-2dd3-43c6-87a5-fa235f97491c", "attributes": {"full_width": "0", "enable_container": "0", "color": "#E6ECF2", "opacity": "1", "parent_id": "118", "parent_type": "paragraph", "parent_field_name": "field_settings"}}
+    {"type": "settings","id": 17, "revision_id": 17, "uuid": "7cf049cc-9f98-4ba7-9685-034a1ebc01e4", "attributes": {"full_width": "0", "enable_container": "0", "color": "#E6ECF2", "opacity": "1", "parent_id": "118", "parent_type": "paragraph", "parent_field_name": "field_settings"}}
   ]
 }
