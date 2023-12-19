@@ -14,7 +14,7 @@
     {"type": "main", "id": 112, "uuid": "ca996b21-a128-4f12-839e-6d18283fef92", "attributes": {"label": "Notizie", "uri": "9", "weight": 0}, "parent": {"plid": 102, "menu_name": "main"}},
     {"type": "main", "id": 113, "uuid": "b1cc90e3-8f37-47c7-9649-afe527b0db88", "attributes": {"label": "Comunicati", "uri": "10", "weight": 2}, "parent": {"plid": 102, "menu_name": "main"}},
     {"type": "main", "id": 114, "uuid": "ce1a964f-158f-427d-bf59-e26490241c89", "attributes": {"label": "Avvisi", "uri": "11", "weight": 4}, "parent": {"plid": 102, "menu_name": "main"}},
-    {"type": "main", "id": 115, "uuid": "7a45b95a-4b9f-4b6b-886a-ca72fbf2c2a8", "attributes": {"label": "Luoghi", "uri": "12", "weight": 0}, "parent": {"plid": 104, "menu_name": "main"}},
-    {"type": "main", "id": 116, "uuid": "d7acc8b9-974c-4cf6-940a-518132c79ac7", "attributes": {"label": "Eventi", "uri": "13", "weight": 2}, "parent": {"plid": 104, "menu_name": "main"}}
+    {"type": "main", "id": 115, "uuid": "7a45b95a-4b9f-4b6b-886a-ca72fbf2c2a8", "attributes": {"label": "Luoghi", "uri": "/vivere-il-comune/luoghi", "weight": 0}, "parent": {"plid": 104, "menu_name": "main"}},
+    {"type": "main", "id": 116, "uuid": "d7acc8b9-974c-4cf6-940a-518132c79ac7", "attributes": {"label": "Eventi", "uri": "/vivere-il-comune/eventi", "weight": 2}, "parent": {"plid": 104, "menu_name": "main"}}
   ]
 }
