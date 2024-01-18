@@ -74,33 +74,6 @@
     },
     {
       "type": "pagina",
-      "id": 9,
-      "attributes": {
-        "label": "Notizie",
-        "desc": "Gli ultimi aggiornamenti sugli avvenimenti e la vita culturale nel Comune.",
-        "components": []
-      }
-    },
-    {
-      "type": "pagina",
-      "id": 10,
-      "attributes": {
-        "label": "Comunicati",
-        "desc": "Le comunicazioni ufficiali del Sindaco, degli organi politici e degli uffici comunali.",
-        "components": []
-      }
-    },
-    {
-      "type": "pagina",
-      "id": 11,
-      "attributes": {
-        "label": "Avvisi",
-        "desc": "Bandi di gara, avvisi di concorso e tutte le opportunità per cittadini e imprese.",
-        "components": []
-      }
-    },
-    {
-      "type": "pagina",
       "id": 12,
       "attributes": {
         "label": "Luoghi",
