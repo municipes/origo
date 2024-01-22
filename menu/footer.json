@@ -1,11 +1,11 @@
 {
   "data": [
-    {"type": "footer", "id": 302, "uuid": "ec721775-24d7-4f36-b6db-9c7fd433e312", "attributes": {"label": "Prenota appuntamento", "uri": "6", "weight": -40}},
-    {"type": "footer", "id": 303, "uuid": "eeed8660-e809-401f-8d80-ff4c6ab031a1", "attributes": {"label": "Segnala disservizio", "uri": "7", "weight": -30}},
-    {"type": "footer", "id": 304, "uuid": "153450f9-d3bd-43fa-801b-50eca816c489", "attributes": {"label": "Richiedi assistenza", "uri": "8", "weight": -20}},
-    {"type": "footer", "id": 305, "uuid": "6ae38c27-3375-419d-8dd3-92f265792603", "attributes": {"label": "Informativa privacy", "uri": "8", "weight": -10}},
-    {"type": "footer", "id": 306, "uuid": "6f3a2924-4413-4b81-8984-8c70df7be8da", "attributes": {"label": "Note legali", "uri": "6", "weight": 0}},
-    {"type": "footer", "id": 307, "uuid": "4dcbf6df-33e3-4681-a592-a2d1eb36dbc7", "attributes": {"label": "Amministrazione trasparente", "uri": "7", "weight": 10}},
-    {"type": "footer", "id": 308, "uuid": "6160fe83-d844-4774-9312-1176de7b43d3", "attributes": {"label": "Dichiarazione di accessibilità", "uri": "7", "weight": 20}}
+    {"type": "footer", "id": 302, "uuid": "ec721775-24d7-4f36-b6db-9c7fd433e312", "attributes": {"label": "Prenota appuntamento", "uri": "entity:node/6", "weight": -40}},
+    {"type": "footer", "id": 303, "uuid": "eeed8660-e809-401f-8d80-ff4c6ab031a1", "attributes": {"label": "Segnala disservizio", "uri": "entity:node/7", "weight": -30}},
+    {"type": "footer", "id": 304, "uuid": "153450f9-d3bd-43fa-801b-50eca816c489", "attributes": {"label": "Richiedi assistenza", "uri": "entity:node/8", "weight": -20}},
+    {"type": "footer", "id": 305, "uuid": "6ae38c27-3375-419d-8dd3-92f265792603", "attributes": {"label": "Informativa privacy", "uri": "entity:node/8", "weight": -10}},
+    {"type": "footer", "id": 306, "uuid": "6f3a2924-4413-4b81-8984-8c70df7be8da", "attributes": {"label": "Note legali", "uri": "entity:node/6", "weight": 0}},
+    {"type": "footer", "id": 307, "uuid": "4dcbf6df-33e3-4681-a592-a2d1eb36dbc7", "attributes": {"label": "Amministrazione trasparente", "uri": "entity:node/7", "weight": 10}},
+    {"type": "footer", "id": 308, "uuid": "6160fe83-d844-4774-9312-1176de7b43d3", "attributes": {"label": "Dichiarazione di accessibilità", "uri": "entity:node/7", "weight": 20}}
   ]
 }
