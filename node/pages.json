@@ -74,24 +74,6 @@
     },
     {
       "type": "pagina",
-      "id": 12,
-      "attributes": {
-        "label": "Luoghi",
-        "desc": "Biblioteche e musei, parchi e impianti sportivi, farmacie, scuole dell’infanzia, sedi per la celebrazione di matrimoni, piattaforme ecologiche, rete fognaria e idrica.",
-        "components": []
-      }
-    },
-    {
-      "type": "pagina",
-      "id": 13,
-      "attributes": {
-        "label": "Eventi",
-        "desc": "Calendario delle manifestazioni di interesse culturale, turistico e sportivo",
-        "components": []
-      }
-    },
-    {
-      "type": "pagina",
       "id": 14,
       "attributes": {
         "label": "Aree amministrative",
