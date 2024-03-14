@@ -15,7 +15,16 @@
       "attributes": {
         "name": "Per appuntamento",
         "description": "#26A269",
-        "weight": 0
+        "weight": 1
+      }
+    },
+    {
+      "type": "tipo_di_accesso_al_servizio",
+      "tid": 20003,
+      "attributes": {
+        "name": "generico",
+        "description": "#26A269",
+        "weight": 2
       }
     }
   ]
